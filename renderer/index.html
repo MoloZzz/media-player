@@ -1,0 +1,28 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>Media Player</title>
+    <link rel="stylesheet" href="style.css">
+</head>
+<body>
+    <div class="player">
+        <video id="media" controls>
+            <source src="" type="video/mp4">
+        </video>
+        <div class="controls">
+            <button id="playPause">Play/Pause</button>
+            <button id="stop">Stop</button>
+            <button id="backward">⏮</button>
+            <button id="forward">⏭</button>
+            <input type="file" id="fileInput" accept="video/*" style="display: none;">
+            <button id="loadVideo">Load Video</button>
+            <input type="range" id="seekBar" min="0" value="0">
+            <span id="timeDisplay">00:00 / 00:00</span>
+        </div>
+        
+    </div>
+    <script src="script.js"></script>
+</body>
+</html>
