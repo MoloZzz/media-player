@@ -13,7 +13,7 @@ app.on('ready', () => {
             nodeIntegration: true,
         }
     });
-    mainWindow.loadFile('renderer/index.html');
+    mainWindow.loadFile('renderer/view/index.html');
 });
 
 app.on('window-all-closed', () => {

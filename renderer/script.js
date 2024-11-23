@@ -1,5 +1,5 @@
-const logEvent = require('./logger');
-const { playPauseMedia, stopMedia, seekMedia, formatTime } = require('./mediaControls');
+const logEvent = require('./logging/logger');
+const { playPauseMedia, stopMedia, seekMedia, formatTime } = require('./controllers');
 
 window.addEventListener('DOMContentLoaded', () => {
     const media = document.getElementById('media');
