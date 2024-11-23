@@ -9,7 +9,7 @@ app.on('ready', () => {
         height: 600,
         webPreferences: {
             preload: path.join(__dirname, 'renderer', 'script.js'),
-            contextIsolation: false,
+            contextIsolation: true,
             nodeIntegration: true,
         }
     });

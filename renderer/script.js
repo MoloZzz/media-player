@@ -1,3 +1,6 @@
+const logEvent = require('./logger');
+const { playPauseMedia, stopMedia, seekMedia, formatTime } = require('./mediaControls');
+
 window.addEventListener('DOMContentLoaded', () => {
     const media = document.getElementById('media');
     const playPauseButton = document.getElementById('playPause');
@@ -9,58 +12,49 @@ window.addEventListener('DOMContentLoaded', () => {
     const fileInput = document.getElementById('fileInput');
     const loadVideoButton = document.getElementById('loadVideo');
 
-    // Кнопка завантаження відео
     loadVideoButton.addEventListener('click', () => {
-        fileInput.click(); // Імітуємо натискання на прихований input
+        logEvent('loadVideoButton clicked');
+        fileInput.click();
     });
 
     fileInput.addEventListener('change', () => {
         const file = fileInput.files[0];
         if (file) {
-            const fileURL = URL.createObjectURL(file);
-            media.src = fileURL; // Встановлюємо відео як джерело
-            media.load(); // Завантажуємо відео
-            playPauseButton.textContent = 'Play';
-        }
-    });
-
-    // Інші події для управління медіаплеєром
-    playPauseButton.addEventListener('click', () => {
-        if (media.paused) {
-            media.play();
-            playPauseButton.textContent = 'Pause';
+            try {
+                const fileURL = URL.createObjectURL(file);
+                media.src = fileURL;
+                media.load();
+                playPauseButton.textContent = 'Play';
+                logEvent('File loaded successfully', { fileName: file.name });
+            } catch (error) {
+                logEvent('Error loading file', { error: error.message });
+            }
         } else {
-            media.pause();
-            playPauseButton.textContent = 'Play';
+            logEvent('No file selected');
         }
     });
 
-    stopButton.addEventListener('click', () => {
-        media.pause();
-        media.currentTime = 0;
-        playPauseButton.textContent = 'Play';
-    });
+    playPauseButton.addEventListener('click', () => playPauseMedia(media, playPauseButton, logEvent));
 
-    backwardButton.addEventListener('click', () => {
-        media.currentTime -= 10;
-    });
+    stopButton.addEventListener('click', () => stopMedia(media, playPauseButton, logEvent));
 
-    forwardButton.addEventListener('click', () => {
-        media.currentTime += 10;
-    });
+    backwardButton.addEventListener('click', () => seekMedia(media, -5, logEvent));
+
+    forwardButton.addEventListener('click', () => seekMedia(media, 5, logEvent));
 
     media.addEventListener('timeupdate', () => {
-        seekBar.value = (media.currentTime / media.duration) * 100 || 0;
-        const currentMinutes = Math.floor(media.currentTime / 60);
-        const currentSeconds = Math.floor(media.currentTime % 60);
-        const totalMinutes = Math.floor(media.duration / 60);
-        const totalSeconds = Math.floor(media.duration % 60);
-
-        timeDisplay.textContent = 
-            `${currentMinutes}:${currentSeconds.toString().padStart(2, '0')} / ${totalMinutes}:${totalSeconds.toString().padStart(2, '0')}`;
+        if (media.duration) {
+            seekBar.value = (media.currentTime / media.duration) * 100;
+        } else {
+            seekBar.value = 0;
+        }
+        timeDisplay.textContent = `${formatTime(media.currentTime)} / ${formatTime(media.duration || 0)}`;
+        logEvent('Time updated', { currentTime: media.currentTime });
     });
 
     seekBar.addEventListener('input', () => {
-        media.currentTime = (seekBar.value / 100) * media.duration;
+        const newTime = (seekBar.value / 100) * media.duration;
+        media.currentTime = newTime;
+        logEvent('Seek bar adjusted', { newTime });
     });
 });
