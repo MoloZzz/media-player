@@ -7,22 +7,38 @@
     <link rel="stylesheet" href="style.css">
 </head>
 <body>
-    <div class="player">
-        <video id="media">
-            <source src="" type="video/mp4">
-        </video>
-        <img id="image" src='../static/song-avatar.jpg'  style="display: none; width: 100%;"></img>
-        <div class="controls">
-            <button id="playPause">Грати/Пауза</button>
-            <button id="stop">Зупинити</button>
-            <button id="backward">⏮</button>
-            <button id="forward">⏭</button>
-            <input type="file" id="fileInput" accept="video/*" style="display: none;">
-            <button id="loadVideo">Завантажити</button>
-            <input type="range" id="seekBar" min="0" value="0">
-            <span id="timeDisplay">00:00 / 00:00</span>
+    <div class="tabs">
+        <button class="tab-button active" data-tab="local">Локальні файли</button>
+        <button class="tab-button" data-tab="stream">Потокове медіа</button>
+    </div>
+    
+    <div class="tab-content active" id="local">
+        <div class="player">
+            <video id="media">
+                <source src="" type="video/mp4">
+            </video>
+            <img id="image" src="../static/song-avatar.jpg" style="display: none; width: 100%;">
+            <div class="controls">
+                <button id="playPause">Грати/Пауза</button>
+                <button id="stop">Зупинити</button>
+                <button id="backward">⏮</button>
+                <button id="forward">⏭</button>
+                <input type="file" id="fileInput" accept="video/*" style="display: none;">
+                <button id="loadVideo">Завантажити</button>
+                <input type="range" id="seekBar" min="0" value="0">
+                <span id="timeDisplay">00:00 / 00:00</span>
+            </div>
         </div>
-        
+    </div>
+
+    <div class="tab-content" id="stream">
+        <div class="streaming-player">
+            <label for="streamURL">Введіть URL потоку:</label>
+            <input type="text" id="streamURL" placeholder="https://">
+            <button id="loadStream">Завантажити потік</button>
+            <div id="youtubePlayer" style="display: none;"></div>
+            <video id="streamMedia" controls style="width: 100%; display: none;"></video>
+        </div>
     </div>
     <script src="script.js"></script>
 </body>

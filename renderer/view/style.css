@@ -7,23 +7,35 @@ body {
     align-items: center;
     height: 100vh;
     margin: 0;
+    overflow: hidden; /* Прибираємо скрол */
 }
 
 .player {
-    width: 80%;
+    width: 90%; /* Розширення плеєра */
+    max-width: 1200px; /* Максимальна ширина для великих екранів */
+    height: 80%; /* Висота плеєра */
+    display: flex;
+    flex-direction: column;
+    justify-content: space-between; /* Розташування елементів */
 }
 
 video {
+    flex-grow: 1; /* Відео займає доступний простір */
     width: 100%;
+    height: 100%;
     border: 1px solid #ccc;
     border-radius: 8px;
+    object-fit: contain; /* Зберігаємо пропорції відео */
+    background-color: black;
 }
 
 .controls {
-    margin-top: 10px;
     display: flex;
     align-items: center;
     justify-content: space-between;
+    padding: 10px;
+    background-color: #333;
+    border-radius: 0 0 8px 8px; /* Згладження тільки нижніх кутів */
 }
 
 button {
@@ -43,13 +55,14 @@ button:hover {
 #seekBar {
     flex-grow: 1;
     margin: 0 10px;
+    cursor: pointer;
 }
 
 #loadVideo {
     background-color: #28a745;
     border: none;
     color: white;
-    padding: 10px;
+    padding: 8px;
     margin: 5px;
     border-radius: 5px;
     cursor: pointer;
@@ -57,4 +70,107 @@ button:hover {
 
 #loadVideo:hover {
     background-color: #218838;
+}
+
+
+/* Вкладки (закріплені зверху) */
+.tabs {
+    display: flex;
+    justify-content: flex-start;
+    background-color: #f9f9f9;
+    border-bottom: 1px solid #ccc;
+    padding: 5px; /* Менший відступ */
+    position: fixed;
+    top: 0;
+    width: 100%;
+    z-index: 1000;
+}
+
+/* Відступ для основного контенту */
+.player {
+    margin-top: 50px; /* Відступ під висоту вкладок */
+    display: flex;
+    flex-direction: column;
+    height: calc(100vh - 50px); /* Забираємо висоту вкладок */
+}
+
+/* Відео в центрі */
+video {
+    flex-grow: 1; /* Відео займає доступну висоту */
+    width: 100%;
+    border: 1px solid #ccc;
+    border-radius: 8px;
+    object-fit: contain; /* Зберігаємо пропорції відео */
+}
+
+/* Панель управління */
+.controls {
+    display: flex;
+    align-items: center;
+    justify-content: space-between;
+    padding: 10px;
+    background-color: #333;
+}
+
+/* Кнопки управління */
+button {
+    background: #007bff;
+    border: none;
+    color: white;
+    padding: 8px;
+    margin: 5px;
+    border-radius: 5px;
+    cursor: pointer;
+}
+
+button:hover {
+    background: #0056b3;
+}
+
+/* Адаптивний прогрес-бар */
+#seekBar {
+    flex-grow: 1;
+    margin: 0 10px;
+}
+
+#loadVideo {
+    background-color: #28a745;
+    border: none;
+    color: white;
+    padding: 8px;
+    margin: 5px;
+    border-radius: 5px;
+    cursor: pointer;
+}
+
+#loadVideo:hover {
+    background-color: #218838;
+}
+
+/* Активні вкладки */
+.tab-button {
+    padding: 3px 10px; /* Вужчі вкладки */
+    margin-right: 10px;
+    cursor: pointer;
+    background-color: #e0e0e0;
+    border: none;
+    border-radius: 3px;
+    font-size: 14px;
+    color: #333;
+}
+
+.tab-button.active {
+    background-color: #ddd;
+    font-weight: bold;
+    border-bottom: 2px solid #007BFF;
+    color: #007BFF;
+}
+
+.tab-content {
+    display: none;
+    padding: 20px;
+}
+
+.tab-content.active {
+    display: block;
 }

@@ -12,7 +12,50 @@ window.addEventListener('DOMContentLoaded', () => {
     const fileInput = document.getElementById('fileInput');
     const loadVideoButton = document.getElementById('loadVideo');
     const image = document.getElementById('image');
-    
+    const tabButtons = document.querySelectorAll('.tab-button');
+    const tabContents = document.querySelectorAll('.tab-content');
+
+    tabButtons.forEach((button) => {
+        button.addEventListener('click', () => {
+            const targetTab = button.getAttribute('data-tab');
+            tabButtons.forEach((btn) => btn.classList.remove('active'));
+            tabContents.forEach((content) => content.classList.remove('active'));
+
+            button.classList.add('active');
+            document.getElementById(targetTab).classList.add('active');
+        });
+    });
+
+    document.getElementById('loadStream').addEventListener('click', () => {
+        const streamURL = document.getElementById('streamURL').value.trim();
+        const youtubeRegex = /(?:youtube\.com\/.*v=|youtu\.be\/)([^&?/\s]+)/;
+
+        const youtubePlayer = document.getElementById('youtubePlayer');
+        const streamMedia = document.getElementById('streamMedia');
+
+        if (youtubeRegex.test(streamURL)) {
+            const videoId = streamURL.match(youtubeRegex)[1];
+
+            youtubePlayer.innerHTML = `<iframe width="100%" height="390" 
+                src="https://www.youtube.com/embed/${videoId}" 
+                frameborder="0" allowfullscreen></iframe>`;
+            youtubePlayer.style.display = 'block';
+            streamMedia.style.display = 'none';
+        } else if (streamURL.endsWith('.m3u8')) {
+            if (Hls.isSupported()) {
+                const hls = new Hls();
+                hls.loadSource(streamURL);
+                hls.attachMedia(streamMedia);
+                streamMedia.style.display = 'block';
+                youtubePlayer.style.display = 'none';
+            } else {
+                alert('Ваш браузер не підтримує HLS.');
+            }
+        } else {
+            alert('Будь ласка, введіть дійсний URL потоку.');
+        }
+    });
+
     loadVideoButton.addEventListener('click', () => {
         logEvent('loadVideoButton clicked');
         fileInput.click();
