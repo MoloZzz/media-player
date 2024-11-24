@@ -5,10 +5,10 @@ let mainWindow;
 
 app.on('ready', () => {
     mainWindow = new BrowserWindow({
-        width: 800,
+        width: 900,
         height: 600,
         webPreferences: {
-            preload: path.join(__dirname, 'renderer', 'script.js'),
+            preload: path.join(__dirname, 'renderer', 'main.js'),
             contextIsolation: true,
             nodeIntegration: true,
         }

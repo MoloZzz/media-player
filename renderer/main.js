@@ -11,7 +11,8 @@ window.addEventListener('DOMContentLoaded', () => {
     const timeDisplay = document.getElementById('timeDisplay');
     const fileInput = document.getElementById('fileInput');
     const loadVideoButton = document.getElementById('loadVideo');
-
+    const image = document.getElementById('image');
+    
     loadVideoButton.addEventListener('click', () => {
         logEvent('loadVideoButton clicked');
         fileInput.click();
@@ -20,12 +21,33 @@ window.addEventListener('DOMContentLoaded', () => {
     fileInput.addEventListener('change', () => {
         const file = fileInput.files[0];
         if (file) {
+            const extension = file.name.split('.').pop().toLowerCase();
+            const unsupportedFormats = ['avi'];
+            const audioFormats = ['mp3', 'wav', 'ogg', 'flac', 'aac'];
+            if (unsupportedFormats.includes(extension)) {
+                alert('AVI files are not supported. Please select a different format.');
+                fileInput.value = '';
+                return;
+            }
+    
             try {
-                const fileURL = URL.createObjectURL(file);
-                media.src = fileURL;
-                media.load();
-                playPauseButton.textContent = 'Play';
-                logEvent('File loaded successfully', { fileName: file.name });
+                if(audioFormats.includes(extension)){
+                    const fileURL = URL.createObjectURL(file);
+                    media.src = fileURL;
+                    media.load();
+                    image.style.display = 'block';
+                    media.style.display = 'none';
+                    playPauseButton.textContent = 'Грати';
+                    logEvent('File loaded successfully', { fileName: file.name });
+                }else{
+                    const fileURL = URL.createObjectURL(file);
+                    media.src = fileURL;
+                    media.load();
+                    image.style.display = 'none';
+                    media.style.display = 'block';
+                    playPauseButton.textContent = 'Грати';
+                    logEvent('File loaded successfully', { fileName: file.name });
+                }
             } catch (error) {
                 logEvent('Error loading file', { error: error.message });
             }

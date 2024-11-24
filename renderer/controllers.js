@@ -2,7 +2,7 @@ function playPauseMedia(media, playPauseButton, logEvent) {
     if (media.paused || media.ended) {
         media.play()
             .then(() => {
-                playPauseButton.textContent = 'Pause';
+                playPauseButton.textContent = 'Пауза';
                 logEvent('Media playback started');
             })
             .catch((error) => {
@@ -10,7 +10,7 @@ function playPauseMedia(media, playPauseButton, logEvent) {
             });
     } else {
         media.pause();
-        playPauseButton.textContent = 'Play';
+        playPauseButton.textContent = 'Грати';
         logEvent('Media playback paused');
     }
 }
@@ -18,7 +18,7 @@ function playPauseMedia(media, playPauseButton, logEvent) {
 function stopMedia(media, playPauseButton, logEvent) {
     media.pause();
     media.currentTime = 0;
-    playPauseButton.textContent = 'Play';
+    playPauseButton.textContent = 'Грати';
     logEvent('Media playback stopped');
 }
 

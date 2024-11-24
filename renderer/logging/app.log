@@ -715,3 +715,1971 @@
 [2024-11-23T23:39:36.418Z] Event: Time updated | Details: {"currentTime":2.037851}
 [2024-11-23T23:39:59.574Z] Event: loadVideoButton clicked 
 [2024-11-23T23:40:21.868Z] Event: loadVideoButton clicked 
+[2024-11-23T23:43:24.768Z] Event: loadVideoButton clicked 
+[2024-11-23T23:43:26.675Z] Event: File loaded successfully | Details: {"fileName":"дно.avi"}
+[2024-11-23T23:43:26.676Z] Event: Time updated | Details: {"currentTime":0}
+[2024-11-23T23:43:28.135Z] Event: Error playing media | Details: {"error":"The element has no supported sources."}
+[2024-11-23T23:43:28.927Z] Event: loadVideoButton clicked 
+[2024-11-23T23:43:30.490Z] Event: Time updated | Details: {"currentTime":0}
+[2024-11-23T23:43:30.490Z] Event: File loaded successfully | Details: {"fileName":"VID00005.mp4"}
+[2024-11-23T23:44:40.780Z] Event: loadVideoButton clicked 
+[2024-11-23T23:45:07.318Z] Event: loadVideoButton clicked 
+[2024-11-23T23:45:10.770Z] Event: File loaded successfully | Details: {"fileName":"Ogryzek Glory (Slowed).mp3"}
+[2024-11-23T23:45:10.771Z] Event: Time updated | Details: {"currentTime":0}
+[2024-11-23T23:45:12.327Z] Event: Media playback started 
+[2024-11-23T23:45:12.591Z] Event: Time updated | Details: {"currentTime":0.113498}
+[2024-11-23T23:45:12.862Z] Event: Time updated | Details: {"currentTime":0.382468}
+[2024-11-23T23:45:13.126Z] Event: Time updated | Details: {"currentTime":0.64213}
+[2024-11-23T23:45:13.388Z] Event: Time updated | Details: {"currentTime":0.911384}
+[2024-11-23T23:45:13.654Z] Event: Time updated | Details: {"currentTime":1.172047}
+[2024-11-23T23:45:13.923Z] Event: Time updated | Details: {"currentTime":1.440552}
+[2024-11-23T23:45:14.186Z] Event: Time updated | Details: {"currentTime":1.698814}
+[2024-11-23T23:45:14.456Z] Event: Time updated | Details: {"currentTime":1.975561}
+[2024-11-23T23:45:14.726Z] Event: Time updated | Details: {"currentTime":2.244502}
+[2024-11-23T23:45:14.982Z] Event: Time updated | Details: {"currentTime":2.495234}
+[2024-11-23T23:45:15.256Z] Event: Time updated | Details: {"currentTime":2.776748}
+[2024-11-23T23:45:15.517Z] Event: Time updated | Details: {"currentTime":3.032296}
+[2024-11-23T23:45:15.786Z] Event: Time updated | Details: {"currentTime":3.300957}
+[2024-11-23T23:45:16.046Z] Event: Time updated | Details: {"currentTime":3.567719}
+[2024-11-23T23:45:16.313Z] Event: Time updated | Details: {"currentTime":3.829918}
+[2024-11-23T23:45:16.576Z] Event: Time updated | Details: {"currentTime":4.088584}
+[2024-11-23T23:45:16.844Z] Event: Time updated | Details: {"currentTime":4.366906}
+[2024-11-23T23:45:17.106Z] Event: Time updated | Details: {"currentTime":4.624762}
+[2024-11-23T23:45:17.375Z] Event: Time updated | Details: {"currentTime":4.888401}
+[2024-11-23T23:45:17.647Z] Event: Time updated | Details: {"currentTime":5.158571}
+[2024-11-23T23:45:17.911Z] Event: Time updated | Details: {"currentTime":5.430453}
+[2024-11-23T23:45:18.176Z] Event: Time updated | Details: {"currentTime":5.690576}
+[2024-11-23T23:45:18.436Z] Event: Time updated | Details: {"currentTime":5.957848}
+[2024-11-23T23:45:18.706Z] Event: Time updated | Details: {"currentTime":6.226316}
+[2024-11-23T23:45:18.976Z] Event: Time updated | Details: {"currentTime":6.491878}
+[2024-11-23T23:45:19.236Z] Event: Time updated | Details: {"currentTime":6.759303}
+[2024-11-23T23:45:19.506Z] Event: Time updated | Details: {"currentTime":7.027434}
+[2024-11-23T23:45:19.766Z] Event: Time updated | Details: {"currentTime":7.283012}
+[2024-11-23T23:45:20.036Z] Event: Time updated | Details: {"currentTime":7.548556}
+[2024-11-23T23:45:20.296Z] Event: Time updated | Details: {"currentTime":7.815595}
+[2024-11-23T23:45:20.566Z] Event: Time updated | Details: {"currentTime":8.084375}
+[2024-11-23T23:45:20.826Z] Event: Time updated | Details: {"currentTime":8.339928}
+[2024-11-23T23:45:21.096Z] Event: Time updated | Details: {"currentTime":8.616688}
+[2024-11-23T23:45:21.366Z] Event: Time updated | Details: {"currentTime":8.885069}
+[2024-11-23T23:45:21.626Z] Event: Time updated | Details: {"currentTime":9.140455}
+[2024-11-23T23:45:21.896Z] Event: Time updated | Details: {"currentTime":9.417762}
+[2024-11-23T23:45:22.159Z] Event: Time updated | Details: {"currentTime":9.679586}
+[2024-11-23T23:45:22.426Z] Event: Time updated | Details: {"currentTime":9.941618}
+[2024-11-23T23:45:22.686Z] Event: Time updated | Details: {"currentTime":10.20865}
+[2024-11-23T23:45:22.956Z] Event: Time updated | Details: {"currentTime":10.473909}
+[2024-11-23T23:45:23.226Z] Event: Time updated | Details: {"currentTime":10.742946}
+[2024-11-23T23:45:23.496Z] Event: Time updated | Details: {"currentTime":11.008457}
+[2024-11-23T23:45:23.756Z] Event: Time updated | Details: {"currentTime":11.275171}
+[2024-11-23T23:45:24.016Z] Event: Time updated | Details: {"currentTime":11.530844}
+[2024-11-23T23:45:24.285Z] Event: Time updated | Details: {"currentTime":11.798525}
+[2024-11-23T23:45:24.553Z] Event: Time updated | Details: {"currentTime":12.073409}
+[2024-11-23T23:45:24.813Z] Event: Time updated | Details: {"currentTime":12.328976}
+[2024-11-23T23:45:25.076Z] Event: Time updated | Details: {"currentTime":12.598659}
+[2024-11-23T23:45:25.346Z] Event: Time updated | Details: {"currentTime":12.867665}
+[2024-11-23T23:45:25.616Z] Event: Time updated | Details: {"currentTime":13.132485}
+[2024-11-23T23:45:25.876Z] Event: Time updated | Details: {"currentTime":13.388583}
+[2024-11-23T23:45:26.146Z] Event: Time updated | Details: {"currentTime":13.668771}
+[2024-11-23T23:45:26.404Z] Event: Time updated | Details: {"currentTime":13.921739}
+[2024-11-23T23:45:26.678Z] Event: Time updated | Details: {"currentTime":14.194174}
+[2024-11-23T23:45:26.936Z] Event: Time updated | Details: {"currentTime":14.456375}
+[2024-11-23T23:45:27.206Z] Event: Time updated | Details: {"currentTime":14.725054}
+[2024-11-23T23:45:27.466Z] Event: Time updated | Details: {"currentTime":14.980603}
+[2024-11-23T23:45:27.736Z] Event: Time updated | Details: {"currentTime":15.257401}
+[2024-11-23T23:45:28.006Z] Event: Time updated | Details: {"currentTime":15.52607}
+[2024-11-23T23:45:28.266Z] Event: Time updated | Details: {"currentTime":15.781337}
+[2024-11-23T23:45:28.536Z] Event: Time updated | Details: {"currentTime":16.058305}
+[2024-11-23T23:45:28.805Z] Event: Time updated | Details: {"currentTime":16.326083}
+[2024-11-23T23:45:29.073Z] Event: Time updated | Details: {"currentTime":16.590011}
+[2024-11-23T23:45:29.336Z] Event: Time updated | Details: {"currentTime":16.848121}
+[2024-11-23T23:45:29.592Z] Event: Time updated | Details: {"currentTime":17.11079}
+[2024-11-23T23:45:29.857Z] Event: Time updated | Details: {"currentTime":17.371095}
+[2024-11-23T23:45:30.122Z] Event: Time updated | Details: {"currentTime":17.635161}
+[2024-11-23T23:45:30.390Z] Event: Time updated | Details: {"currentTime":17.910352}
+[2024-11-23T23:45:30.662Z] Event: Time updated | Details: {"currentTime":18.181216}
+[2024-11-23T23:45:30.930Z] Event: Time updated | Details: {"currentTime":18.444401}
+[2024-11-23T23:45:31.186Z] Event: Time updated | Details: {"currentTime":18.707402}
+[2024-11-23T23:45:31.456Z] Event: Time updated | Details: {"currentTime":18.972772}
+[2024-11-23T23:45:31.726Z] Event: Time updated | Details: {"currentTime":19.241359}
+[2024-11-23T23:45:31.981Z] Event: Time updated | Details: {"currentTime":19.503858}
+[2024-11-23T23:45:32.256Z] Event: Time updated | Details: {"currentTime":19.77376}
+[2024-11-23T23:45:32.524Z] Event: Time updated | Details: {"currentTime":20.04004}
+[2024-11-23T23:45:32.782Z] Event: Time updated | Details: {"currentTime":20.305182}
+[2024-11-23T23:45:33.030Z] Event: Media playback paused 
+[2024-11-23T23:45:33.031Z] Event: Time updated | Details: {"currentTime":20.545404}
+[2024-11-23T23:45:33.654Z] Event: loadVideoButton clicked 
+[2024-11-23T23:45:36.308Z] Event: No file selected 
+[2024-11-23T23:47:24.637Z] Event: loadVideoButton clicked 
+[2024-11-23T23:48:26.031Z] Event: loadVideoButton clicked 
+[2024-11-23T23:50:11.357Z] Event: loadVideoButton clicked 
+[2024-11-23T23:50:16.077Z] Event: loadVideoButton clicked 
+[2024-11-23T23:50:17.904Z] Event: File loaded successfully | Details: {"fileName":"clideo_editor_bbc3be659c754deeb795f150bf24045c.mp4"}
+[2024-11-23T23:50:17.904Z] Event: Time updated | Details: {"currentTime":0}
+[2024-11-23T23:50:19.102Z] Event: Media playback started 
+[2024-11-23T23:50:19.357Z] Event: Time updated | Details: {"currentTime":0.199501}
+[2024-11-23T23:50:19.631Z] Event: Time updated | Details: {"currentTime":0.471987}
+[2024-11-23T23:50:19.891Z] Event: Time updated | Details: {"currentTime":0.727981}
+[2024-11-23T23:50:20.157Z] Event: Time updated | Details: {"currentTime":0.988859}
+[2024-11-23T23:50:20.421Z] Event: Time updated | Details: {"currentTime":1.26336}
+[2024-11-23T23:50:20.687Z] Event: Time updated | Details: {"currentTime":1.525217}
+[2024-11-23T23:50:20.959Z] Event: Time updated | Details: {"currentTime":1.795606}
+[2024-11-23T23:50:21.227Z] Event: Time updated | Details: {"currentTime":2.058791}
+[2024-11-23T23:50:21.488Z] Event: Time updated | Details: {"currentTime":2.327165}
+[2024-11-23T23:50:21.748Z] Event: Time updated | Details: {"currentTime":2.581832}
+[2024-11-23T23:50:22.021Z] Event: Seek bar adjusted | Details: {"newTime":12.072000000000001}
+[2024-11-23T23:50:22.039Z] Event: Time updated | Details: {"currentTime":12.072}
+[2024-11-23T23:50:22.301Z] Event: Time updated | Details: {"currentTime":12.267049}
+[2024-11-23T23:50:22.560Z] Event: Time updated | Details: {"currentTime":12.533839}
+[2024-11-23T23:50:22.773Z] Event: Seek bar adjusted | Details: {"newTime":4.024}
+[2024-11-23T23:50:22.816Z] Event: Time updated | Details: {"currentTime":4.024}
+[2024-11-23T23:50:23.077Z] Event: Time updated | Details: {"currentTime":4.235578}
+[2024-11-23T23:50:23.341Z] Event: Time updated | Details: {"currentTime":4.498225}
+[2024-11-23T23:50:23.380Z] Event: Seek bar adjusted | Details: {"newTime":18.108}
+[2024-11-23T23:50:23.663Z] Event: Time updated | Details: {"currentTime":18.108}
+[2024-11-23T23:50:23.920Z] Event: Time updated | Details: {"currentTime":18.302267}
+[2024-11-23T23:50:24.004Z] Event: Seek bar adjusted | Details: {"newTime":27.363200000000003}
+[2024-11-23T23:50:24.270Z] Event: Time updated | Details: {"currentTime":27.3632}
+[2024-11-23T23:50:24.540Z] Event: Time updated | Details: {"currentTime":27.580044}
+[2024-11-23T23:50:24.801Z] Event: Time updated | Details: {"currentTime":27.836252}
+[2024-11-23T23:50:25.067Z] Event: Time updated | Details: {"currentTime":28.109579}
+[2024-11-23T23:50:25.329Z] Event: Time updated | Details: {"currentTime":28.367304}
+[2024-11-23T23:50:25.485Z] Event: Seek bar adjusted | Details: {"newTime":35.0088}
+[2024-11-23T23:50:25.753Z] Event: Time updated | Details: {"currentTime":35.0088}
+[2024-11-23T23:50:26.019Z] Event: Time updated | Details: {"currentTime":35.225084}
+[2024-11-23T23:50:26.280Z] Event: Time updated | Details: {"currentTime":35.481297}
+[2024-11-23T23:50:26.545Z] Event: Time updated | Details: {"currentTime":35.753693}
+[2024-11-23T23:50:26.565Z] Event: Media playback paused 
+[2024-11-23T23:50:26.566Z] Event: Time updated | Details: {"currentTime":35.765201}
+[2024-11-23T23:53:33.606Z] Event: loadVideoButton clicked 
+[2024-11-23T23:53:36.101Z] Event: Video file loaded successfully | Details: {"fileName":"VID00013.mp4"}
+[2024-11-23T23:53:36.103Z] Event: Time updated | Details: {"currentTime":0}
+[2024-11-23T23:53:39.613Z] Event: loadVideoButton clicked 
+[2024-11-23T23:53:41.118Z] Event: No file selected 
+[2024-11-23T23:53:41.887Z] Event: Media playback started 
+[2024-11-23T23:53:42.149Z] Event: Time updated | Details: {"currentTime":0.221232}
+[2024-11-23T23:53:42.426Z] Event: Time updated | Details: {"currentTime":0.493734}
+[2024-11-23T23:53:42.683Z] Event: Time updated | Details: {"currentTime":0.747453}
+[2024-11-23T23:53:42.726Z] Event: Seek bar adjusted | Details: {"newTime":8.227120000000001}
+[2024-11-23T23:53:42.954Z] Event: Time updated | Details: {"currentTime":8.227119}
+[2024-11-23T23:53:43.212Z] Event: Time updated | Details: {"currentTime":8.431476}
+[2024-11-23T23:53:43.342Z] Event: Seek bar adjusted | Details: {"newTime":16.454240000000002}
+[2024-11-23T23:53:43.503Z] Event: Time updated | Details: {"currentTime":16.454239}
+[2024-11-23T23:53:43.590Z] Event: Seek bar adjusted | Details: {"newTime":16.08028}
+[2024-11-23T23:53:43.597Z] Event: Seek bar adjusted | Details: {"newTime":15.70632}
+[2024-11-23T23:53:43.620Z] Event: Seek bar adjusted | Details: {"newTime":15.33236}
+[2024-11-23T23:53:43.627Z] Event: Seek bar adjusted | Details: {"newTime":14.958400000000001}
+[2024-11-23T23:53:43.639Z] Event: Seek bar adjusted | Details: {"newTime":14.58444}
+[2024-11-23T23:53:43.677Z] Event: Seek bar adjusted | Details: {"newTime":14.21048}
+[2024-11-23T23:53:43.701Z] Event: Seek bar adjusted | Details: {"newTime":13.83652}
+[2024-11-23T23:53:43.725Z] Event: Seek bar adjusted | Details: {"newTime":13.46256}
+[2024-11-23T23:53:43.745Z] Event: Seek bar adjusted | Details: {"newTime":13.0886}
+[2024-11-23T23:53:43.773Z] Event: Seek bar adjusted | Details: {"newTime":12.714640000000001}
+[2024-11-23T23:53:43.845Z] Event: Seek bar adjusted | Details: {"newTime":12.34068}
+[2024-11-23T23:53:43.869Z] Event: Seek bar adjusted | Details: {"newTime":11.96672}
+[2024-11-23T23:53:43.901Z] Event: Seek bar adjusted | Details: {"newTime":11.59276}
+[2024-11-23T23:53:43.946Z] Event: Seek bar adjusted | Details: {"newTime":11.2188}
+[2024-11-23T23:53:43.953Z] Event: Seek bar adjusted | Details: {"newTime":10.84484}
+[2024-11-23T23:53:43.966Z] Event: Seek bar adjusted | Details: {"newTime":10.470880000000001}
+[2024-11-23T23:53:43.973Z] Event: Time updated | Details: {"currentTime":10.47088}
+[2024-11-23T23:53:43.974Z] Event: Seek bar adjusted | Details: {"newTime":10.09692}
+[2024-11-23T23:53:43.998Z] Event: Seek bar adjusted | Details: {"newTime":9.72296}
+[2024-11-23T23:53:44.005Z] Event: Seek bar adjusted | Details: {"newTime":9.349}
+[2024-11-23T23:53:44.021Z] Event: Seek bar adjusted | Details: {"newTime":8.97504}
+[2024-11-23T23:53:44.266Z] Event: Time updated | Details: {"currentTime":8.97504}
+[2024-11-23T23:53:44.525Z] Event: Time updated | Details: {"currentTime":9.193003}
+[2024-11-23T23:53:44.686Z] Event: Seek bar adjusted | Details: {"newTime":8.601080000000001}
+[2024-11-23T23:53:44.701Z] Event: Seek bar adjusted | Details: {"newTime":8.97504}
+[2024-11-23T23:53:44.721Z] Event: Seek bar adjusted | Details: {"newTime":9.349}
+[2024-11-23T23:53:44.745Z] Event: Seek bar adjusted | Details: {"newTime":9.72296}
+[2024-11-23T23:53:44.752Z] Event: Seek bar adjusted | Details: {"newTime":10.09692}
+[2024-11-23T23:53:44.773Z] Event: Seek bar adjusted | Details: {"newTime":10.470880000000001}
+[2024-11-23T23:53:44.795Z] Event: Time updated | Details: {"currentTime":10.47088}
+[2024-11-23T23:53:44.837Z] Event: Seek bar adjusted | Details: {"newTime":10.84484}
+[2024-11-23T23:53:44.852Z] Event: Time updated | Details: {"currentTime":10.84484}
+[2024-11-23T23:53:44.878Z] Event: Seek bar adjusted | Details: {"newTime":11.2188}
+[2024-11-23T23:53:44.902Z] Event: Time updated | Details: {"currentTime":11.2188}
+[2024-11-23T23:53:44.942Z] Event: Seek bar adjusted | Details: {"newTime":11.59276}
+[2024-11-23T23:53:44.974Z] Event: Seek bar adjusted | Details: {"newTime":11.96672}
+[2024-11-23T23:53:45.035Z] Event: Time updated | Details: {"currentTime":11.96672}
+[2024-11-23T23:53:45.293Z] Event: Time updated | Details: {"currentTime":12.172105}
+[2024-11-23T23:53:45.556Z] Event: Time updated | Details: {"currentTime":12.431887}
+[2024-11-23T23:53:45.821Z] Event: Time updated | Details: {"currentTime":12.69146}
+[2024-11-23T23:53:45.901Z] Event: Seek bar adjusted | Details: {"newTime":14.58444}
+[2024-11-23T23:53:46.013Z] Event: Time updated | Details: {"currentTime":14.58444}
+[2024-11-23T23:53:46.016Z] Event: Seek bar adjusted | Details: {"newTime":14.958400000000001}
+[2024-11-23T23:53:46.035Z] Event: Seek bar adjusted | Details: {"newTime":15.33236}
+[2024-11-23T23:53:46.061Z] Event: Seek bar adjusted | Details: {"newTime":15.70632}
+[2024-11-23T23:53:46.081Z] Event: Seek bar adjusted | Details: {"newTime":16.08028}
+[2024-11-23T23:53:46.181Z] Event: Seek bar adjusted | Details: {"newTime":16.454240000000002}
+[2024-11-23T23:53:46.259Z] Event: Seek bar adjusted | Details: {"newTime":16.828200000000002}
+[2024-11-23T23:53:46.293Z] Event: Seek bar adjusted | Details: {"newTime":17.202160000000003}
+[2024-11-23T23:53:46.328Z] Event: Seek bar adjusted | Details: {"newTime":17.57612}
+[2024-11-23T23:53:46.391Z] Event: Seek bar adjusted | Details: {"newTime":17.95008}
+[2024-11-23T23:53:46.425Z] Event: Seek bar adjusted | Details: {"newTime":18.32404}
+[2024-11-23T23:53:46.493Z] Event: Seek bar adjusted | Details: {"newTime":18.698}
+[2024-11-23T23:53:46.517Z] Event: Seek bar adjusted | Details: {"newTime":19.07196}
+[2024-11-23T23:53:46.550Z] Event: Seek bar adjusted | Details: {"newTime":19.44592}
+[2024-11-23T23:53:46.570Z] Event: Seek bar adjusted | Details: {"newTime":19.81988}
+[2024-11-23T23:53:46.573Z] Event: Seek bar adjusted | Details: {"newTime":20.19384}
+[2024-11-23T23:53:46.589Z] Event: Seek bar adjusted | Details: {"newTime":20.567800000000002}
+[2024-11-23T23:53:46.609Z] Event: Seek bar adjusted | Details: {"newTime":20.941760000000002}
+[2024-11-23T23:53:46.628Z] Event: Time updated | Details: {"currentTime":20.94176}
+[2024-11-23T23:53:46.662Z] Event: Seek bar adjusted | Details: {"newTime":21.31572}
+[2024-11-23T23:53:46.686Z] Event: Time updated | Details: {"currentTime":21.31572}
+[2024-11-23T23:53:46.696Z] Event: Seek bar adjusted | Details: {"newTime":21.68968}
+[2024-11-23T23:53:46.744Z] Event: Time updated | Details: {"currentTime":21.68968}
+[2024-11-23T23:53:46.745Z] Event: Seek bar adjusted | Details: {"newTime":22.06364}
+[2024-11-23T23:53:46.808Z] Event: Time updated | Details: {"currentTime":22.06364}
+[2024-11-23T23:53:47.074Z] Event: Time updated | Details: {"currentTime":22.289883}
+[2024-11-23T23:53:47.206Z] Event: Seek bar adjusted | Details: {"newTime":22.06364}
+[2024-11-23T23:53:47.252Z] Event: Time updated | Details: {"currentTime":22.06364}
+[2024-11-23T23:53:47.261Z] Event: Seek bar adjusted | Details: {"newTime":21.68968}
+[2024-11-23T23:53:47.307Z] Event: Time updated | Details: {"currentTime":21.68968}
+[2024-11-23T23:53:47.328Z] Event: Seek bar adjusted | Details: {"newTime":21.31572}
+[2024-11-23T23:53:47.352Z] Event: Time updated | Details: {"currentTime":21.31572}
+[2024-11-23T23:53:47.356Z] Event: Seek bar adjusted | Details: {"newTime":20.941760000000002}
+[2024-11-23T23:53:47.388Z] Event: Time updated | Details: {"currentTime":20.94176}
+[2024-11-23T23:53:47.391Z] Event: Seek bar adjusted | Details: {"newTime":20.567800000000002}
+[2024-11-23T23:53:47.415Z] Event: Time updated | Details: {"currentTime":20.5678}
+[2024-11-23T23:53:47.494Z] Event: Seek bar adjusted | Details: {"newTime":20.19384}
+[2024-11-23T23:53:47.759Z] Event: Time updated | Details: {"currentTime":20.19384}
+[2024-11-23T23:53:48.024Z] Event: Time updated | Details: {"currentTime":20.410431}
+[2024-11-23T23:53:48.053Z] Event: Seek bar adjusted | Details: {"newTime":20.19384}
+[2024-11-23T23:53:48.085Z] Event: Seek bar adjusted | Details: {"newTime":19.81988}
+[2024-11-23T23:53:48.134Z] Event: Seek bar adjusted | Details: {"newTime":19.44592}
+[2024-11-23T23:53:48.182Z] Event: Seek bar adjusted | Details: {"newTime":19.07196}
+[2024-11-23T23:53:48.210Z] Event: Seek bar adjusted | Details: {"newTime":18.698}
+[2024-11-23T23:53:48.237Z] Event: Seek bar adjusted | Details: {"newTime":18.32404}
+[2024-11-23T23:53:48.277Z] Event: Seek bar adjusted | Details: {"newTime":17.95008}
+[2024-11-23T23:53:48.496Z] Event: Time updated | Details: {"currentTime":17.95008}
+[2024-11-23T23:53:48.758Z] Event: Time updated | Details: {"currentTime":18.160627}
+[2024-11-23T23:53:49.026Z] Event: Time updated | Details: {"currentTime":18.424561}
+[2024-11-23T23:53:49.293Z] Event: Time updated | Details: {"currentTime":18.688056}
+[2024-11-23T23:53:49.566Z] Event: Time updated | Details: {"currentTime":18.955982}
+[2024-11-23T23:53:49.752Z] Event: Seek bar adjusted | Details: {"newTime":17.95008}
+[2024-11-23T23:53:49.759Z] Event: Seek bar adjusted | Details: {"newTime":18.698}
+[2024-11-23T23:53:49.766Z] Event: Seek bar adjusted | Details: {"newTime":19.07196}
+[2024-11-23T23:53:49.773Z] Event: Seek bar adjusted | Details: {"newTime":19.44592}
+[2024-11-23T23:53:49.786Z] Event: Seek bar adjusted | Details: {"newTime":19.81988}
+[2024-11-23T23:53:49.793Z] Event: Seek bar adjusted | Details: {"newTime":20.567800000000002}
+[2024-11-23T23:53:49.800Z] Event: Seek bar adjusted | Details: {"newTime":20.941760000000002}
+[2024-11-23T23:53:49.813Z] Event: Seek bar adjusted | Details: {"newTime":21.68968}
+[2024-11-23T23:53:49.818Z] Event: Seek bar adjusted | Details: {"newTime":22.06364}
+[2024-11-23T23:53:49.821Z] Event: Seek bar adjusted | Details: {"newTime":22.4376}
+[2024-11-23T23:53:49.829Z] Event: Seek bar adjusted | Details: {"newTime":23.18552}
+[2024-11-23T23:53:49.837Z] Event: Seek bar adjusted | Details: {"newTime":23.93344}
+[2024-11-23T23:53:49.854Z] Event: Seek bar adjusted | Details: {"newTime":25.055320000000002}
+[2024-11-23T23:53:49.862Z] Event: Seek bar adjusted | Details: {"newTime":25.80324}
+[2024-11-23T23:53:49.870Z] Event: Seek bar adjusted | Details: {"newTime":26.92512}
+[2024-11-23T23:53:49.877Z] Event: Seek bar adjusted | Details: {"newTime":27.67304}
+[2024-11-23T23:53:49.889Z] Event: Seek bar adjusted | Details: {"newTime":28.42096}
+[2024-11-23T23:53:49.893Z] Event: Seek bar adjusted | Details: {"newTime":29.54284}
+[2024-11-23T23:53:49.901Z] Event: Seek bar adjusted | Details: {"newTime":29.916800000000002}
+[2024-11-23T23:53:49.917Z] Event: Seek bar adjusted | Details: {"newTime":31.03868}
+[2024-11-23T23:53:49.925Z] Event: Seek bar adjusted | Details: {"newTime":31.41264}
+[2024-11-23T23:53:49.971Z] Event: Time updated | Details: {"currentTime":31.41264}
+[2024-11-23T23:53:50.227Z] Event: Time updated | Details: {"currentTime":31.6322}
+[2024-11-23T23:53:50.494Z] Event: Time updated | Details: {"currentTime":31.894727}
+[2024-11-23T23:53:50.761Z] Event: Time updated | Details: {"currentTime":32.157858}
+[2024-11-23T23:53:51.030Z] Event: Time updated | Details: {"currentTime":32.423003}
+[2024-11-23T23:53:51.053Z] Event: Media seeked | Details: {"newTime":37.396}
+[2024-11-23T23:53:51.240Z] Event: Time updated | Details: {"currentTime":37.396}
+[2024-11-23T23:53:51.501Z] Event: Time updated | Details: {"currentTime":37.60926}
+[2024-11-23T23:53:51.581Z] Event: Media seeked | Details: {"newTime":32.632}
+[2024-11-23T23:53:51.653Z] Event: Time updated | Details: {"currentTime":32.631999}
+[2024-11-23T23:53:51.922Z] Event: Time updated | Details: {"currentTime":32.846407}
+[2024-11-23T23:53:52.117Z] Event: Media seeked | Details: {"newTime":28.033868}
+[2024-11-23T23:53:52.315Z] Event: Time updated | Details: {"currentTime":28.033868}
+[2024-11-23T23:53:52.578Z] Event: Time updated | Details: {"currentTime":28.244161}
+[2024-11-23T23:53:52.733Z] Event: Media seeked | Details: {"newTime":23.387681}
+[2024-11-23T23:53:52.822Z] Event: Time updated | Details: {"currentTime":23.387681}
+[2024-11-23T23:53:53.086Z] Event: Time updated | Details: {"currentTime":23.606128}
+[2024-11-23T23:53:53.352Z] Event: Time updated | Details: {"currentTime":23.867938}
+[2024-11-23T23:53:53.622Z] Event: Time updated | Details: {"currentTime":24.1338}
+[2024-11-23T23:53:53.806Z] Event: Media playback paused 
+[2024-11-23T23:53:53.807Z] Event: Time updated | Details: {"currentTime":24.329818}
+[2024-11-23T23:53:54.309Z] Event: Media playback stopped 
+[2024-11-23T23:53:54.318Z] Event: Time updated | Details: {"currentTime":0}
+[2024-11-23T23:53:54.837Z] Event: loadVideoButton clicked 
+[2024-11-23T23:54:01.665Z] Event: Audio file loaded successfully | Details: {"fileName":"Ogryzek Glory (Slowed).mp3"}
+[2024-11-23T23:54:01.667Z] Event: Time updated | Details: {"currentTime":0}
+[2024-11-23T23:54:04.734Z] Event: Error playing media | Details: {"error":"The element has no supported sources."}
+[2024-11-23T23:54:06.158Z] Event: Error playing media | Details: {"error":"The element has no supported sources."}
+[2024-11-23T23:54:06.350Z] Event: Error playing media | Details: {"error":"The element has no supported sources."}
+[2024-11-23T23:54:06.550Z] Event: Error playing media | Details: {"error":"The element has no supported sources."}
+[2024-11-23T23:54:07.838Z] Event: Error playing media | Details: {"error":"The element has no supported sources."}
+[2024-11-23T23:54:08.014Z] Event: Error playing media | Details: {"error":"The element has no supported sources."}
+[2024-11-23T23:54:08.198Z] Event: Error playing media | Details: {"error":"The element has no supported sources."}
+[2024-11-23T23:54:08.414Z] Event: Error playing media | Details: {"error":"The element has no supported sources."}
+[2024-11-23T23:54:08.782Z] Event: Error playing media | Details: {"error":"The element has no supported sources."}
+[2024-11-23T23:54:08.958Z] Event: Error playing media | Details: {"error":"The element has no supported sources."}
+[2024-11-23T23:54:09.134Z] Event: Error playing media | Details: {"error":"The element has no supported sources."}
+[2024-11-23T23:54:09.326Z] Event: Error playing media | Details: {"error":"The element has no supported sources."}
+[2024-11-23T23:54:23.915Z] Event: loadVideoButton clicked 
+[2024-11-23T23:54:27.844Z] Event: File loaded successfully | Details: {"fileName":"Ogryzek Glory (Slowed).mp3"}
+[2024-11-23T23:54:27.845Z] Event: Time updated | Details: {"currentTime":0}
+[2024-11-23T23:54:29.781Z] Event: Media playback started 
+[2024-11-23T23:54:30.050Z] Event: Time updated | Details: {"currentTime":0.119092}
+[2024-11-23T23:54:30.313Z] Event: Time updated | Details: {"currentTime":0.381128}
+[2024-11-23T23:54:30.577Z] Event: Time updated | Details: {"currentTime":0.639852}
+[2024-11-23T23:54:30.844Z] Event: Time updated | Details: {"currentTime":0.914263}
+[2024-11-23T23:54:31.109Z] Event: Time updated | Details: {"currentTime":1.174438}
+[2024-11-23T23:54:31.379Z] Event: Time updated | Details: {"currentTime":1.443234}
+[2024-11-23T23:54:31.639Z] Event: Time updated | Details: {"currentTime":1.699189}
+[2024-11-23T23:54:31.916Z] Event: Time updated | Details: {"currentTime":1.986428}
+[2024-11-23T23:54:32.174Z] Event: Time updated | Details: {"currentTime":2.238649}
+[2024-11-23T23:54:32.449Z] Event: Time updated | Details: {"currentTime":2.509801}
+[2024-11-23T23:54:32.710Z] Event: Time updated | Details: {"currentTime":2.777221}
+[2024-11-23T23:54:32.969Z] Event: Time updated | Details: {"currentTime":3.03194}
+[2024-11-23T23:54:33.240Z] Event: Time updated | Details: {"currentTime":3.301339}
+[2024-11-23T23:54:33.503Z] Event: Time updated | Details: {"currentTime":3.571868}
+[2024-11-23T23:54:33.539Z] Event: Media playback paused 
+[2024-11-23T23:54:33.540Z] Event: Time updated | Details: {"currentTime":3.602689}
+[2024-11-23T23:55:41.354Z] Event: loadVideoButton clicked 
+[2024-11-23T23:55:44.944Z] Event: Audio file loaded successfully | Details: {"fileName":"Ogryzek Glory (Slowed).mp3"}
+[2024-11-23T23:55:44.945Z] Event: Time updated | Details: {"currentTime":0}
+[2024-11-23T23:55:46.819Z] Event: Error playing media | Details: {"error":"The element has no supported sources."}
+[2024-11-23T23:55:48.642Z] Event: Error playing media | Details: {"error":"The element has no supported sources."}
+[2024-11-23T23:55:48.810Z] Event: Error playing media | Details: {"error":"The element has no supported sources."}
+[2024-11-23T23:55:49.017Z] Event: Error playing media | Details: {"error":"The element has no supported sources."}
+[2024-11-23T23:55:49.842Z] Event: Media playback stopped 
+[2024-11-23T23:55:50.634Z] Event: Error playing media | Details: {"error":"The element has no supported sources."}
+[2024-11-23T23:55:51.586Z] Event: loadVideoButton clicked 
+[2024-11-23T23:55:56.562Z] Event: loadVideoButton clicked 
+[2024-11-23T23:55:58.477Z] Event: Video file loaded successfully | Details: {"fileName":"AkkFlaw.mp4"}
+[2024-11-23T23:55:58.479Z] Event: Time updated | Details: {"currentTime":0}
+[2024-11-23T23:55:59.794Z] Event: Media playback started 
+[2024-11-23T23:56:00.059Z] Event: Time updated | Details: {"currentTime":0.200506}
+[2024-11-23T23:56:00.325Z] Event: Time updated | Details: {"currentTime":0.473656}
+[2024-11-23T23:56:00.596Z] Event: Time updated | Details: {"currentTime":0.74298}
+[2024-11-23T23:56:00.856Z] Event: Time updated | Details: {"currentTime":0.998711}
+[2024-11-23T23:56:01.083Z] Event: Seek bar adjusted | Details: {"newTime":7.22666672}
+[2024-11-23T23:56:01.164Z] Event: Time updated | Details: {"currentTime":7.226666}
+[2024-11-23T23:56:01.423Z] Event: Time updated | Details: {"currentTime":7.430596}
+[2024-11-23T23:56:01.658Z] Event: Seek bar adjusted | Details: {"newTime":14.45333344}
+[2024-11-23T23:56:01.862Z] Event: Time updated | Details: {"currentTime":14.453333}
+[2024-11-23T23:56:02.123Z] Event: Time updated | Details: {"currentTime":14.65765}
+[2024-11-23T23:56:02.282Z] Event: Seek bar adjusted | Details: {"newTime":21.68000016}
+[2024-11-23T23:56:02.319Z] Event: Time updated | Details: {"currentTime":21.68}
+[2024-11-23T23:56:02.578Z] Event: Time updated | Details: {"currentTime":21.879303}
+[2024-11-23T23:56:02.786Z] Event: Seek bar adjusted | Details: {"newTime":26.648333529999995}
+[2024-11-23T23:56:02.822Z] Event: Time updated | Details: {"currentTime":26.648333}
+[2024-11-23T23:56:03.075Z] Event: Time updated | Details: {"currentTime":26.844621}
+[2024-11-23T23:56:03.242Z] Event: Seek bar adjusted | Details: {"newTime":33.42333358}
+[2024-11-23T23:56:03.365Z] Event: Time updated | Details: {"currentTime":33.423333}
+[2024-11-23T23:56:03.624Z] Event: Time updated | Details: {"currentTime":33.6282}
+[2024-11-23T23:56:03.882Z] Event: Seek bar adjusted | Details: {"newTime":39.74666696}
+[2024-11-23T23:56:04.084Z] Event: Time updated | Details: {"currentTime":39.746666}
+[2024-11-23T23:56:04.322Z] Event: Seek bar adjusted | Details: {"newTime":19.421666809999998}
+[2024-11-23T23:56:04.518Z] Event: Time updated | Details: {"currentTime":19.421666}
+[2024-11-23T23:56:04.642Z] Event: Seek bar adjusted | Details: {"newTime":1.35500001}
+[2024-11-23T23:56:04.684Z] Event: Time updated | Details: {"currentTime":1.355}
+[2024-11-23T23:56:04.938Z] Event: Time updated | Details: {"currentTime":1.55417}
+[2024-11-23T23:56:05.090Z] Event: Seek bar adjusted | Details: {"newTime":18.970000139999996}
+[2024-11-23T23:56:05.247Z] Event: Time updated | Details: {"currentTime":18.97}
+[2024-11-23T23:56:05.514Z] Event: Time updated | Details: {"currentTime":19.188768}
+[2024-11-23T23:56:05.594Z] Event: Seek bar adjusted | Details: {"newTime":27.55166687}
+[2024-11-23T23:56:05.638Z] Event: Seek bar adjusted | Details: {"newTime":28.003333539999996}
+[2024-11-23T23:56:05.779Z] Event: Time updated | Details: {"currentTime":28.003333}
+[2024-11-23T23:56:05.978Z] Event: Seek bar adjusted | Details: {"newTime":35.68166693}
+[2024-11-23T23:56:06.230Z] Event: Time updated | Details: {"currentTime":35.681666}
+[2024-11-23T23:56:06.485Z] Event: Time updated | Details: {"currentTime":35.887938}
+[2024-11-23T23:56:06.748Z] Event: Time updated | Details: {"currentTime":36.158575}
+[2024-11-23T23:56:06.833Z] Event: Seek bar adjusted | Details: {"newTime":17.61500013}
+[2024-11-23T23:56:06.914Z] Event: Time updated | Details: {"currentTime":17.615}
+[2024-11-23T23:56:07.019Z] Event: Seek bar adjusted | Details: {"newTime":12.19500009}
+[2024-11-23T23:56:07.034Z] Event: Seek bar adjusted | Details: {"newTime":11.743333419999999}
+[2024-11-23T23:56:07.041Z] Event: Seek bar adjusted | Details: {"newTime":11.29166675}
+[2024-11-23T23:56:07.049Z] Event: Seek bar adjusted | Details: {"newTime":10.84000008}
+[2024-11-23T23:56:07.057Z] Event: Seek bar adjusted | Details: {"newTime":10.38833341}
+[2024-11-23T23:56:07.085Z] Event: Seek bar adjusted | Details: {"newTime":9.0333334}
+[2024-11-23T23:56:07.089Z] Event: Seek bar adjusted | Details: {"newTime":8.58166673}
+[2024-11-23T23:56:07.272Z] Event: Time updated | Details: {"currentTime":8.581666}
+[2024-11-23T23:56:07.534Z] Event: Time updated | Details: {"currentTime":8.776949}
+[2024-11-23T23:56:07.798Z] Event: Time updated | Details: {"currentTime":9.0475}
+[2024-11-23T23:56:08.067Z] Event: Time updated | Details: {"currentTime":9.31226}
+[2024-11-23T23:56:08.122Z] Event: Seek bar adjusted | Details: {"newTime":31.165000229999997}
+[2024-11-23T23:56:08.132Z] Event: Time updated | Details: {"currentTime":31.165}
+[2024-11-23T23:56:08.250Z] Event: Seek bar adjusted | Details: {"newTime":31.616666899999995}
+[2024-11-23T23:56:08.258Z] Event: Seek bar adjusted | Details: {"newTime":32.06833356999999}
+[2024-11-23T23:56:08.265Z] Event: Seek bar adjusted | Details: {"newTime":32.520000239999995}
+[2024-11-23T23:56:08.273Z] Event: Seek bar adjusted | Details: {"newTime":32.971666909999996}
+[2024-11-23T23:56:08.281Z] Event: Seek bar adjusted | Details: {"newTime":33.42333358}
+[2024-11-23T23:56:08.301Z] Event: Seek bar adjusted | Details: {"newTime":34.778333589999995}
+[2024-11-23T23:56:08.305Z] Event: Seek bar adjusted | Details: {"newTime":35.23000026}
+[2024-11-23T23:56:08.316Z] Event: Seek bar adjusted | Details: {"newTime":35.68166693}
+[2024-11-23T23:56:08.370Z] Event: Seek bar adjusted | Details: {"newTime":36.1333336}
+[2024-11-23T23:56:08.407Z] Event: Time updated | Details: {"currentTime":36.133333}
+[2024-11-23T23:56:08.671Z] Event: Time updated | Details: {"currentTime":36.348969}
+[2024-11-23T23:56:08.791Z] Event: Seek bar adjusted | Details: {"newTime":36.58500027}
+[2024-11-23T23:56:08.798Z] Event: Seek bar adjusted | Details: {"newTime":36.1333336}
+[2024-11-23T23:56:08.804Z] Event: Seek bar adjusted | Details: {"newTime":35.68166693}
+[2024-11-23T23:56:08.811Z] Event: Seek bar adjusted | Details: {"newTime":34.778333589999995}
+[2024-11-23T23:56:08.837Z] Event: Seek bar adjusted | Details: {"newTime":31.165000229999997}
+[2024-11-23T23:56:08.842Z] Event: Seek bar adjusted | Details: {"newTime":29.81000022}
+[2024-11-23T23:56:08.849Z] Event: Seek bar adjusted | Details: {"newTime":28.003333539999996}
+[2024-11-23T23:56:08.868Z] Event: Seek bar adjusted | Details: {"newTime":24.84166685}
+[2024-11-23T23:56:08.874Z] Event: Seek bar adjusted | Details: {"newTime":23.486666839999998}
+[2024-11-23T23:56:08.901Z] Event: Seek bar adjusted | Details: {"newTime":19.421666809999998}
+[2024-11-23T23:56:08.909Z] Event: Seek bar adjusted | Details: {"newTime":17.61500013}
+[2024-11-23T23:56:08.915Z] Event: Seek bar adjusted | Details: {"newTime":16.260000119999997}
+[2024-11-23T23:56:08.940Z] Event: Seek bar adjusted | Details: {"newTime":11.743333419999999}
+[2024-11-23T23:56:08.946Z] Event: Seek bar adjusted | Details: {"newTime":10.84000008}
+[2024-11-23T23:56:08.954Z] Event: Seek bar adjusted | Details: {"newTime":9.93666674}
+[2024-11-23T23:56:08.961Z] Event: Seek bar adjusted | Details: {"newTime":9.485000069999998}
+[2024-11-23T23:56:09.002Z] Event: Seek bar adjusted | Details: {"newTime":9.0333334}
+[2024-11-23T23:56:09.122Z] Event: Seek bar adjusted | Details: {"newTime":8.58166673}
+[2024-11-23T23:56:09.158Z] Event: Seek bar adjusted | Details: {"newTime":7.22666672}
+[2024-11-23T23:56:09.172Z] Event: Seek bar adjusted | Details: {"newTime":6.775000049999999}
+[2024-11-23T23:56:09.194Z] Event: Seek bar adjusted | Details: {"newTime":5.8716667099999995}
+[2024-11-23T23:56:09.215Z] Event: Time updated | Details: {"currentTime":5.871666}
+[2024-11-23T23:56:09.401Z] Event: Seek bar adjusted | Details: {"newTime":1.80666668}
+[2024-11-23T23:56:09.450Z] Event: Seek bar adjusted | Details: {"newTime":2.25833335}
+[2024-11-23T23:56:09.457Z] Event: Seek bar adjusted | Details: {"newTime":2.71000002}
+[2024-11-23T23:56:09.465Z] Event: Seek bar adjusted | Details: {"newTime":3.61333336}
+[2024-11-23T23:56:09.473Z] Event: Seek bar adjusted | Details: {"newTime":4.5166667}
+[2024-11-23T23:56:09.502Z] Event: Seek bar adjusted | Details: {"newTime":6.775000049999999}
+[2024-11-23T23:56:09.506Z] Event: Seek bar adjusted | Details: {"newTime":7.67833339}
+[2024-11-23T23:56:09.519Z] Event: Seek bar adjusted | Details: {"newTime":8.58166673}
+[2024-11-23T23:56:09.527Z] Event: Seek bar adjusted | Details: {"newTime":9.93666674}
+[2024-11-23T23:56:09.534Z] Event: Seek bar adjusted | Details: {"newTime":11.29166675}
+[2024-11-23T23:56:09.555Z] Event: Seek bar adjusted | Details: {"newTime":15.808333449999997}
+[2024-11-23T23:56:09.560Z] Event: Time updated | Details: {"currentTime":15.808333}
+[2024-11-23T23:56:09.562Z] Event: Seek bar adjusted | Details: {"newTime":18.0666668}
+[2024-11-23T23:56:09.590Z] Event: Seek bar adjusted | Details: {"newTime":23.486666839999998}
+[2024-11-23T23:56:09.596Z] Event: Seek bar adjusted | Details: {"newTime":24.84166685}
+[2024-11-23T23:56:09.621Z] Event: Seek bar adjusted | Details: {"newTime":29.358333549999998}
+[2024-11-23T23:56:09.625Z] Event: Seek bar adjusted | Details: {"newTime":29.81000022}
+[2024-11-23T23:56:09.634Z] Event: Seek bar adjusted | Details: {"newTime":30.26166689}
+[2024-11-23T23:56:09.641Z] Event: Seek bar adjusted | Details: {"newTime":30.71333356}
+[2024-11-23T23:56:09.652Z] Event: Seek bar adjusted | Details: {"newTime":31.165000229999997}
+[2024-11-23T23:56:09.658Z] Event: Time updated | Details: {"currentTime":31.165}
+[2024-11-23T23:56:09.688Z] Event: Seek bar adjusted | Details: {"newTime":31.616666899999995}
+[2024-11-23T23:56:09.695Z] Event: Seek bar adjusted | Details: {"newTime":32.06833356999999}
+[2024-11-23T23:56:09.720Z] Event: Seek bar adjusted | Details: {"newTime":32.971666909999996}
+[2024-11-23T23:56:09.737Z] Event: Seek bar adjusted | Details: {"newTime":33.42333358}
+[2024-11-23T23:56:09.901Z] Event: Time updated | Details: {"currentTime":33.423333}
+[2024-11-23T23:56:10.074Z] Event: Seek bar adjusted | Details: {"newTime":36.58500027}
+[2024-11-23T23:56:10.096Z] Event: Time updated | Details: {"currentTime":36.585}
+[2024-11-23T23:56:10.138Z] Event: Seek bar adjusted | Details: {"newTime":36.1333336}
+[2024-11-23T23:56:10.145Z] Event: Time updated | Details: {"currentTime":36.133333}
+[2024-11-23T23:56:10.152Z] Event: Seek bar adjusted | Details: {"newTime":35.68166693}
+[2024-11-23T23:56:10.179Z] Event: Seek bar adjusted | Details: {"newTime":33.42333358}
+[2024-11-23T23:56:10.186Z] Event: Seek bar adjusted | Details: {"newTime":32.06833356999999}
+[2024-11-23T23:56:10.193Z] Event: Seek bar adjusted | Details: {"newTime":31.165000229999997}
+[2024-11-23T23:56:10.218Z] Event: Seek bar adjusted | Details: {"newTime":26.648333529999995}
+[2024-11-23T23:56:10.225Z] Event: Seek bar adjusted | Details: {"newTime":24.84166685}
+[2024-11-23T23:56:10.233Z] Event: Seek bar adjusted | Details: {"newTime":23.03500017}
+[2024-11-23T23:56:10.241Z] Event: Seek bar adjusted | Details: {"newTime":21.228333489999997}
+[2024-11-23T23:56:10.250Z] Event: Seek bar adjusted | Details: {"newTime":19.87333348}
+[2024-11-23T23:56:10.257Z] Event: Seek bar adjusted | Details: {"newTime":18.0666668}
+[2024-11-23T23:56:10.287Z] Event: Seek bar adjusted | Details: {"newTime":14.001666769999998}
+[2024-11-23T23:56:10.291Z] Event: Seek bar adjusted | Details: {"newTime":12.64666676}
+[2024-11-23T23:56:10.303Z] Event: Seek bar adjusted | Details: {"newTime":11.29166675}
+[2024-11-23T23:56:10.311Z] Event: Seek bar adjusted | Details: {"newTime":10.38833341}
+[2024-11-23T23:56:10.318Z] Event: Seek bar adjusted | Details: {"newTime":9.0333334}
+[2024-11-23T23:56:10.346Z] Event: Seek bar adjusted | Details: {"newTime":6.32333338}
+[2024-11-23T23:56:10.361Z] Event: Seek bar adjusted | Details: {"newTime":5.8716667099999995}
+[2024-11-23T23:56:10.417Z] Event: Time updated | Details: {"currentTime":5.871666}
+[2024-11-23T23:56:10.673Z] Event: Time updated | Details: {"currentTime":6.065539}
+[2024-11-23T23:56:10.699Z] Event: Seek bar adjusted | Details: {"newTime":1.80666668}
+[2024-11-23T23:56:10.779Z] Event: Time updated | Details: {"currentTime":1.806666}
+[2024-11-23T23:56:10.790Z] Event: Seek bar adjusted | Details: {"newTime":2.25833335}
+[2024-11-23T23:56:10.818Z] Event: Seek bar adjusted | Details: {"newTime":5.8716667099999995}
+[2024-11-23T23:56:10.825Z] Event: Seek bar adjusted | Details: {"newTime":7.67833339}
+[2024-11-23T23:56:10.833Z] Event: Seek bar adjusted | Details: {"newTime":9.93666674}
+[2024-11-23T23:56:10.857Z] Event: Seek bar adjusted | Details: {"newTime":14.45333344}
+[2024-11-23T23:56:10.860Z] Event: Seek bar adjusted | Details: {"newTime":16.71166679}
+[2024-11-23T23:56:10.867Z] Event: Seek bar adjusted | Details: {"newTime":18.970000139999996}
+[2024-11-23T23:56:10.892Z] Event: Seek bar adjusted | Details: {"newTime":25.29333352}
+[2024-11-23T23:56:10.897Z] Event: Seek bar adjusted | Details: {"newTime":26.648333529999995}
+[2024-11-23T23:56:10.905Z] Event: Seek bar adjusted | Details: {"newTime":28.003333539999996}
+[2024-11-23T23:56:10.927Z] Event: Seek bar adjusted | Details: {"newTime":28.90666688}
+[2024-11-23T23:56:10.930Z] Event: Seek bar adjusted | Details: {"newTime":29.358333549999998}
+[2024-11-23T23:56:10.962Z] Event: Seek bar adjusted | Details: {"newTime":29.81000022}
+[2024-11-23T23:56:11.178Z] Event: Time updated | Details: {"currentTime":29.81}
+[2024-11-23T23:56:11.410Z] Event: Seek bar adjusted | Details: {"newTime":38.391666949999994}
+[2024-11-23T23:56:11.466Z] Event: Seek bar adjusted | Details: {"newTime":37.94000027999999}
+[2024-11-23T23:56:11.500Z] Event: Seek bar adjusted | Details: {"newTime":34.778333589999995}
+[2024-11-23T23:56:11.506Z] Event: Seek bar adjusted | Details: {"newTime":33.42333358}
+[2024-11-23T23:56:11.513Z] Event: Seek bar adjusted | Details: {"newTime":30.71333356}
+[2024-11-23T23:56:11.521Z] Event: Seek bar adjusted | Details: {"newTime":28.455000209999998}
+[2024-11-23T23:56:11.545Z] Event: Seek bar adjusted | Details: {"newTime":23.486666839999998}
+[2024-11-23T23:56:11.547Z] Event: Seek bar adjusted | Details: {"newTime":20.77666682}
+[2024-11-23T23:56:11.554Z] Event: Seek bar adjusted | Details: {"newTime":18.518333469999998}
+[2024-11-23T23:56:11.579Z] Event: Seek bar adjusted | Details: {"newTime":13.550000099999998}
+[2024-11-23T23:56:11.585Z] Event: Seek bar adjusted | Details: {"newTime":12.64666676}
+[2024-11-23T23:56:11.593Z] Event: Seek bar adjusted | Details: {"newTime":11.743333419999999}
+[2024-11-23T23:56:11.602Z] Event: Seek bar adjusted | Details: {"newTime":11.29166675}
+[2024-11-23T23:56:11.614Z] Event: Seek bar adjusted | Details: {"newTime":10.84000008}
+[2024-11-23T23:56:11.626Z] Event: Time updated | Details: {"currentTime":10.84}
+[2024-11-23T23:56:11.661Z] Event: Seek bar adjusted | Details: {"newTime":10.38833341}
+[2024-11-23T23:56:11.738Z] Event: Seek bar adjusted | Details: {"newTime":9.93666674}
+[2024-11-23T23:56:11.793Z] Event: Seek bar adjusted | Details: {"newTime":9.485000069999998}
+[2024-11-23T23:56:12.055Z] Event: Time updated | Details: {"currentTime":9.485}
+[2024-11-23T23:56:12.310Z] Event: Time updated | Details: {"currentTime":9.685057}
+[2024-11-23T23:56:12.585Z] Event: Time updated | Details: {"currentTime":9.958742}
+[2024-11-23T23:56:12.842Z] Event: Time updated | Details: {"currentTime":10.211075}
+[2024-11-23T23:56:13.106Z] Event: Time updated | Details: {"currentTime":10.470548}
+[2024-11-23T23:56:13.378Z] Event: Time updated | Details: {"currentTime":10.752437}
+[2024-11-23T23:56:13.638Z] Event: Time updated | Details: {"currentTime":11.007928}
+[2024-11-23T23:56:13.906Z] Event: Time updated | Details: {"currentTime":11.27122}
+[2024-11-23T23:56:14.169Z] Event: Time updated | Details: {"currentTime":11.541568}
+[2024-11-23T23:56:14.434Z] Event: Time updated | Details: {"currentTime":11.805222}
+[2024-11-23T23:56:14.708Z] Event: Time updated | Details: {"currentTime":12.073959}
+[2024-11-23T23:56:14.978Z] Event: Time updated | Details: {"currentTime":12.34265}
+[2024-11-23T23:56:15.242Z] Event: Time updated | Details: {"currentTime":12.614329}
+[2024-11-23T23:56:15.498Z] Event: Time updated | Details: {"currentTime":12.865142}
+[2024-11-23T23:56:15.754Z] Event: Media playback stopped 
+[2024-11-23T23:56:15.755Z] Event: Time updated | Details: {"currentTime":0}
+[2024-11-23T23:56:15.761Z] Event: Time updated | Details: {"currentTime":0}
+[2024-11-23T23:56:16.568Z] Event: Seek bar adjusted | Details: {"newTime":0.45166667}
+[2024-11-23T23:56:16.575Z] Event: Seek bar adjusted | Details: {"newTime":1.35500001}
+[2024-11-23T23:56:16.582Z] Event: Seek bar adjusted | Details: {"newTime":2.25833335}
+[2024-11-23T23:56:16.599Z] Event: Seek bar adjusted | Details: {"newTime":4.96833337}
+[2024-11-23T23:56:16.603Z] Event: Seek bar adjusted | Details: {"newTime":6.775000049999999}
+[2024-11-23T23:56:16.618Z] Event: Seek bar adjusted | Details: {"newTime":11.29166675}
+[2024-11-23T23:56:16.625Z] Event: Seek bar adjusted | Details: {"newTime":14.001666769999998}
+[2024-11-23T23:56:16.650Z] Event: Seek bar adjusted | Details: {"newTime":21.68000016}
+[2024-11-23T23:56:16.657Z] Event: Seek bar adjusted | Details: {"newTime":23.486666839999998}
+[2024-11-23T23:56:16.687Z] Event: Seek bar adjusted | Details: {"newTime":26.648333529999995}
+[2024-11-23T23:56:16.721Z] Event: Time updated | Details: {"currentTime":26.648333}
+[2024-11-23T23:56:16.908Z] Event: Seek bar adjusted | Details: {"newTime":26.196666859999997}
+[2024-11-23T23:56:16.915Z] Event: Seek bar adjusted | Details: {"newTime":25.745000189999995}
+[2024-11-23T23:56:16.920Z] Event: Time updated | Details: {"currentTime":25.745}
+[2024-11-23T23:56:16.922Z] Event: Seek bar adjusted | Details: {"newTime":25.29333352}
+[2024-11-23T23:56:16.929Z] Event: Seek bar adjusted | Details: {"newTime":24.84166685}
+[2024-11-23T23:56:16.951Z] Event: Seek bar adjusted | Details: {"newTime":24.39000018}
+[2024-11-23T23:56:16.957Z] Event: Seek bar adjusted | Details: {"newTime":23.93833351}
+[2024-11-23T23:56:16.964Z] Event: Seek bar adjusted | Details: {"newTime":23.486666839999998}
+[2024-11-23T23:56:16.971Z] Event: Seek bar adjusted | Details: {"newTime":23.03500017}
+[2024-11-23T23:56:16.978Z] Event: Seek bar adjusted | Details: {"newTime":22.5833335}
+[2024-11-23T23:56:16.985Z] Event: Seek bar adjusted | Details: {"newTime":22.131666829999997}
+[2024-11-23T23:56:16.993Z] Event: Seek bar adjusted | Details: {"newTime":21.68000016}
+[2024-11-23T23:56:17.001Z] Event: Seek bar adjusted | Details: {"newTime":21.228333489999997}
+[2024-11-23T23:56:17.009Z] Event: Seek bar adjusted | Details: {"newTime":20.325000149999997}
+[2024-11-23T23:56:17.017Z] Event: Seek bar adjusted | Details: {"newTime":19.421666809999998}
+[2024-11-23T23:56:17.025Z] Event: Seek bar adjusted | Details: {"newTime":18.518333469999998}
+[2024-11-23T23:56:17.040Z] Event: Seek bar adjusted | Details: {"newTime":18.0666668}
+[2024-11-23T23:56:17.047Z] Event: Seek bar adjusted | Details: {"newTime":17.16333346}
+[2024-11-23T23:56:17.054Z] Event: Seek bar adjusted | Details: {"newTime":16.71166679}
+[2024-11-23T23:56:17.075Z] Event: Seek bar adjusted | Details: {"newTime":16.260000119999997}
+[2024-11-23T23:56:17.091Z] Event: Seek bar adjusted | Details: {"newTime":15.808333449999997}
+[2024-11-23T23:56:17.100Z] Event: Seek bar adjusted | Details: {"newTime":15.35666678}
+[2024-11-23T23:56:17.113Z] Event: Seek bar adjusted | Details: {"newTime":14.90500011}
+[2024-11-23T23:56:17.121Z] Event: Seek bar adjusted | Details: {"newTime":14.45333344}
+[2024-11-23T23:56:17.129Z] Event: Seek bar adjusted | Details: {"newTime":14.001666769999998}
+[2024-11-23T23:56:17.137Z] Event: Seek bar adjusted | Details: {"newTime":13.098333429999999}
+[2024-11-23T23:56:17.145Z] Event: Seek bar adjusted | Details: {"newTime":12.19500009}
+[2024-11-23T23:56:17.153Z] Event: Seek bar adjusted | Details: {"newTime":10.84000008}
+[2024-11-23T23:56:17.161Z] Event: Seek bar adjusted | Details: {"newTime":9.93666674}
+[2024-11-23T23:56:17.169Z] Event: Seek bar adjusted | Details: {"newTime":9.0333334}
+[2024-11-23T23:56:17.177Z] Event: Seek bar adjusted | Details: {"newTime":7.22666672}
+[2024-11-23T23:56:17.185Z] Event: Seek bar adjusted | Details: {"newTime":6.32333338}
+[2024-11-23T23:56:17.200Z] Event: Seek bar adjusted | Details: {"newTime":4.5166667}
+[2024-11-23T23:56:17.207Z] Event: Seek bar adjusted | Details: {"newTime":2.71000002}
+[2024-11-23T23:56:17.214Z] Event: Seek bar adjusted | Details: {"newTime":1.35500001}
+[2024-11-23T23:56:17.221Z] Event: Seek bar adjusted | Details: {"newTime":0}
+[2024-11-23T23:56:17.233Z] Event: Time updated | Details: {"currentTime":0}
+[2024-11-23T23:56:24.866Z] Event: Media playback stopped 
+[2024-11-23T23:56:24.867Z] Event: Time updated | Details: {"currentTime":0}
+[2024-11-23T23:56:32.258Z] Event: Media playback started 
+[2024-11-23T23:56:32.513Z] Event: Time updated | Details: {"currentTime":0.169095}
+[2024-11-23T23:56:32.778Z] Event: Time updated | Details: {"currentTime":0.428985}
+[2024-11-23T23:56:33.047Z] Event: Time updated | Details: {"currentTime":0.697288}
+[2024-11-23T23:56:33.315Z] Event: Time updated | Details: {"currentTime":0.971887}
+[2024-11-23T23:56:33.530Z] Event: Seek bar adjusted | Details: {"newTime":1.35500001}
+[2024-11-23T23:56:33.537Z] Event: Seek bar adjusted | Details: {"newTime":1.80666668}
+[2024-11-23T23:56:33.553Z] Event: Seek bar adjusted | Details: {"newTime":2.25833335}
+[2024-11-23T23:56:33.562Z] Event: Seek bar adjusted | Details: {"newTime":2.71000002}
+[2024-11-23T23:56:33.569Z] Event: Seek bar adjusted | Details: {"newTime":3.16166669}
+[2024-11-23T23:56:33.577Z] Event: Seek bar adjusted | Details: {"newTime":4.065000029999999}
+[2024-11-23T23:56:33.585Z] Event: Seek bar adjusted | Details: {"newTime":4.96833337}
+[2024-11-23T23:56:33.593Z] Event: Seek bar adjusted | Details: {"newTime":6.32333338}
+[2024-11-23T23:56:33.601Z] Event: Seek bar adjusted | Details: {"newTime":7.22666672}
+[2024-11-23T23:56:33.609Z] Event: Seek bar adjusted | Details: {"newTime":8.58166673}
+[2024-11-23T23:56:33.618Z] Event: Seek bar adjusted | Details: {"newTime":10.38833341}
+[2024-11-23T23:56:33.625Z] Event: Seek bar adjusted | Details: {"newTime":11.743333419999999}
+[2024-11-23T23:56:33.633Z] Event: Seek bar adjusted | Details: {"newTime":13.550000099999998}
+[2024-11-23T23:56:33.641Z] Event: Seek bar adjusted | Details: {"newTime":14.90500011}
+[2024-11-23T23:56:33.649Z] Event: Seek bar adjusted | Details: {"newTime":16.260000119999997}
+[2024-11-23T23:56:33.657Z] Event: Seek bar adjusted | Details: {"newTime":17.61500013}
+[2024-11-23T23:56:33.665Z] Event: Seek bar adjusted | Details: {"newTime":18.0666668}
+[2024-11-23T23:56:33.673Z] Event: Seek bar adjusted | Details: {"newTime":18.970000139999996}
+[2024-11-23T23:56:33.681Z] Event: Seek bar adjusted | Details: {"newTime":19.421666809999998}
+[2024-11-23T23:56:33.904Z] Event: Time updated | Details: {"currentTime":19.421666}
+[2024-11-23T23:56:34.171Z] Event: Time updated | Details: {"currentTime":19.622863}
+[2024-11-23T23:56:34.436Z] Event: Time updated | Details: {"currentTime":19.895619}
+[2024-11-23T23:56:34.700Z] Event: Time updated | Details: {"currentTime":20.154599}
+[2024-11-23T23:56:34.974Z] Event: Time updated | Details: {"currentTime":20.427314}
+[2024-11-23T23:56:35.235Z] Event: Time updated | Details: {"currentTime":20.695368}
+[2024-11-23T23:56:35.499Z] Event: Time updated | Details: {"currentTime":20.954045}
+[2024-11-23T23:56:35.697Z] Event: Media playback stopped 
+[2024-11-23T23:56:35.699Z] Event: Time updated | Details: {"currentTime":0}
+[2024-11-23T23:56:35.705Z] Event: Time updated | Details: {"currentTime":0}
+[2024-11-23T23:58:37.066Z] Event: loadVideoButton clicked 
+[2024-11-23T23:58:40.149Z] Event: Audio file loaded successfully | Details: {"fileName":"Ogryzek Glory (Slowed).mp3"}
+[2024-11-23T23:58:40.150Z] Event: Time updated | Details: {"currentTime":0}
+[2024-11-23T23:58:41.698Z] Event: Error playing media | Details: {"error":"The element has no supported sources."}
+[2024-11-24T00:02:01.336Z] Event: loadVideoButton clicked 
+[2024-11-24T00:02:03.112Z] Event: Error loading file | Details: {"error":"fileURL is not defined"}
+[2024-11-24T00:02:06.079Z] Event: loadVideoButton clicked 
+[2024-11-24T00:02:08.459Z] Event: Error loading file | Details: {"error":"fileURL is not defined"}
+[2024-11-24T00:02:09.295Z] Event: loadVideoButton clicked 
+[2024-11-24T00:02:12.996Z] Event: Error loading file | Details: {"error":"fileURL is not defined"}
+[2024-11-24T00:02:16.864Z] Event: Media playback paused 
+[2024-11-24T00:02:16.866Z] Event: Time updated | Details: {"currentTime":0}
+[2024-11-24T00:02:16.866Z] Event: Error playing media | Details: {"error":"The play() request was interrupted by a call to pause(). https://goo.gl/LdLk22"}
+[2024-11-24T00:02:18.207Z] Event: Media playback paused 
+[2024-11-24T00:02:18.208Z] Event: Time updated | Details: {"currentTime":0}
+[2024-11-24T00:02:18.208Z] Event: Error playing media | Details: {"error":"The play() request was interrupted by a call to pause(). https://goo.gl/LdLk22"}
+[2024-11-24T00:02:18.903Z] Event: loadVideoButton clicked 
+[2024-11-24T00:02:23.166Z] Event: loadVideoButton clicked 
+[2024-11-24T00:02:24.662Z] Event: Error loading file | Details: {"error":"fileURL is not defined"}
+[2024-11-24T00:02:25.638Z] Event: Media playback paused 
+[2024-11-24T00:02:25.639Z] Event: Time updated | Details: {"currentTime":0}
+[2024-11-24T00:02:25.639Z] Event: Error playing media | Details: {"error":"The play() request was interrupted by a call to pause(). https://goo.gl/LdLk22"}
+[2024-11-24T00:03:14.165Z] Event: loadVideoButton clicked 
+[2024-11-24T00:03:17.763Z] Event: File loaded successfully | Details: {"fileName":"VID_20240610_211733_085.mp4"}
+[2024-11-24T00:03:17.764Z] Event: Time updated | Details: {"currentTime":0}
+[2024-11-24T00:03:19.429Z] Event: Media playback started 
+[2024-11-24T00:03:19.684Z] Event: Time updated | Details: {"currentTime":0.198441}
+[2024-11-24T00:03:19.948Z] Event: Time updated | Details: {"currentTime":0.469664}
+[2024-11-24T00:03:20.215Z] Event: Time updated | Details: {"currentTime":0.732515}
+[2024-11-24T00:03:20.493Z] Event: Time updated | Details: {"currentTime":1.008513}
+[2024-11-24T00:03:20.745Z] Event: Time updated | Details: {"currentTime":1.267941}
+[2024-11-24T00:03:21.011Z] Event: Time updated | Details: {"currentTime":1.529388}
+[2024-11-24T00:03:21.245Z] Event: Seek bar adjusted | Details: {"newTime":26.84291667}
+[2024-11-24T00:03:21.252Z] Event: Seek bar adjusted | Details: {"newTime":53.68583334}
+[2024-11-24T00:03:21.260Z] Event: Seek bar adjusted | Details: {"newTime":80.52875001}
+[2024-11-24T00:03:21.274Z] Event: Seek bar adjusted | Details: {"newTime":107.37166668}
+[2024-11-24T00:03:21.283Z] Event: Time updated | Details: {"currentTime":107.371666}
+[2024-11-24T00:03:21.285Z] Event: Seek bar adjusted | Details: {"newTime":134.21458335}
+[2024-11-24T00:03:21.292Z] Event: Seek bar adjusted | Details: {"newTime":161.05750002}
+[2024-11-24T00:03:21.305Z] Event: Seek bar adjusted | Details: {"newTime":187.90041669000001}
+[2024-11-24T00:03:21.312Z] Event: Seek bar adjusted | Details: {"newTime":214.74333336}
+[2024-11-24T00:03:21.319Z] Event: Seek bar adjusted | Details: {"newTime":241.58625002999997}
+[2024-11-24T00:03:21.333Z] Event: Seek bar adjusted | Details: {"newTime":268.4291667}
+[2024-11-24T00:03:21.341Z] Event: Seek bar adjusted | Details: {"newTime":295.27208337}
+[2024-11-24T00:03:21.358Z] Event: Seek bar adjusted | Details: {"newTime":322.11500004}
+[2024-11-24T00:03:21.366Z] Event: Time updated | Details: {"currentTime":322.115}
+[2024-11-24T00:03:21.405Z] Event: Seek bar adjusted | Details: {"newTime":348.95791671}
+[2024-11-24T00:03:21.429Z] Event: Time updated | Details: {"currentTime":348.957916}
+[2024-11-24T00:03:21.688Z] Event: Time updated | Details: {"currentTime":349.160444}
+[2024-11-24T00:03:21.957Z] Event: Time updated | Details: {"currentTime":349.436184}
+[2024-11-24T00:03:21.958Z] Event: Seek bar adjusted | Details: {"newTime":375.80083338000003}
+[2024-11-24T00:03:21.970Z] Event: Time updated | Details: {"currentTime":375.800833}
+[2024-11-24T00:03:21.980Z] Event: Seek bar adjusted | Details: {"newTime":402.64375005}
+[2024-11-24T00:03:22.004Z] Event: Seek bar adjusted | Details: {"newTime":429.48666672}
+[2024-11-24T00:03:22.012Z] Event: Seek bar adjusted | Details: {"newTime":456.32958339000004}
+[2024-11-24T00:03:22.029Z] Event: Seek bar adjusted | Details: {"newTime":483.17250005999995}
+[2024-11-24T00:03:22.068Z] Event: Seek bar adjusted | Details: {"newTime":510.01541673}
+[2024-11-24T00:03:22.100Z] Event: Seek bar adjusted | Details: {"newTime":536.8583334}
+[2024-11-24T00:03:22.146Z] Event: Seek bar adjusted | Details: {"newTime":563.70125007}
+[2024-11-24T00:03:22.189Z] Event: Seek bar adjusted | Details: {"newTime":590.54416674}
+[2024-11-24T00:03:22.261Z] Event: Time updated | Details: {"currentTime":590.544166}
+[2024-11-24T00:03:22.493Z] Event: Seek bar adjusted | Details: {"newTime":617.3870834100001}
+[2024-11-24T00:03:22.535Z] Event: Time updated | Details: {"currentTime":617.387083}
+[2024-11-24T00:03:22.629Z] Event: Seek bar adjusted | Details: {"newTime":644.23000008}
+[2024-11-24T00:03:22.637Z] Event: Time updated | Details: {"currentTime":644.23}
+[2024-11-24T00:03:22.685Z] Event: Seek bar adjusted | Details: {"newTime":671.07291675}
+[2024-11-24T00:03:22.715Z] Event: Seek bar adjusted | Details: {"newTime":697.91583342}
+[2024-11-24T00:03:22.740Z] Event: Seek bar adjusted | Details: {"newTime":724.75875009}
+[2024-11-24T00:03:22.750Z] Event: Time updated | Details: {"currentTime":724.75875}
+[2024-11-24T00:03:22.780Z] Event: Seek bar adjusted | Details: {"newTime":751.6016667600001}
+[2024-11-24T00:03:22.799Z] Event: Time updated | Details: {"currentTime":751.601666}
+[2024-11-24T00:03:22.853Z] Event: Seek bar adjusted | Details: {"newTime":778.44458343}
+[2024-11-24T00:03:22.867Z] Event: Time updated | Details: {"currentTime":778.444583}
+[2024-11-24T00:03:22.925Z] Event: Seek bar adjusted | Details: {"newTime":805.2875001}
+[2024-11-24T00:03:22.978Z] Event: Time updated | Details: {"currentTime":805.2875}
+[2024-11-24T00:03:22.986Z] Event: Seek bar adjusted | Details: {"newTime":832.13041677}
+[2024-11-24T00:03:23.009Z] Event: Time updated | Details: {"currentTime":832.130416}
+[2024-11-24T00:03:23.035Z] Event: Seek bar adjusted | Details: {"newTime":858.97333344}
+[2024-11-24T00:03:23.055Z] Event: Time updated | Details: {"currentTime":858.973333}
+[2024-11-24T00:03:23.091Z] Event: Seek bar adjusted | Details: {"newTime":885.81625011}
+[2024-11-24T00:03:23.104Z] Event: Seek bar adjusted | Details: {"newTime":912.6591667800001}
+[2024-11-24T00:03:23.131Z] Event: Time updated | Details: {"currentTime":912.659166}
+[2024-11-24T00:03:23.139Z] Event: Seek bar adjusted | Details: {"newTime":939.5020834499999}
+[2024-11-24T00:03:23.183Z] Event: Time updated | Details: {"currentTime":939.502083}
+[2024-11-24T00:03:23.215Z] Event: Seek bar adjusted | Details: {"newTime":966.3450001199999}
+[2024-11-24T00:03:23.242Z] Event: Time updated | Details: {"currentTime":966.345}
+[2024-11-24T00:03:23.243Z] Event: Seek bar adjusted | Details: {"newTime":993.1879167899999}
+[2024-11-24T00:03:23.276Z] Event: Seek bar adjusted | Details: {"newTime":1020.03083346}
+[2024-11-24T00:03:23.329Z] Event: Time updated | Details: {"currentTime":1020.030833}
+[2024-11-24T00:03:23.333Z] Event: Seek bar adjusted | Details: {"newTime":1046.87375013}
+[2024-11-24T00:03:23.359Z] Event: Seek bar adjusted | Details: {"newTime":1073.7166668}
+[2024-11-24T00:03:23.382Z] Event: Seek bar adjusted | Details: {"newTime":1100.55958347}
+[2024-11-24T00:03:23.396Z] Event: Seek bar adjusted | Details: {"newTime":1127.40250014}
+[2024-11-24T00:03:23.413Z] Event: Time updated | Details: {"currentTime":1127.4025}
+[2024-11-24T00:03:23.420Z] Event: Seek bar adjusted | Details: {"newTime":1154.24541681}
+[2024-11-24T00:03:23.465Z] Event: Seek bar adjusted | Details: {"newTime":1181.08833348}
+[2024-11-24T00:03:23.493Z] Event: Seek bar adjusted | Details: {"newTime":1207.93125015}
+[2024-11-24T00:03:23.535Z] Event: Time updated | Details: {"currentTime":1207.93125}
+[2024-11-24T00:03:23.581Z] Event: Seek bar adjusted | Details: {"newTime":1234.7741668200001}
+[2024-11-24T00:03:23.596Z] Event: Time updated | Details: {"currentTime":1234.774166}
+[2024-11-24T00:03:23.623Z] Event: Seek bar adjusted | Details: {"newTime":1261.61708349}
+[2024-11-24T00:03:23.646Z] Event: Seek bar adjusted | Details: {"newTime":1288.46000016}
+[2024-11-24T00:03:23.716Z] Event: Seek bar adjusted | Details: {"newTime":1315.30291683}
+[2024-11-24T00:03:23.752Z] Event: Time updated | Details: {"currentTime":1315.302916}
+[2024-11-24T00:03:23.821Z] Event: Seek bar adjusted | Details: {"newTime":1342.1458335}
+[2024-11-24T00:03:23.839Z] Event: Time updated | Details: {"currentTime":1342.145833}
+[2024-11-24T00:03:23.847Z] Event: Seek bar adjusted | Details: {"newTime":1368.98875017}
+[2024-11-24T00:03:23.868Z] Event: Seek bar adjusted | Details: {"newTime":1395.83166684}
+[2024-11-24T00:03:23.881Z] Event: Time updated | Details: {"currentTime":1395.831666}
+[2024-11-24T00:03:23.931Z] Event: Seek bar adjusted | Details: {"newTime":1422.67458351}
+[2024-11-24T00:03:23.938Z] Event: Time updated | Details: {"currentTime":1422.674583}
+[2024-11-24T00:03:23.961Z] Event: Seek bar adjusted | Details: {"newTime":1449.51750018}
+[2024-11-24T00:03:23.966Z] Event: Time updated | Details: {"currentTime":1449.5175}
+[2024-11-24T00:03:24.029Z] Event: Seek bar adjusted | Details: {"newTime":1476.36041685}
+[2024-11-24T00:03:24.037Z] Event: Time updated | Details: {"currentTime":1476.360416}
+[2024-11-24T00:03:24.063Z] Event: Seek bar adjusted | Details: {"newTime":1503.2033335200001}
+[2024-11-24T00:03:24.097Z] Event: Seek bar adjusted | Details: {"newTime":1530.04625019}
+[2024-11-24T00:03:24.139Z] Event: Seek bar adjusted | Details: {"newTime":1556.88916686}
+[2024-11-24T00:03:24.164Z] Event: Seek bar adjusted | Details: {"newTime":1583.73208353}
+[2024-11-24T00:03:24.167Z] Event: Seek bar adjusted | Details: {"newTime":1610.5750002}
+[2024-11-24T00:03:24.172Z] Event: Time updated | Details: {"currentTime":1610.575}
+[2024-11-24T00:03:24.193Z] Event: Seek bar adjusted | Details: {"newTime":1637.41791687}
+[2024-11-24T00:03:24.239Z] Event: Time updated | Details: {"currentTime":1637.417916}
+[2024-11-24T00:03:24.325Z] Event: Seek bar adjusted | Details: {"newTime":1664.26083354}
+[2024-11-24T00:03:24.335Z] Event: Time updated | Details: {"currentTime":1664.260833}
+[2024-11-24T00:03:24.340Z] Event: Seek bar adjusted | Details: {"newTime":1691.10375021}
+[2024-11-24T00:03:24.354Z] Event: Seek bar adjusted | Details: {"newTime":1717.94666688}
+[2024-11-24T00:03:24.368Z] Event: Seek bar adjusted | Details: {"newTime":1744.78958355}
+[2024-11-24T00:03:24.394Z] Event: Seek bar adjusted | Details: {"newTime":1771.63250022}
+[2024-11-24T00:03:24.449Z] Event: Time updated | Details: {"currentTime":1771.6325}
+[2024-11-24T00:03:24.452Z] Event: Seek bar adjusted | Details: {"newTime":1798.4754168900001}
+[2024-11-24T00:03:24.500Z] Event: Seek bar adjusted | Details: {"newTime":1825.3183335600002}
+[2024-11-24T00:03:24.537Z] Event: Time updated | Details: {"currentTime":1825.31838}
+[2024-11-24T00:03:24.541Z] Event: Seek bar adjusted | Details: {"newTime":1852.1612502299997}
+[2024-11-24T00:03:24.572Z] Event: Seek bar adjusted | Details: {"newTime":1879.0041668999997}
+[2024-11-24T00:03:24.604Z] Event: Seek bar adjusted | Details: {"newTime":1905.8470835699998}
+[2024-11-24T00:03:24.631Z] Event: Seek bar adjusted | Details: {"newTime":1932.6900002399998}
+[2024-11-24T00:03:24.639Z] Event: Seek bar adjusted | Details: {"newTime":1959.5329169099998}
+[2024-11-24T00:03:24.666Z] Event: Time updated | Details: {"currentTime":1959.532916}
+[2024-11-24T00:03:24.725Z] Event: Seek bar adjusted | Details: {"newTime":1986.3758335799998}
+[2024-11-24T00:03:24.757Z] Event: Seek bar adjusted | Details: {"newTime":2013.21875025}
+[2024-11-24T00:03:24.828Z] Event: Time updated | Details: {"currentTime":2013.21875}
+[2024-11-24T00:03:24.833Z] Event: Seek bar adjusted | Details: {"newTime":2040.06166692}
+[2024-11-24T00:03:24.859Z] Event: Time updated | Details: {"currentTime":2040.061666}
+[2024-11-24T00:03:24.889Z] Event: Seek bar adjusted | Details: {"newTime":2066.90458359}
+[2024-11-24T00:03:24.895Z] Event: Time updated | Details: {"currentTime":2066.904583}
+[2024-11-24T00:03:24.903Z] Event: Seek bar adjusted | Details: {"newTime":2093.74750026}
+[2024-11-24T00:03:24.913Z] Event: Seek bar adjusted | Details: {"newTime":2120.59041693}
+[2024-11-24T00:03:24.924Z] Event: Time updated | Details: {"currentTime":2120.590416}
+[2024-11-24T00:03:24.924Z] Event: Seek bar adjusted | Details: {"newTime":2147.4333336}
+[2024-11-24T00:03:24.932Z] Event: Seek bar adjusted | Details: {"newTime":2174.27625027}
+[2024-11-24T00:03:24.941Z] Event: Seek bar adjusted | Details: {"newTime":2201.11916694}
+[2024-11-24T00:03:24.948Z] Event: Seek bar adjusted | Details: {"newTime":2227.96208361}
+[2024-11-24T00:03:24.972Z] Event: Seek bar adjusted | Details: {"newTime":2308.49083362}
+[2024-11-24T00:03:24.971Z] Event: Seek bar adjusted | Details: {"newTime":2281.64791695}
+[2024-11-24T00:03:24.998Z] Event: Seek bar adjusted | Details: {"newTime":2335.33375029}
+[2024-11-24T00:03:25.004Z] Event: Time updated | Details: {"currentTime":2335.33375}
+[2024-11-24T00:03:25.004Z] Event: Seek bar adjusted | Details: {"newTime":2362.17666696}
+[2024-11-24T00:03:25.063Z] Event: Time updated | Details: {"currentTime":2362.176666}
+[2024-11-24T00:03:25.069Z] Event: Seek bar adjusted | Details: {"newTime":2389.01958363}
+[2024-11-24T00:03:25.079Z] Event: Seek bar adjusted | Details: {"newTime":2415.8625003}
+[2024-11-24T00:03:25.084Z] Event: Seek bar adjusted | Details: {"newTime":2442.70541697}
+[2024-11-24T00:03:25.092Z] Event: Seek bar adjusted | Details: {"newTime":2469.5483336400002}
+[2024-11-24T00:03:25.112Z] Event: Seek bar adjusted | Details: {"newTime":2523.23416698}
+[2024-11-24T00:03:25.118Z] Event: Seek bar adjusted | Details: {"newTime":2550.0770836499996}
+[2024-11-24T00:03:25.183Z] Event: Time updated | Details: {"currentTime":2550.077083}
+[2024-11-24T00:03:25.447Z] Event: Time updated | Details: {"currentTime":2550.27935}
+[2024-11-24T00:03:25.573Z] Event: Seek bar adjusted | Details: {"newTime":2576.92000032}
+[2024-11-24T00:03:25.607Z] Event: Time updated | Details: {"currentTime":2576.92}
+[2024-11-24T00:03:25.620Z] Event: Seek bar adjusted | Details: {"newTime":2603.7629169899997}
+[2024-11-24T00:03:25.639Z] Event: Seek bar adjusted | Details: {"newTime":2630.60583366}
+[2024-11-24T00:03:25.646Z] Event: Seek bar adjusted | Details: {"newTime":2657.4487503299997}
+[2024-11-24T00:03:25.653Z] Event: Seek bar adjusted | Details: {"newTime":2684.291667}
+[2024-11-24T00:03:25.695Z] Event: Time updated | Details: {"currentTime":2684.291667}
+[2024-11-24T00:03:25.695Z] Event: Time updated | Details: {"currentTime":2684.291667}
+[2024-11-24T00:03:26.060Z] Event: Seek bar adjusted | Details: {"newTime":2657.4487503299997}
+[2024-11-24T00:03:26.068Z] Event: Seek bar adjusted | Details: {"newTime":2630.60583366}
+[2024-11-24T00:03:26.076Z] Event: Seek bar adjusted | Details: {"newTime":2603.7629169899997}
+[2024-11-24T00:03:26.102Z] Event: Seek bar adjusted | Details: {"newTime":2496.39125031}
+[2024-11-24T00:03:26.108Z] Event: Seek bar adjusted | Details: {"newTime":2415.8625003}
+[2024-11-24T00:03:26.112Z] Event: Time updated | Details: {"currentTime":2415.8625}
+[2024-11-24T00:03:26.123Z] Event: Seek bar adjusted | Details: {"newTime":2362.17666696}
+[2024-11-24T00:03:26.125Z] Event: Seek bar adjusted | Details: {"newTime":2308.49083362}
+[2024-11-24T00:03:26.139Z] Event: Seek bar adjusted | Details: {"newTime":2254.80500028}
+[2024-11-24T00:03:26.154Z] Event: Seek bar adjusted | Details: {"newTime":2066.90458359}
+[2024-11-24T00:03:26.160Z] Event: Seek bar adjusted | Details: {"newTime":1986.3758335799998}
+[2024-11-24T00:03:26.167Z] Event: Seek bar adjusted | Details: {"newTime":1852.1612502299997}
+[2024-11-24T00:03:26.188Z] Event: Seek bar adjusted | Details: {"newTime":1637.41791687}
+[2024-11-24T00:03:26.194Z] Event: Seek bar adjusted | Details: {"newTime":1556.88916686}
+[2024-11-24T00:03:26.201Z] Event: Seek bar adjusted | Details: {"newTime":1449.51750018}
+[2024-11-24T00:03:26.218Z] Event: Seek bar adjusted | Details: {"newTime":1315.30291683}
+[2024-11-24T00:03:26.222Z] Event: Seek bar adjusted | Details: {"newTime":1234.7741668200001}
+[2024-11-24T00:03:26.229Z] Event: Seek bar adjusted | Details: {"newTime":1207.93125015}
+[2024-11-24T00:03:26.254Z] Event: Seek bar adjusted | Details: {"newTime":1046.87375013}
+[2024-11-24T00:03:26.260Z] Event: Seek bar adjusted | Details: {"newTime":1020.03083346}
+[2024-11-24T00:03:26.268Z] Event: Seek bar adjusted | Details: {"newTime":966.3450001199999}
+[2024-11-24T00:03:26.282Z] Event: Seek bar adjusted | Details: {"newTime":939.5020834499999}
+[2024-11-24T00:03:26.285Z] Event: Seek bar adjusted | Details: {"newTime":912.6591667800001}
+[2024-11-24T00:03:26.290Z] Event: Time updated | Details: {"currentTime":912.659166}
+[2024-11-24T00:03:26.306Z] Event: Seek bar adjusted | Details: {"newTime":832.13041677}
+[2024-11-24T00:03:26.312Z] Event: Seek bar adjusted | Details: {"newTime":778.44458343}
+[2024-11-24T00:03:26.319Z] Event: Seek bar adjusted | Details: {"newTime":724.75875009}
+[2024-11-24T00:03:26.326Z] Event: Seek bar adjusted | Details: {"newTime":697.91583342}
+[2024-11-24T00:03:26.333Z] Event: Seek bar adjusted | Details: {"newTime":644.23000008}
+[2024-11-24T00:03:26.340Z] Event: Seek bar adjusted | Details: {"newTime":617.3870834100001}
+[2024-11-24T00:03:26.348Z] Event: Seek bar adjusted | Details: {"newTime":563.70125007}
+[2024-11-24T00:03:26.356Z] Event: Seek bar adjusted | Details: {"newTime":536.8583334}
+[2024-11-24T00:03:26.364Z] Event: Seek bar adjusted | Details: {"newTime":510.01541673}
+[2024-11-24T00:03:26.384Z] Event: Seek bar adjusted | Details: {"newTime":456.32958339000004}
+[2024-11-24T00:03:26.389Z] Event: Seek bar adjusted | Details: {"newTime":429.48666672}
+[2024-11-24T00:03:26.396Z] Event: Time updated | Details: {"currentTime":429.486666}
+[2024-11-24T00:03:26.409Z] Event: Seek bar adjusted | Details: {"newTime":375.80083338000003}
+[2024-11-24T00:03:26.417Z] Event: Time updated | Details: {"currentTime":375.800833}
+[2024-11-24T00:03:26.423Z] Event: Seek bar adjusted | Details: {"newTime":348.95791671}
+[2024-11-24T00:03:26.430Z] Event: Seek bar adjusted | Details: {"newTime":322.11500004}
+[2024-11-24T00:03:26.445Z] Event: Seek bar adjusted | Details: {"newTime":295.27208337}
+[2024-11-24T00:03:26.452Z] Event: Time updated | Details: {"currentTime":295.272083}
+[2024-11-24T00:03:26.452Z] Event: Seek bar adjusted | Details: {"newTime":268.4291667}
+[2024-11-24T00:03:26.472Z] Event: Seek bar adjusted | Details: {"newTime":241.58625002999997}
+[2024-11-24T00:03:26.479Z] Event: Seek bar adjusted | Details: {"newTime":214.74333336}
+[2024-11-24T00:03:26.496Z] Event: Seek bar adjusted | Details: {"newTime":187.90041669000001}
+[2024-11-24T00:03:26.500Z] Event: Seek bar adjusted | Details: {"newTime":161.05750002}
+[2024-11-24T00:03:26.531Z] Event: Seek bar adjusted | Details: {"newTime":134.21458335}
+[2024-11-24T00:03:26.547Z] Event: Time updated | Details: {"currentTime":134.214583}
+[2024-11-24T00:03:26.548Z] Event: Seek bar adjusted | Details: {"newTime":107.37166668}
+[2024-11-24T00:03:26.574Z] Event: Seek bar adjusted | Details: {"newTime":80.52875001}
+[2024-11-24T00:03:26.588Z] Event: Seek bar adjusted | Details: {"newTime":53.68583334}
+[2024-11-24T00:03:26.596Z] Event: Seek bar adjusted | Details: {"newTime":26.84291667}
+[2024-11-24T00:03:26.612Z] Event: Seek bar adjusted | Details: {"newTime":0}
+[2024-11-24T00:03:26.621Z] Event: Time updated | Details: {"currentTime":0}
+[2024-11-24T00:03:27.309Z] Event: Media playback started 
+[2024-11-24T00:03:27.572Z] Event: Time updated | Details: {"currentTime":0.207039}
+[2024-11-24T00:03:27.844Z] Event: Time updated | Details: {"currentTime":0.477806}
+[2024-11-24T00:03:28.109Z] Event: Time updated | Details: {"currentTime":0.748985}
+[2024-11-24T00:03:28.370Z] Event: Time updated | Details: {"currentTime":1.006038}
+[2024-11-24T00:03:28.637Z] Event: Time updated | Details: {"currentTime":1.279235}
+[2024-11-24T00:03:28.903Z] Event: Time updated | Details: {"currentTime":1.544289}
+[2024-11-24T00:03:28.988Z] Event: Media playback paused 
+[2024-11-24T00:03:28.989Z] Event: Time updated | Details: {"currentTime":1.630825}
+[2024-11-24T00:03:29.862Z] Event: Media playback started 
+[2024-11-24T00:03:30.132Z] Event: Time updated | Details: {"currentTime":1.889915}
+[2024-11-24T00:03:30.399Z] Event: Time updated | Details: {"currentTime":2.155321}
+[2024-11-24T00:03:30.656Z] Event: Time updated | Details: {"currentTime":2.416504}
+[2024-11-24T00:03:30.668Z] Event: Media playback paused 
+[2024-11-24T00:03:30.669Z] Event: Time updated | Details: {"currentTime":2.431877}
+[2024-11-24T00:03:31.365Z] Event: Media seeked | Details: {"newTime":7.431877}
+[2024-11-24T00:03:31.385Z] Event: Time updated | Details: {"currentTime":7.431877}
+[2024-11-24T00:03:31.796Z] Event: Media seeked | Details: {"newTime":12.431877}
+[2024-11-24T00:03:31.844Z] Event: Time updated | Details: {"currentTime":12.431877}
+[2024-11-24T00:03:32.100Z] Event: Media seeked | Details: {"newTime":17.431877}
+[2024-11-24T00:03:32.121Z] Event: Time updated | Details: {"currentTime":17.431877}
+[2024-11-24T00:03:32.493Z] Event: Media seeked | Details: {"newTime":22.431877}
+[2024-11-24T00:03:32.498Z] Event: Time updated | Details: {"currentTime":22.431877}
+[2024-11-24T00:03:33.126Z] Event: Media playback started 
+[2024-11-24T00:03:33.399Z] Event: Time updated | Details: {"currentTime":22.648228}
+[2024-11-24T00:03:33.653Z] Event: Time updated | Details: {"currentTime":22.906776}
+[2024-11-24T00:03:33.924Z] Event: Time updated | Details: {"currentTime":23.17588}
+[2024-11-24T00:03:34.186Z] Event: Time updated | Details: {"currentTime":23.434067}
+[2024-11-24T00:03:34.456Z] Event: Time updated | Details: {"currentTime":23.711138}
+[2024-11-24T00:03:34.715Z] Event: Time updated | Details: {"currentTime":23.964581}
+[2024-11-24T00:03:34.993Z] Event: Time updated | Details: {"currentTime":24.24162}
+[2024-11-24T00:03:35.116Z] Event: Media playback paused 
+[2024-11-24T00:03:35.117Z] Event: Time updated | Details: {"currentTime":24.361231}
+[2024-11-24T00:03:35.533Z] Event: Media playback started 
+[2024-11-24T00:03:35.792Z] Event: Time updated | Details: {"currentTime":24.62349}
+[2024-11-24T00:03:36.058Z] Event: Time updated | Details: {"currentTime":24.888505}
+[2024-11-24T00:03:36.336Z] Event: Time updated | Details: {"currentTime":25.173653}
+[2024-11-24T00:03:36.458Z] Event: Seek bar adjusted | Details: {"newTime":0}
+[2024-11-24T00:03:36.464Z] Event: Time updated | Details: {"currentTime":0}
+[2024-11-24T00:03:36.486Z] Event: Seek bar adjusted | Details: {"newTime":26.84291667}
+[2024-11-24T00:03:36.493Z] Event: Seek bar adjusted | Details: {"newTime":53.68583334}
+[2024-11-24T00:03:36.500Z] Event: Seek bar adjusted | Details: {"newTime":80.52875001}
+[2024-11-24T00:03:36.508Z] Event: Seek bar adjusted | Details: {"newTime":107.37166668}
+[2024-11-24T00:03:36.527Z] Event: Seek bar adjusted | Details: {"newTime":161.05750002}
+[2024-11-24T00:03:36.534Z] Event: Seek bar adjusted | Details: {"newTime":187.90041669000001}
+[2024-11-24T00:03:36.541Z] Event: Seek bar adjusted | Details: {"newTime":214.74333336}
+[2024-11-24T00:03:36.601Z] Event: Time updated | Details: {"currentTime":214.743333}
+[2024-11-24T00:03:36.638Z] Event: Seek bar adjusted | Details: {"newTime":241.58625002999997}
+[2024-11-24T00:03:36.652Z] Event: Seek bar adjusted | Details: {"newTime":268.4291667}
+[2024-11-24T00:03:36.724Z] Event: Time updated | Details: {"currentTime":268.429166}
+[2024-11-24T00:03:36.986Z] Event: Time updated | Details: {"currentTime":268.629165}
+[2024-11-24T00:03:37.189Z] Event: Seek bar adjusted | Details: {"newTime":295.27208337}
+[2024-11-24T00:03:37.195Z] Event: Time updated | Details: {"currentTime":295.272083}
+[2024-11-24T00:03:37.201Z] Event: Seek bar adjusted | Details: {"newTime":322.11500004}
+[2024-11-24T00:03:37.207Z] Event: Time updated | Details: {"currentTime":322.115}
+[2024-11-24T00:03:37.208Z] Event: Seek bar adjusted | Details: {"newTime":348.95791671}
+[2024-11-24T00:03:37.227Z] Event: Seek bar adjusted | Details: {"newTime":402.64375005}
+[2024-11-24T00:03:37.229Z] Event: Seek bar adjusted | Details: {"newTime":429.48666672}
+[2024-11-24T00:03:37.236Z] Event: Seek bar adjusted | Details: {"newTime":456.32958339000004}
+[2024-11-24T00:03:37.250Z] Event: Seek bar adjusted | Details: {"newTime":483.17250005999995}
+[2024-11-24T00:03:37.257Z] Event: Seek bar adjusted | Details: {"newTime":536.8583334}
+[2024-11-24T00:03:37.269Z] Event: Seek bar adjusted | Details: {"newTime":590.54416674}
+[2024-11-24T00:03:37.284Z] Event: Seek bar adjusted | Details: {"newTime":617.3870834100001}
+[2024-11-24T00:03:37.357Z] Event: Time updated | Details: {"currentTime":617.387083}
+[2024-11-24T00:03:37.622Z] Event: Time updated | Details: {"currentTime":617.606294}
+[2024-11-24T00:03:37.875Z] Event: Seek bar adjusted | Details: {"newTime":563.70125007}
+[2024-11-24T00:03:37.889Z] Event: Seek bar adjusted | Details: {"newTime":536.8583334}
+[2024-11-24T00:03:37.914Z] Event: Seek bar adjusted | Details: {"newTime":510.01541673}
+[2024-11-24T00:03:37.937Z] Event: Seek bar adjusted | Details: {"newTime":483.17250005999995}
+[2024-11-24T00:03:37.963Z] Event: Seek bar adjusted | Details: {"newTime":456.32958339000004}
+[2024-11-24T00:03:37.986Z] Event: Seek bar adjusted | Details: {"newTime":429.48666672}
+[2024-11-24T00:03:37.993Z] Event: Seek bar adjusted | Details: {"newTime":402.64375005}
+[2024-11-24T00:03:38.010Z] Event: Seek bar adjusted | Details: {"newTime":375.80083338000003}
+[2024-11-24T00:03:38.014Z] Event: Seek bar adjusted | Details: {"newTime":348.95791671}
+[2024-11-24T00:03:38.032Z] Event: Time updated | Details: {"currentTime":348.957916}
+[2024-11-24T00:03:38.036Z] Event: Seek bar adjusted | Details: {"newTime":322.11500004}
+[2024-11-24T00:03:38.060Z] Event: Seek bar adjusted | Details: {"newTime":295.27208337}
+[2024-11-24T00:03:38.067Z] Event: Time updated | Details: {"currentTime":295.272083}
+[2024-11-24T00:03:38.323Z] Event: Time updated | Details: {"currentTime":295.470012}
+[2024-11-24T00:03:38.590Z] Event: Time updated | Details: {"currentTime":295.744309}
+[2024-11-24T00:03:38.854Z] Event: Time updated | Details: {"currentTime":296.003488}
+[2024-11-24T00:03:39.121Z] Event: Time updated | Details: {"currentTime":296.269151}
+[2024-11-24T00:03:39.189Z] Event: Seek bar adjusted | Details: {"newTime":241.58625002999997}
+[2024-11-24T00:03:39.208Z] Event: Seek bar adjusted | Details: {"newTime":214.74333336}
+[2024-11-24T00:03:39.233Z] Event: Seek bar adjusted | Details: {"newTime":187.90041669000001}
+[2024-11-24T00:03:39.236Z] Event: Seek bar adjusted | Details: {"newTime":161.05750002}
+[2024-11-24T00:03:39.257Z] Event: Time updated | Details: {"currentTime":161.0575}
+[2024-11-24T00:03:39.293Z] Event: Seek bar adjusted | Details: {"newTime":134.21458335}
+[2024-11-24T00:03:39.309Z] Event: Time updated | Details: {"currentTime":134.214583}
+[2024-11-24T00:03:39.381Z] Event: Seek bar adjusted | Details: {"newTime":107.37166668}
+[2024-11-24T00:03:39.388Z] Event: Time updated | Details: {"currentTime":107.371666}
+[2024-11-24T00:03:39.660Z] Event: Time updated | Details: {"currentTime":107.589225}
+[2024-11-24T00:03:39.924Z] Event: Time updated | Details: {"currentTime":107.84867}
+[2024-11-24T00:03:40.085Z] Event: Seek bar adjusted | Details: {"newTime":134.21458335}
+[2024-11-24T00:03:40.100Z] Event: Time updated | Details: {"currentTime":134.214583}
+[2024-11-24T00:03:40.108Z] Event: Seek bar adjusted | Details: {"newTime":161.05750002}
+[2024-11-24T00:03:40.127Z] Event: Seek bar adjusted | Details: {"newTime":187.90041669000001}
+[2024-11-24T00:03:40.132Z] Event: Seek bar adjusted | Details: {"newTime":214.74333336}
+[2024-11-24T00:03:40.149Z] Event: Seek bar adjusted | Details: {"newTime":241.58625002999997}
+[2024-11-24T00:03:40.156Z] Event: Seek bar adjusted | Details: {"newTime":268.4291667}
+[2024-11-24T00:03:40.215Z] Event: Time updated | Details: {"currentTime":268.429166}
+[2024-11-24T00:03:40.482Z] Event: Time updated | Details: {"currentTime":268.64859}
+[2024-11-24T00:03:40.757Z] Event: Time updated | Details: {"currentTime":268.91968}
+[2024-11-24T00:03:41.016Z] Event: Time updated | Details: {"currentTime":269.185734}
+[2024-11-24T00:03:41.044Z] Event: Seek bar adjusted | Details: {"newTime":295.27208337}
+[2024-11-24T00:03:41.057Z] Event: Time updated | Details: {"currentTime":295.272083}
+[2024-11-24T00:03:41.064Z] Event: Seek bar adjusted | Details: {"newTime":322.11500004}
+[2024-11-24T00:03:41.069Z] Event: Seek bar adjusted | Details: {"newTime":348.95791671}
+[2024-11-24T00:03:41.076Z] Event: Seek bar adjusted | Details: {"newTime":375.80083338000003}
+[2024-11-24T00:03:41.084Z] Event: Seek bar adjusted | Details: {"newTime":402.64375005}
+[2024-11-24T00:03:41.092Z] Event: Seek bar adjusted | Details: {"newTime":429.48666672}
+[2024-11-24T00:03:41.106Z] Event: Time updated | Details: {"currentTime":429.486666}
+[2024-11-24T00:03:41.111Z] Event: Seek bar adjusted | Details: {"newTime":456.32958339000004}
+[2024-11-24T00:03:41.160Z] Event: Time updated | Details: {"currentTime":456.329583}
+[2024-11-24T00:03:41.213Z] Event: Seek bar adjusted | Details: {"newTime":483.17250005999995}
+[2024-11-24T00:03:41.255Z] Event: Time updated | Details: {"currentTime":483.1725}
+[2024-11-24T00:03:41.514Z] Event: Time updated | Details: {"currentTime":483.380885}
+[2024-11-24T00:03:41.785Z] Event: Time updated | Details: {"currentTime":483.650123}
+[2024-11-24T00:03:42.048Z] Event: Time updated | Details: {"currentTime":483.921311}
+[2024-11-24T00:03:42.187Z] Event: Seek bar adjusted | Details: {"newTime":510.01541673}
+[2024-11-24T00:03:42.196Z] Event: Seek bar adjusted | Details: {"newTime":536.8583334}
+[2024-11-24T00:03:42.245Z] Event: Seek bar adjusted | Details: {"newTime":563.70125007}
+[2024-11-24T00:03:42.316Z] Event: Time updated | Details: {"currentTime":563.70125}
+[2024-11-24T00:03:42.380Z] Event: Seek bar adjusted | Details: {"newTime":590.54416674}
+[2024-11-24T00:03:42.432Z] Event: Time updated | Details: {"currentTime":590.544166}
+[2024-11-24T00:03:42.517Z] Event: Seek bar adjusted | Details: {"newTime":617.3870834100001}
+[2024-11-24T00:03:42.557Z] Event: Time updated | Details: {"currentTime":617.387141}
+[2024-11-24T00:03:42.569Z] Event: Seek bar adjusted | Details: {"newTime":671.07291675}
+[2024-11-24T00:03:42.587Z] Event: Seek bar adjusted | Details: {"newTime":697.91583342}
+[2024-11-24T00:03:42.590Z] Event: Seek bar adjusted | Details: {"newTime":724.75875009}
+[2024-11-24T00:03:42.598Z] Event: Time updated | Details: {"currentTime":724.75875}
+[2024-11-24T00:03:42.616Z] Event: Seek bar adjusted | Details: {"newTime":751.6016667600001}
+[2024-11-24T00:03:42.632Z] Event: Seek bar adjusted | Details: {"newTime":778.44458343}
+[2024-11-24T00:03:42.677Z] Event: Time updated | Details: {"currentTime":778.444583}
+[2024-11-24T00:03:42.933Z] Event: Time updated | Details: {"currentTime":778.65259}
+[2024-11-24T00:03:43.208Z] Event: Time updated | Details: {"currentTime":778.926052}
+[2024-11-24T00:03:43.465Z] Event: Time updated | Details: {"currentTime":779.18965}
+[2024-11-24T00:03:43.580Z] Event: Seek bar adjusted | Details: {"newTime":805.2875001}
+[2024-11-24T00:03:43.625Z] Event: Seek bar adjusted | Details: {"newTime":832.13041677}
+[2024-11-24T00:03:43.649Z] Event: Seek bar adjusted | Details: {"newTime":858.97333344}
+[2024-11-24T00:03:43.670Z] Event: Time updated | Details: {"currentTime":858.973333}
+[2024-11-24T00:03:43.724Z] Event: Seek bar adjusted | Details: {"newTime":885.81625011}
+[2024-11-24T00:03:43.749Z] Event: Time updated | Details: {"currentTime":885.81625}
+[2024-11-24T00:03:43.780Z] Event: Seek bar adjusted | Details: {"newTime":912.6591667800001}
+[2024-11-24T00:03:43.786Z] Event: Time updated | Details: {"currentTime":912.659166}
+[2024-11-24T00:03:44.049Z] Event: Time updated | Details: {"currentTime":912.863248}
+[2024-11-24T00:03:44.312Z] Event: Time updated | Details: {"currentTime":913.132838}
+[2024-11-24T00:03:44.587Z] Event: Time updated | Details: {"currentTime":913.406227}
+[2024-11-24T00:03:44.844Z] Event: Time updated | Details: {"currentTime":913.659261}
+[2024-11-24T00:03:44.861Z] Event: Seek bar adjusted | Details: {"newTime":939.5020834499999}
+[2024-11-24T00:03:44.897Z] Event: Time updated | Details: {"currentTime":939.502083}
+[2024-11-24T00:03:44.938Z] Event: Seek bar adjusted | Details: {"newTime":966.3450001199999}
+[2024-11-24T00:03:44.960Z] Event: Time updated | Details: {"currentTime":966.345}
+[2024-11-24T00:03:44.993Z] Event: Seek bar adjusted | Details: {"newTime":993.1879167899999}
+[2024-11-24T00:03:45.015Z] Event: Time updated | Details: {"currentTime":993.187916}
+[2024-11-24T00:03:45.173Z] Event: Seek bar adjusted | Details: {"newTime":1020.03083346}
+[2024-11-24T00:03:45.198Z] Event: Time updated | Details: {"currentTime":1020.030833}
+[2024-11-24T00:03:45.470Z] Event: Time updated | Details: {"currentTime":1020.235192}
+[2024-11-24T00:03:45.743Z] Event: Time updated | Details: {"currentTime":1020.506437}
+[2024-11-24T00:03:45.973Z] Event: Seek bar adjusted | Details: {"newTime":1046.87375013}
+[2024-11-24T00:03:46.025Z] Event: Time updated | Details: {"currentTime":1046.87375}
+[2024-11-24T00:03:46.100Z] Event: Seek bar adjusted | Details: {"newTime":1073.7166668}
+[2024-11-24T00:03:46.139Z] Event: Time updated | Details: {"currentTime":1073.716666}
+[2024-11-24T00:03:46.164Z] Event: Seek bar adjusted | Details: {"newTime":1100.55958347}
+[2024-11-24T00:03:46.218Z] Event: Time updated | Details: {"currentTime":1100.559622}
+[2024-11-24T00:03:46.293Z] Event: Seek bar adjusted | Details: {"newTime":1127.40250014}
+[2024-11-24T00:03:46.301Z] Event: Time updated | Details: {"currentTime":1127.4025}
+[2024-11-24T00:03:46.566Z] Event: Time updated | Details: {"currentTime":1127.60254}
+[2024-11-24T00:03:46.826Z] Event: Time updated | Details: {"currentTime":1127.870013}
+[2024-11-24T00:03:47.020Z] Event: Seek bar adjusted | Details: {"newTime":1154.24541681}
+[2024-11-24T00:03:47.077Z] Event: Time updated | Details: {"currentTime":1154.245416}
+[2024-11-24T00:03:47.157Z] Event: Seek bar adjusted | Details: {"newTime":1181.08833348}
+[2024-11-24T00:03:47.163Z] Event: Time updated | Details: {"currentTime":1181.088333}
+[2024-11-24T00:03:47.215Z] Event: Seek bar adjusted | Details: {"newTime":1207.93125015}
+[2024-11-24T00:03:47.242Z] Event: Time updated | Details: {"currentTime":1207.93125}
+[2024-11-24T00:03:47.502Z] Event: Time updated | Details: {"currentTime":1208.127535}
+[2024-11-24T00:03:47.766Z] Event: Time updated | Details: {"currentTime":1208.399307}
+[2024-11-24T00:03:48.026Z] Event: Time updated | Details: {"currentTime":1208.654243}
+[2024-11-24T00:03:48.261Z] Event: Seek bar adjusted | Details: {"newTime":1234.7741668200001}
+[2024-11-24T00:03:48.275Z] Event: Time updated | Details: {"currentTime":1234.774166}
+[2024-11-24T00:03:48.368Z] Event: Seek bar adjusted | Details: {"newTime":1261.61708349}
+[2024-11-24T00:03:48.382Z] Event: Seek bar adjusted | Details: {"newTime":1288.46000016}
+[2024-11-24T00:03:48.457Z] Event: Time updated | Details: {"currentTime":1288.46}
+[2024-11-24T00:03:48.715Z] Event: Time updated | Details: {"currentTime":1288.670074}
+[2024-11-24T00:03:48.982Z] Event: Time updated | Details: {"currentTime":1288.935136}
+[2024-11-24T00:03:49.077Z] Event: Seek bar adjusted | Details: {"newTime":1315.30291683}
+[2024-11-24T00:03:49.107Z] Event: Time updated | Details: {"currentTime":1315.302916}
+[2024-11-24T00:03:49.212Z] Event: Seek bar adjusted | Details: {"newTime":1342.1458335}
+[2024-11-24T00:03:49.232Z] Event: Time updated | Details: {"currentTime":1342.145833}
+[2024-11-24T00:03:49.252Z] Event: Seek bar adjusted | Details: {"newTime":1368.98875017}
+[2024-11-24T00:03:49.260Z] Event: Time updated | Details: {"currentTime":1368.98875}
+[2024-11-24T00:03:49.285Z] Event: Seek bar adjusted | Details: {"newTime":1395.83166684}
+[2024-11-24T00:03:49.298Z] Event: Time updated | Details: {"currentTime":1395.831666}
+[2024-11-24T00:03:49.569Z] Event: Time updated | Details: {"currentTime":1396.035578}
+[2024-11-24T00:03:49.669Z] Event: Seek bar adjusted | Details: {"newTime":1422.67458351}
+[2024-11-24T00:03:49.677Z] Event: Time updated | Details: {"currentTime":1422.674583}
+[2024-11-24T00:03:49.805Z] Event: Seek bar adjusted | Details: {"newTime":1449.51750018}
+[2024-11-24T00:03:49.811Z] Event: Time updated | Details: {"currentTime":1449.5175}
+[2024-11-24T00:03:49.853Z] Event: Seek bar adjusted | Details: {"newTime":1476.36041685}
+[2024-11-24T00:03:49.859Z] Event: Time updated | Details: {"currentTime":1476.360416}
+[2024-11-24T00:03:49.965Z] Event: Seek bar adjusted | Details: {"newTime":1503.2033335200001}
+[2024-11-24T00:03:49.996Z] Event: Time updated | Details: {"currentTime":1503.203333}
+[2024-11-24T00:03:50.197Z] Event: Seek bar adjusted | Details: {"newTime":1530.04625019}
+[2024-11-24T00:03:50.229Z] Event: Time updated | Details: {"currentTime":1530.04625}
+[2024-11-24T00:03:50.293Z] Event: Seek bar adjusted | Details: {"newTime":1556.88916686}
+[2024-11-24T00:03:50.329Z] Event: Time updated | Details: {"currentTime":1556.889166}
+[2024-11-24T00:03:50.421Z] Event: Seek bar adjusted | Details: {"newTime":1583.73208353}
+[2024-11-24T00:03:50.432Z] Event: Time updated | Details: {"currentTime":1583.732083}
+[2024-11-24T00:03:50.701Z] Event: Time updated | Details: {"currentTime":1583.950998}
+[2024-11-24T00:03:50.965Z] Event: Time updated | Details: {"currentTime":1584.210738}
+[2024-11-24T00:03:51.229Z] Event: Time updated | Details: {"currentTime":1584.481393}
+[2024-11-24T00:03:51.496Z] Event: Time updated | Details: {"currentTime":1584.744581}
+[2024-11-24T00:03:51.763Z] Event: Time updated | Details: {"currentTime":1585.010156}
+[2024-11-24T00:03:52.028Z] Event: Time updated | Details: {"currentTime":1585.281781}
+[2024-11-24T00:03:52.298Z] Event: Time updated | Details: {"currentTime":1585.550444}
+[2024-11-24T00:03:52.558Z] Event: Time updated | Details: {"currentTime":1585.805597}
+[2024-11-24T00:03:52.822Z] Event: Time updated | Details: {"currentTime":1586.076441}
+[2024-11-24T00:03:53.097Z] Event: Time updated | Details: {"currentTime":1586.347045}
+[2024-11-24T00:03:53.355Z] Event: Time updated | Details: {"currentTime":1586.600178}
+[2024-11-24T00:03:53.620Z] Event: Time updated | Details: {"currentTime":1586.864676}
+[2024-11-24T00:03:53.876Z] Event: Media playback paused 
+[2024-11-24T00:03:53.877Z] Event: Time updated | Details: {"currentTime":1587.123859}
+[2024-11-24T00:03:54.268Z] Event: Media playback stopped 
+[2024-11-24T00:03:54.274Z] Event: Time updated | Details: {"currentTime":0}
+[2024-11-24T00:05:46.148Z] Event: loadVideoButton clicked 
+[2024-11-24T00:05:50.476Z] Event: File loaded successfully | Details: {"fileName":"Ogryzek Glory (Slowed).mp3"}
+[2024-11-24T00:05:50.477Z] Event: Time updated | Details: {"currentTime":0}
+[2024-11-24T00:05:52.213Z] Event: Media playback started 
+[2024-11-24T00:05:52.467Z] Event: Time updated | Details: {"currentTime":0.102313}
+[2024-11-24T00:05:52.732Z] Event: Time updated | Details: {"currentTime":0.362096}
+[2024-11-24T00:05:53.004Z] Event: Time updated | Details: {"currentTime":0.629201}
+[2024-11-24T00:05:53.261Z] Event: Time updated | Details: {"currentTime":0.893318}
+[2024-11-24T00:05:53.526Z] Event: Time updated | Details: {"currentTime":1.157527}
+[2024-11-24T00:05:53.793Z] Event: Time updated | Details: {"currentTime":1.419937}
+[2024-11-24T00:05:54.064Z] Event: Time updated | Details: {"currentTime":1.697242}
+[2024-11-24T00:05:54.325Z] Event: Time updated | Details: {"currentTime":1.957594}
+[2024-11-24T00:05:54.590Z] Event: Time updated | Details: {"currentTime":2.217442}
+[2024-11-24T00:05:54.864Z] Event: Time updated | Details: {"currentTime":2.49799}
+[2024-11-24T00:05:55.134Z] Event: Time updated | Details: {"currentTime":2.766915}
+[2024-11-24T00:05:55.395Z] Event: Time updated | Details: {"currentTime":3.023702}
+[2024-11-24T00:05:55.664Z] Event: Time updated | Details: {"currentTime":3.29923}
+[2024-11-24T00:05:55.919Z] Event: Time updated | Details: {"currentTime":3.549714}
+[2024-11-24T00:05:55.996Z] Event: Media playback paused 
+[2024-11-24T00:05:55.997Z] Event: Time updated | Details: {"currentTime":3.628255}
+[2024-11-24T00:06:44.309Z] Event: loadVideoButton clicked 
+[2024-11-24T00:06:47.463Z] Event: File loaded successfully | Details: {"fileName":"photo_2023-06-30_05-50-26.jpg"}
+[2024-11-24T00:06:47.463Z] Event: Time updated | Details: {"currentTime":0}
+[2024-11-24T00:06:48.292Z] Event: loadVideoButton clicked 
+[2024-11-24T00:06:51.958Z] Event: File loaded successfully | Details: {"fileName":"Ogryzek Glory (Slowed).mp3"}
+[2024-11-24T00:06:51.959Z] Event: Time updated | Details: {"currentTime":0}
+[2024-11-24T00:06:53.630Z] Event: Media playback started 
+[2024-11-24T00:06:53.900Z] Event: Time updated | Details: {"currentTime":0.111115}
+[2024-11-24T00:06:54.165Z] Event: Time updated | Details: {"currentTime":0.383191}
+[2024-11-24T00:06:54.434Z] Event: Time updated | Details: {"currentTime":0.647874}
+[2024-11-24T00:06:54.692Z] Event: Time updated | Details: {"currentTime":0.912714}
+[2024-11-24T00:06:54.957Z] Event: Time updated | Details: {"currentTime":1.172995}
+[2024-11-24T00:06:55.228Z] Event: Time updated | Details: {"currentTime":1.443128}
+[2024-11-24T00:06:55.493Z] Event: Time updated | Details: {"currentTime":1.703007}
+[2024-11-24T00:06:55.557Z] Event: Seek bar adjusted | Details: {"newTime":22.13667118}
+[2024-11-24T00:06:55.558Z] Event: Time updated | Details: {"currentTime":22.136671}
+[2024-11-24T00:06:55.605Z] Event: Seek bar adjusted | Details: {"newTime":23.83949204}
+[2024-11-24T00:06:55.606Z] Event: Time updated | Details: {"currentTime":23.839492}
+[2024-11-24T00:06:55.863Z] Event: Time updated | Details: {"currentTime":24.035543}
+[2024-11-24T00:06:56.131Z] Event: Time updated | Details: {"currentTime":24.30983}
+[2024-11-24T00:06:56.245Z] Event: Seek bar adjusted | Details: {"newTime":85.141043}
+[2024-11-24T00:06:56.247Z] Event: Time updated | Details: {"currentTime":85.141043}
+[2024-11-24T00:06:56.505Z] Event: Time updated | Details: {"currentTime":85.338366}
+[2024-11-24T00:06:56.779Z] Event: Time updated | Details: {"currentTime":85.619064}
+[2024-11-24T00:06:57.049Z] Event: Time updated | Details: {"currentTime":85.887813}
+[2024-11-24T00:06:57.309Z] Event: Time updated | Details: {"currentTime":86.143319}
+[2024-11-24T00:06:57.570Z] Event: Time updated | Details: {"currentTime":86.411288}
+[2024-11-24T00:06:57.833Z] Event: Time updated | Details: {"currentTime":86.66985}
+[2024-11-24T00:06:58.107Z] Event: Time updated | Details: {"currentTime":86.942391}
+[2024-11-24T00:06:58.357Z] Event: Seek bar adjusted | Details: {"newTime":119.19746019999998}
+[2024-11-24T00:06:58.358Z] Event: Time updated | Details: {"currentTime":119.19746}
+[2024-11-24T00:06:58.613Z] Event: Time updated | Details: {"currentTime":119.403584}
+[2024-11-24T00:06:58.889Z] Event: Time updated | Details: {"currentTime":119.677233}
+[2024-11-24T00:06:59.145Z] Event: Time updated | Details: {"currentTime":119.940651}
+[2024-11-24T00:06:59.418Z] Event: Time updated | Details: {"currentTime":120.209215}
+[2024-11-24T00:06:59.685Z] Event: Time updated | Details: {"currentTime":120.474728}
+[2024-11-24T00:06:59.942Z] Event: Time updated | Details: {"currentTime":120.738617}
+[2024-11-24T00:07:00.209Z] Event: Time updated | Details: {"currentTime":121.000723}
+[2024-11-24T00:07:00.479Z] Event: Time updated | Details: {"currentTime":121.266348}
+[2024-11-24T00:07:00.738Z] Event: Time updated | Details: {"currentTime":121.532715}
+[2024-11-24T00:07:01.009Z] Event: Time updated | Details: {"currentTime":121.80198}
+[2024-11-24T00:07:01.280Z] Event: Time updated | Details: {"currentTime":122.071578}
+[2024-11-24T00:07:01.284Z] Event: Media playback stopped 
+[2024-11-24T00:07:01.285Z] Event: Time updated | Details: {"currentTime":0}
+[2024-11-24T00:07:01.286Z] Event: Time updated | Details: {"currentTime":0}
+[2024-11-24T00:07:38.520Z] Event: loadVideoButton clicked 
+[2024-11-24T00:07:42.538Z] Event: File loaded successfully | Details: {"fileName":"Ogryzek Glory (Slowed).mp3"}
+[2024-11-24T00:07:42.538Z] Event: Time updated | Details: {"currentTime":0}
+[2024-11-24T00:07:44.168Z] Event: Media playback paused 
+[2024-11-24T00:07:44.169Z] Event: Time updated | Details: {"currentTime":0}
+[2024-11-24T00:07:44.170Z] Event: Error playing media | Details: {"error":"The play() request was interrupted by a call to pause(). https://goo.gl/LdLk22"}
+[2024-11-24T00:07:44.496Z] Event: Media playback paused 
+[2024-11-24T00:07:44.497Z] Event: Time updated | Details: {"currentTime":0}
+[2024-11-24T00:07:44.497Z] Event: Error playing media | Details: {"error":"The play() request was interrupted by a call to pause(). https://goo.gl/LdLk22"}
+[2024-11-24T00:08:03.086Z] Event: loadVideoButton clicked 
+[2024-11-24T00:08:06.246Z] Event: File loaded successfully | Details: {"fileName":"Ogryzek Glory (Slowed).mp3"}
+[2024-11-24T00:08:06.246Z] Event: Time updated | Details: {"currentTime":0}
+[2024-11-24T00:08:07.854Z] Event: Media playback paused 
+[2024-11-24T00:08:07.856Z] Event: Time updated | Details: {"currentTime":0}
+[2024-11-24T00:08:07.856Z] Event: Error playing media | Details: {"error":"The play() request was interrupted by a call to pause(). https://goo.gl/LdLk22"}
+[2024-11-24T00:08:08.182Z] Event: Media playback paused 
+[2024-11-24T00:08:08.183Z] Event: Time updated | Details: {"currentTime":0}
+[2024-11-24T00:08:08.183Z] Event: Error playing media | Details: {"error":"The play() request was interrupted by a call to pause(). https://goo.gl/LdLk22"}
+[2024-11-24T00:08:09.438Z] Event: Media playback stopped 
+[2024-11-24T00:08:09.439Z] Event: Time updated | Details: {"currentTime":0}
+[2024-11-24T00:08:09.440Z] Event: Error playing media | Details: {"error":"The play() request was interrupted by a call to pause(). https://goo.gl/LdLk22"}
+[2024-11-24T00:08:27.062Z] Event: loadVideoButton clicked 
+[2024-11-24T00:08:29.772Z] Event: File loaded successfully | Details: {"fileName":"Ogryzek Glory (Slowed).mp3"}
+[2024-11-24T00:08:29.773Z] Event: Time updated | Details: {"currentTime":0}
+[2024-11-24T00:08:31.613Z] Event: Error playing media | Details: {"error":"The element has no supported sources."}
+[2024-11-24T00:09:10.747Z] Event: loadVideoButton clicked 
+[2024-11-24T00:09:13.937Z] Event: Error loading file | Details: {"error":"Failed to execute 'createObjectURL' on 'URL': Overload resolution failed."}
+[2024-11-24T00:09:16.676Z] Event: Media playback paused 
+[2024-11-24T00:09:16.677Z] Event: Time updated | Details: {"currentTime":0}
+[2024-11-24T00:09:16.678Z] Event: Error playing media | Details: {"error":"The play() request was interrupted by a call to pause(). https://goo.gl/LdLk22"}
+[2024-11-24T00:09:16.868Z] Event: Media playback stopped 
+[2024-11-24T00:09:17.676Z] Event: Media playback paused 
+[2024-11-24T00:09:17.676Z] Event: Time updated | Details: {"currentTime":0}
+[2024-11-24T00:09:17.677Z] Event: Error playing media | Details: {"error":"The play() request was interrupted by a call to pause(). https://goo.gl/LdLk22"}
+[2024-11-24T00:13:36.247Z] Event: loadVideoButton clicked 
+[2024-11-24T00:13:39.649Z] Event: File loaded successfully | Details: {"fileName":"Ogryzek Glory (Slowed).mp3"}
+[2024-11-24T00:13:39.650Z] Event: Time updated | Details: {"currentTime":0}
+[2024-11-24T00:13:42.353Z] Event: Media playback started 
+[2024-11-24T00:13:42.610Z] Event: Time updated | Details: {"currentTime":0.060275}
+[2024-11-24T00:13:42.882Z] Event: Time updated | Details: {"currentTime":0.339459}
+[2024-11-24T00:13:43.136Z] Event: Time updated | Details: {"currentTime":0.589294}
+[2024-11-24T00:13:43.401Z] Event: Time updated | Details: {"currentTime":0.849452}
+[2024-11-24T00:13:43.669Z] Event: Time updated | Details: {"currentTime":1.115847}
+[2024-11-24T00:13:43.932Z] Event: Time updated | Details: {"currentTime":1.385797}
+[2024-11-24T00:13:44.206Z] Event: Time updated | Details: {"currentTime":1.659017}
+[2024-11-24T00:13:44.471Z] Event: Time updated | Details: {"currentTime":1.919398}
+[2024-11-24T00:13:44.729Z] Event: Time updated | Details: {"currentTime":2.184152}
+[2024-11-24T00:13:45.001Z] Event: Time updated | Details: {"currentTime":2.450951}
+[2024-11-24T00:13:45.263Z] Event: Time updated | Details: {"currentTime":2.712618}
+[2024-11-24T00:13:45.525Z] Event: Time updated | Details: {"currentTime":2.981528}
+[2024-11-24T00:13:45.791Z] Event: Time updated | Details: {"currentTime":3.242399}
+[2024-11-24T00:13:46.057Z] Event: Time updated | Details: {"currentTime":3.503934}
+[2024-11-24T00:13:46.327Z] Event: Time updated | Details: {"currentTime":3.78499}
+[2024-11-24T00:13:46.592Z] Event: Time updated | Details: {"currentTime":4.044086}
+[2024-11-24T00:13:46.859Z] Event: Time updated | Details: {"currentTime":4.30761}
+[2024-11-24T00:13:47.123Z] Event: Time updated | Details: {"currentTime":4.569735}
+[2024-11-24T00:13:47.385Z] Event: Time updated | Details: {"currentTime":4.838393}
+[2024-11-24T00:13:47.657Z] Event: Time updated | Details: {"currentTime":5.106778}
+[2024-11-24T00:13:47.918Z] Event: Time updated | Details: {"currentTime":5.373858}
+[2024-11-24T00:13:48.188Z] Event: Time updated | Details: {"currentTime":5.643295}
+[2024-11-24T00:13:48.447Z] Event: Time updated | Details: {"currentTime":5.897388}
+[2024-11-24T00:13:48.714Z] Event: Time updated | Details: {"currentTime":6.171244}
+[2024-11-24T00:13:48.978Z] Event: Time updated | Details: {"currentTime":6.43136}
+[2024-11-24T00:13:49.247Z] Event: Time updated | Details: {"currentTime":6.698848}
+[2024-11-24T00:13:49.512Z] Event: Time updated | Details: {"currentTime":6.958255}
+[2024-11-24T00:13:49.775Z] Event: Time updated | Details: {"currentTime":7.229049}
+[2024-11-24T00:13:50.046Z] Event: Time updated | Details: {"currentTime":7.497936}
+[2024-11-24T00:13:50.306Z] Event: Time updated | Details: {"currentTime":7.75453}
+[2024-11-24T00:13:50.575Z] Event: Time updated | Details: {"currentTime":8.030091}
+[2024-11-24T00:13:50.838Z] Event: Time updated | Details: {"currentTime":8.28853}
+[2024-11-24T00:13:51.088Z] Event: Media playback paused 
+[2024-11-24T00:13:51.089Z] Event: Time updated | Details: {"currentTime":8.544916}
+[2024-11-24T00:13:51.744Z] Event: Media playback started 
+[2024-11-24T00:13:52.011Z] Event: Time updated | Details: {"currentTime":8.804091}
+[2024-11-24T00:13:52.279Z] Event: Time updated | Details: {"currentTime":9.07847}
+[2024-11-24T00:13:52.545Z] Event: Time updated | Details: {"currentTime":9.343557}
+[2024-11-24T00:13:52.807Z] Event: Time updated | Details: {"currentTime":9.601166}
+[2024-11-24T00:13:53.081Z] Event: Time updated | Details: {"currentTime":9.88201}
+[2024-11-24T00:13:53.352Z] Event: Time updated | Details: {"currentTime":10.151009}
+[2024-11-24T00:13:53.612Z] Event: Time updated | Details: {"currentTime":10.406696}
+[2024-11-24T00:13:53.869Z] Event: Time updated | Details: {"currentTime":10.659752}
+[2024-11-24T00:13:54.140Z] Event: Time updated | Details: {"currentTime":10.937307}
+[2024-11-24T00:13:54.411Z] Event: Time updated | Details: {"currentTime":11.207025}
+[2024-11-24T00:13:54.672Z] Event: Time updated | Details: {"currentTime":11.463513}
+[2024-11-24T00:13:54.940Z] Event: Time updated | Details: {"currentTime":11.738608}
+[2024-11-24T00:13:55.212Z] Event: Time updated | Details: {"currentTime":12.008544}
+[2024-11-24T00:13:55.463Z] Event: Time updated | Details: {"currentTime":12.255716}
+[2024-11-24T00:13:55.728Z] Event: Time updated | Details: {"currentTime":12.52815}
+[2024-11-24T00:13:55.994Z] Event: Time updated | Details: {"currentTime":12.78897}
+[2024-11-24T00:13:56.261Z] Event: Time updated | Details: {"currentTime":13.051376}
+[2024-11-24T00:13:56.525Z] Event: Time updated | Details: {"currentTime":13.326115}
+[2024-11-24T00:13:56.791Z] Event: Time updated | Details: {"currentTime":13.587662}
+[2024-11-24T00:13:57.057Z] Event: Time updated | Details: {"currentTime":13.848421}
+[2024-11-24T00:13:57.327Z] Event: Time updated | Details: {"currentTime":14.117566}
+[2024-11-24T00:13:57.591Z] Event: Time updated | Details: {"currentTime":14.388591}
+[2024-11-24T00:13:57.855Z] Event: Time updated | Details: {"currentTime":14.647949}
+[2024-11-24T00:13:58.119Z] Event: Time updated | Details: {"currentTime":14.918824}
+[2024-11-24T00:13:58.390Z] Event: Time updated | Details: {"currentTime":15.188784}
+[2024-11-24T00:13:58.651Z] Event: Time updated | Details: {"currentTime":15.444718}
+[2024-11-24T00:13:58.919Z] Event: Time updated | Details: {"currentTime":15.719857}
+[2024-11-24T00:13:59.183Z] Event: Time updated | Details: {"currentTime":15.982926}
+[2024-11-24T00:13:59.451Z] Event: Time updated | Details: {"currentTime":16.246325}
+[2024-11-24T00:13:59.721Z] Event: Time updated | Details: {"currentTime":16.511212}
+[2024-11-24T00:13:59.982Z] Event: Time updated | Details: {"currentTime":16.779112}
+[2024-11-24T00:14:00.251Z] Event: Time updated | Details: {"currentTime":17.047346}
+[2024-11-24T00:14:00.511Z] Event: Time updated | Details: {"currentTime":17.302642}
+[2024-11-24T00:14:00.780Z] Event: Time updated | Details: {"currentTime":17.578652}
+[2024-11-24T00:14:01.041Z] Event: Time updated | Details: {"currentTime":17.834885}
+[2024-11-24T00:14:01.311Z] Event: Time updated | Details: {"currentTime":18.10392}
+[2024-11-24T00:14:01.581Z] Event: Time updated | Details: {"currentTime":18.380518}
+[2024-11-24T00:14:01.841Z] Event: Time updated | Details: {"currentTime":18.636253}
+[2024-11-24T00:14:02.111Z] Event: Time updated | Details: {"currentTime":18.904453}
+[2024-11-24T00:14:02.375Z] Event: Time updated | Details: {"currentTime":19.175064}
+[2024-11-24T00:14:02.634Z] Event: Time updated | Details: {"currentTime":19.429811}
+[2024-11-24T00:14:02.904Z] Event: Time updated | Details: {"currentTime":19.698166}
+[2024-11-24T00:14:03.171Z] Event: Time updated | Details: {"currentTime":19.961149}
+[2024-11-24T00:14:03.436Z] Event: Time updated | Details: {"currentTime":20.233429}
+[2024-11-24T00:14:03.701Z] Event: Time updated | Details: {"currentTime":20.493481}
+[2024-11-24T00:14:03.962Z] Event: Time updated | Details: {"currentTime":20.753673}
+[2024-11-24T00:14:04.231Z] Event: Time updated | Details: {"currentTime":21.029373}
+[2024-11-24T00:14:04.501Z] Event: Time updated | Details: {"currentTime":21.294931}
+[2024-11-24T00:14:04.761Z] Event: Time updated | Details: {"currentTime":21.561717}
+[2024-11-24T00:14:05.031Z] Event: Time updated | Details: {"currentTime":21.830924}
+[2024-11-24T00:14:05.301Z] Event: Time updated | Details: {"currentTime":22.096114}
+[2024-11-24T00:14:05.571Z] Event: Time updated | Details: {"currentTime":22.364901}
+[2024-11-24T00:14:05.841Z] Event: Time updated | Details: {"currentTime":22.641359}
+[2024-11-24T00:14:06.111Z] Event: Time updated | Details: {"currentTime":22.910522}
+[2024-11-24T00:14:06.371Z] Event: Time updated | Details: {"currentTime":23.165736}
+[2024-11-24T00:14:06.636Z] Event: Time updated | Details: {"currentTime":23.426273}
+[2024-11-24T00:14:06.911Z] Event: Time updated | Details: {"currentTime":23.711434}
+[2024-11-24T00:14:07.171Z] Event: Time updated | Details: {"currentTime":23.967036}
+[2024-11-24T00:14:07.431Z] Event: Time updated | Details: {"currentTime":24.222236}
+[2024-11-24T00:14:07.701Z] Event: Time updated | Details: {"currentTime":24.499298}
+[2024-11-24T00:14:07.971Z] Event: Time updated | Details: {"currentTime":24.76771}
+[2024-11-24T00:14:08.231Z] Event: Time updated | Details: {"currentTime":25.023209}
+[2024-11-24T00:14:08.501Z] Event: Time updated | Details: {"currentTime":25.300235}
+[2024-11-24T00:14:08.761Z] Event: Time updated | Details: {"currentTime":25.555445}
+[2024-11-24T00:14:09.029Z] Event: Time updated | Details: {"currentTime":25.82241}
+[2024-11-24T00:14:09.300Z] Event: Time updated | Details: {"currentTime":26.100395}
+[2024-11-24T00:14:09.559Z] Event: Time updated | Details: {"currentTime":26.355169}
+[2024-11-24T00:14:09.826Z] Event: Time updated | Details: {"currentTime":26.620267}
+[2024-11-24T00:14:10.091Z] Event: Time updated | Details: {"currentTime":26.892368}
+[2024-11-24T00:14:10.361Z] Event: Time updated | Details: {"currentTime":27.157834}
+[2024-11-24T00:14:10.620Z] Event: Time updated | Details: {"currentTime":27.412881}
+[2024-11-24T00:14:10.886Z] Event: Time updated | Details: {"currentTime":27.676928}
+[2024-11-24T00:14:11.151Z] Event: Time updated | Details: {"currentTime":27.948818}
+[2024-11-24T00:14:11.428Z] Event: Time updated | Details: {"currentTime":28.224205}
+[2024-11-24T00:14:11.681Z] Event: Time updated | Details: {"currentTime":28.481395}
+[2024-11-24T00:14:11.948Z] Event: Time updated | Details: {"currentTime":28.747542}
+[2024-11-24T00:14:12.216Z] Event: Time updated | Details: {"currentTime":29.010702}
+[2024-11-24T00:14:12.481Z] Event: Time updated | Details: {"currentTime":29.282655}
+[2024-11-24T00:14:12.743Z] Event: Time updated | Details: {"currentTime":29.543307}
+[2024-11-24T00:14:13.011Z] Event: Time updated | Details: {"currentTime":29.806856}
+[2024-11-24T00:14:13.279Z] Event: Time updated | Details: {"currentTime":30.069585}
+[2024-11-24T00:14:13.541Z] Event: Time updated | Details: {"currentTime":30.338887}
+[2024-11-24T00:14:13.811Z] Event: Time updated | Details: {"currentTime":30.607642}
+[2024-11-24T00:14:14.081Z] Event: Time updated | Details: {"currentTime":30.873201}
+[2024-11-24T00:14:14.341Z] Event: Time updated | Details: {"currentTime":31.140164}
+[2024-11-24T00:14:14.611Z] Event: Time updated | Details: {"currentTime":31.408762}
+[2024-11-24T00:14:14.687Z] Event: Media playback paused 
+[2024-11-24T00:14:14.688Z] Event: Time updated | Details: {"currentTime":31.486251}
+[2024-11-24T00:16:16.756Z] Event: loadVideoButton clicked 
+[2024-11-24T00:16:20.134Z] Event: Audio file loaded successfully | Details: {"fileName":"Ogryzek Glory (Slowed).mp3"}
+[2024-11-24T00:16:20.134Z] Event: Time updated | Details: {"currentTime":0}
+[2024-11-24T00:16:21.446Z] Event: Media playback started 
+[2024-11-24T00:16:21.712Z] Event: Time updated | Details: {"currentTime":0.112466}
+[2024-11-24T00:16:21.977Z] Event: Time updated | Details: {"currentTime":0.373599}
+[2024-11-24T00:16:22.247Z] Event: Time updated | Details: {"currentTime":0.642204}
+[2024-11-24T00:16:22.507Z] Event: Time updated | Details: {"currentTime":0.909009}
+[2024-11-24T00:16:22.776Z] Event: Time updated | Details: {"currentTime":1.173704}
+[2024-11-24T00:16:23.043Z] Event: Time updated | Details: {"currentTime":1.438696}
+[2024-11-24T00:16:23.304Z] Event: Time updated | Details: {"currentTime":1.695286}
+[2024-11-24T00:16:23.577Z] Event: Time updated | Details: {"currentTime":1.975806}
+[2024-11-24T00:16:23.836Z] Event: Time updated | Details: {"currentTime":2.230373}
+[2024-11-24T00:16:24.102Z] Event: Time updated | Details: {"currentTime":2.494737}
+[2024-11-24T00:16:24.244Z] Event: Seek bar adjusted | Details: {"newTime":81.73540127999999}
+[2024-11-24T00:16:24.245Z] Event: Time updated | Details: {"currentTime":81.735401}
+[2024-11-24T00:16:24.507Z] Event: Time updated | Details: {"currentTime":81.936182}
+[2024-11-24T00:16:24.773Z] Event: Time updated | Details: {"currentTime":82.209335}
+[2024-11-24T00:16:25.047Z] Event: Time updated | Details: {"currentTime":82.481899}
+[2024-11-24T00:16:25.188Z] Event: Media playback paused 
+[2024-11-24T00:16:25.189Z] Event: Time updated | Details: {"currentTime":82.622211}
+[2024-11-24T00:16:25.644Z] Event: loadVideoButton clicked 
+[2024-11-24T00:16:28.554Z] Event: Time updated | Details: {"currentTime":0}
+[2024-11-24T00:16:28.553Z] Event: Video file loaded successfully | Details: {"fileName":"video_2023-11-22_11-48-36 (online-video-cutter.com).mp4"}
+[2024-11-24T00:16:30.813Z] Event: Media playback started 
+[2024-11-24T00:16:31.076Z] Event: Time updated | Details: {"currentTime":0.210212}
+[2024-11-24T00:16:31.341Z] Event: Time updated | Details: {"currentTime":0.473782}
+[2024-11-24T00:16:31.476Z] Event: Seek bar adjusted | Details: {"newTime":10.516800000000002}
+[2024-11-24T00:16:31.545Z] Event: Time updated | Details: {"currentTime":10.5168}
+[2024-11-24T00:16:31.805Z] Event: Time updated | Details: {"currentTime":10.715297}
+[2024-11-24T00:16:31.988Z] Event: Seek bar adjusted | Details: {"newTime":21.4092}
+[2024-11-24T00:16:32.220Z] Event: Time updated | Details: {"currentTime":21.4092}
+[2024-11-24T00:16:32.477Z] Event: Time updated | Details: {"currentTime":21.608028}
+[2024-11-24T00:16:32.747Z] Event: Time updated | Details: {"currentTime":21.877446}
+[2024-11-24T00:16:33.012Z] Event: Time updated | Details: {"currentTime":22.137155}
+[2024-11-24T00:16:33.275Z] Event: Time updated | Details: {"currentTime":22.396127}
+[2024-11-24T00:16:33.539Z] Event: Time updated | Details: {"currentTime":22.670522}
+[2024-11-24T00:16:33.813Z] Event: Time updated | Details: {"currentTime":22.93994}
+[2024-11-24T00:16:34.070Z] Event: Time updated | Details: {"currentTime":23.191943}
+[2024-11-24T00:16:34.337Z] Event: Time updated | Details: {"currentTime":23.466274}
+[2024-11-24T00:16:34.602Z] Event: Time updated | Details: {"currentTime":23.729562}
+[2024-11-24T00:16:34.868Z] Event: Time updated | Details: {"currentTime":23.991107}
+[2024-11-24T00:16:35.132Z] Event: Time updated | Details: {"currentTime":24.262534}
+[2024-11-24T00:16:35.409Z] Event: Time updated | Details: {"currentTime":24.538121}
+[2024-11-24T00:16:35.672Z] Event: Time updated | Details: {"currentTime":24.795743}
+[2024-11-24T00:16:35.931Z] Event: Time updated | Details: {"currentTime":25.062672}
+[2024-11-24T00:16:36.199Z] Event: Time updated | Details: {"currentTime":25.328833}
+[2024-11-24T00:16:36.470Z] Event: Time updated | Details: {"currentTime":25.594979}
+[2024-11-24T00:16:36.726Z] Event: Time updated | Details: {"currentTime":25.846668}
+[2024-11-24T00:16:37.003Z] Event: Time updated | Details: {"currentTime":26.133752}
+[2024-11-24T00:16:37.258Z] Event: Time updated | Details: {"currentTime":26.380949}
+[2024-11-24T00:16:37.529Z] Event: Time updated | Details: {"currentTime":26.650443}
+[2024-11-24T00:16:37.797Z] Event: Time updated | Details: {"currentTime":26.925722}
+[2024-11-24T00:16:38.054Z] Event: Time updated | Details: {"currentTime":27.178571}
+[2024-11-24T00:16:38.319Z] Event: Time updated | Details: {"currentTime":27.442463}
+[2024-11-24T00:16:38.588Z] Event: Time updated | Details: {"currentTime":27.718446}
+[2024-11-24T00:16:38.854Z] Event: Time updated | Details: {"currentTime":27.979007}
+[2024-11-24T00:16:39.118Z] Event: Time updated | Details: {"currentTime":28.238506}
+[2024-11-24T00:16:39.387Z] Event: Time updated | Details: {"currentTime":28.517098}
+[2024-11-24T00:16:39.653Z] Event: Time updated | Details: {"currentTime":28.779453}
+[2024-11-24T00:16:39.916Z] Event: Time updated | Details: {"currentTime":29.038332}
+[2024-11-24T00:16:40.186Z] Event: Time updated | Details: {"currentTime":29.306587}
+[2024-11-24T00:16:40.450Z] Event: Time updated | Details: {"currentTime":29.577605}
+[2024-11-24T00:16:40.713Z] Event: Time updated | Details: {"currentTime":29.835023}
+[2024-11-24T00:16:40.924Z] Event: Media playback paused 
+[2024-11-24T00:16:40.925Z] Event: Time updated | Details: {"currentTime":30.047585}
+[2024-11-24T00:16:41.420Z] Event: loadVideoButton clicked 
+[2024-11-24T00:16:42.622Z] Event: No file selected 
+[2024-11-24T00:18:05.039Z] Event: loadVideoButton clicked 
+[2024-11-24T00:18:07.805Z] Event: File loaded successfully | Details: {"fileName":"Ogryzek Glory (Slowed).mp3"}
+[2024-11-24T00:18:07.805Z] Event: Time updated | Details: {"currentTime":0}
+[2024-11-24T00:18:09.312Z] Event: Media playback started 
+[2024-11-24T00:18:09.577Z] Event: Time updated | Details: {"currentTime":0.113179}
+[2024-11-24T00:18:09.839Z] Event: Time updated | Details: {"currentTime":0.370555}
+[2024-11-24T00:18:10.111Z] Event: Time updated | Details: {"currentTime":0.641346}
+[2024-11-24T00:18:10.372Z] Event: Time updated | Details: {"currentTime":0.909333}
+[2024-11-24T00:18:10.431Z] Event: Seek bar adjusted | Details: {"newTime":105.57489332}
+[2024-11-24T00:18:10.433Z] Event: Time updated | Details: {"currentTime":105.574893}
+[2024-11-24T00:18:10.703Z] Event: Time updated | Details: {"currentTime":105.790482}
+[2024-11-24T00:18:10.965Z] Event: Time updated | Details: {"currentTime":106.047871}
+[2024-11-24T00:18:11.086Z] Event: Seek bar adjusted | Details: {"newTime":64.70719267999999}
+[2024-11-24T00:18:11.088Z] Event: Time updated | Details: {"currentTime":64.707192}
+[2024-11-24T00:18:11.341Z] Event: Time updated | Details: {"currentTime":64.9057}
+[2024-11-24T00:18:11.607Z] Event: Time updated | Details: {"currentTime":65.170395}
+[2024-11-24T00:18:11.871Z] Event: Time updated | Details: {"currentTime":65.429733}
+[2024-11-24T00:18:12.140Z] Event: Time updated | Details: {"currentTime":65.694348}
+[2024-11-24T00:18:12.391Z] Event: Media playback paused 
+[2024-11-24T00:18:12.392Z] Event: Time updated | Details: {"currentTime":65.952072}
+[2024-11-24T00:19:00.350Z] Event: loadVideoButton clicked 
+[2024-11-24T00:19:02.004Z] Event: File loaded successfully | Details: {"fileName":"VID00005.mp4"}
+[2024-11-24T00:19:02.004Z] Event: Time updated | Details: {"currentTime":0}
+[2024-11-24T00:19:03.055Z] Event: Media playback started 
+[2024-11-24T00:19:03.308Z] Event: Time updated | Details: {"currentTime":0.205989}
+[2024-11-24T00:19:03.573Z] Event: Time updated | Details: {"currentTime":0.4674}
+[2024-11-24T00:19:03.838Z] Event: Time updated | Details: {"currentTime":0.72826}
+[2024-11-24T00:19:04.113Z] Event: Time updated | Details: {"currentTime":0.999565}
+[2024-11-24T00:19:04.371Z] Event: Time updated | Details: {"currentTime":1.272854}
+[2024-11-24T00:19:04.639Z] Event: Time updated | Details: {"currentTime":1.536605}
+[2024-11-24T00:19:04.743Z] Event: Seek bar adjusted | Details: {"newTime":4.3372399999999995}
+[2024-11-24T00:19:04.859Z] Event: Time updated | Details: {"currentTime":4.33724}
+[2024-11-24T00:19:05.127Z] Event: Time updated | Details: {"currentTime":4.562166}
+[2024-11-24T00:19:05.167Z] Event: Seek bar adjusted | Details: {"newTime":5.90762}
+[2024-11-24T00:19:05.313Z] Event: Time updated | Details: {"currentTime":5.90762}
+[2024-11-24T00:19:05.583Z] Event: Time updated | Details: {"currentTime":6.128389}
+[2024-11-24T00:19:05.839Z] Event: Time updated | Details: {"currentTime":6.380244}
+[2024-11-24T00:19:06.115Z] Event: Time updated | Details: {"currentTime":6.653153}
+[2024-11-24T00:19:06.142Z] Event: Media playback paused 
+[2024-11-24T00:19:06.143Z] Event: Time updated | Details: {"currentTime":6.679488}
+[2024-11-24T00:19:41.406Z] Event: loadVideoButton clicked 
+[2024-11-24T00:19:45.640Z] Event: File loaded successfully | Details: {"fileName":"Ogryzek Glory (Slowed).mp3"}
+[2024-11-24T00:19:45.640Z] Event: Time updated | Details: {"currentTime":0}
+[2024-11-24T00:19:46.895Z] Event: Media playback started 
+[2024-11-24T00:19:47.153Z] Event: Time updated | Details: {"currentTime":0.107617}
+[2024-11-24T00:19:47.416Z] Event: Time updated | Details: {"currentTime":0.365696}
+[2024-11-24T00:19:47.689Z] Event: Time updated | Details: {"currentTime":0.637579}
+[2024-11-24T00:19:47.949Z] Event: Time updated | Details: {"currentTime":0.905349}
+[2024-11-24T00:19:48.213Z] Event: Time updated | Details: {"currentTime":1.164775}
+[2024-11-24T00:19:48.483Z] Event: Time updated | Details: {"currentTime":1.430213}
+[2024-11-24T00:19:48.754Z] Event: Time updated | Details: {"currentTime":1.698371}
+[2024-11-24T00:19:49.013Z] Event: Time updated | Details: {"currentTime":1.965707}
+[2024-11-24T00:19:49.276Z] Event: Time updated | Details: {"currentTime":2.224418}
+[2024-11-24T00:19:49.541Z] Event: Time updated | Details: {"currentTime":2.495486}
+[2024-11-24T00:19:49.807Z] Event: Time updated | Details: {"currentTime":2.760335}
+[2024-11-24T00:19:50.077Z] Event: Time updated | Details: {"currentTime":3.02634}
+[2024-11-24T00:19:50.341Z] Event: Time updated | Details: {"currentTime":3.297644}
+[2024-11-24T00:19:50.607Z] Event: Time updated | Details: {"currentTime":3.56178}
+[2024-11-24T00:19:50.669Z] Event: Media playback paused 
+[2024-11-24T00:19:50.671Z] Event: Time updated | Details: {"currentTime":3.622131}
+[2024-11-24T00:21:05.200Z] Event: loadVideoButton clicked 
+[2024-11-24T00:21:12.193Z] Event: Media playback stopped 
+[2024-11-24T00:21:12.210Z] Event: Time updated | Details: {"currentTime":0}
+[2024-11-24T00:21:17.304Z] Event: loadVideoButton clicked 
+[2024-11-24T00:21:20.192Z] Event: File loaded successfully | Details: {"fileName":"Ogryzek Glory (Slowed).mp3"}
+[2024-11-24T00:21:20.193Z] Event: Time updated | Details: {"currentTime":0}
+[2024-11-24T00:21:34.461Z] Event: loadVideoButton clicked 
+[2024-11-24T00:21:40.602Z] Event: File loaded successfully | Details: {"fileName":"Ogryzek Glory (Slowed).mp3"}
+[2024-11-24T00:21:40.603Z] Event: Time updated | Details: {"currentTime":0}
+[2024-11-24T00:21:56.141Z] Event: loadVideoButton clicked 
+[2024-11-24T00:21:59.294Z] Event: File loaded successfully | Details: {"fileName":"Ogryzek Glory (Slowed).mp3"}
+[2024-11-24T00:21:59.294Z] Event: Time updated | Details: {"currentTime":0}
+[2024-11-24T00:22:09.392Z] Event: loadVideoButton clicked 
+[2024-11-24T00:22:11.805Z] Event: File loaded successfully | Details: {"fileName":"Ogryzek Glory (Slowed).mp3"}
+[2024-11-24T00:22:11.805Z] Event: Time updated | Details: {"currentTime":0}
+[2024-11-24T00:22:19.963Z] Event: loadVideoButton clicked 
+[2024-11-24T00:22:22.302Z] Event: File loaded successfully | Details: {"fileName":"Ogryzek Glory (Slowed).mp3"}
+[2024-11-24T00:22:22.302Z] Event: Time updated | Details: {"currentTime":0}
+[2024-11-24T00:23:48.844Z] Event: loadVideoButton clicked 
+[2024-11-24T00:23:52.410Z] Event: File loaded successfully | Details: {"fileName":"Ogryzek Glory (Slowed).mp3"}
+[2024-11-24T00:23:52.410Z] Event: Time updated | Details: {"currentTime":0}
+[2024-11-24T00:23:53.565Z] Event: Media playback started 
+[2024-11-24T00:23:53.824Z] Event: Time updated | Details: {"currentTime":0.09202}
+[2024-11-24T00:23:54.092Z] Event: Time updated | Details: {"currentTime":0.359168}
+[2024-11-24T00:23:54.365Z] Event: Time updated | Details: {"currentTime":0.627306}
+[2024-11-24T00:23:54.636Z] Event: Time updated | Details: {"currentTime":0.908762}
+[2024-11-24T00:23:54.907Z] Event: Time updated | Details: {"currentTime":1.174498}
+[2024-11-24T00:23:55.167Z] Event: Time updated | Details: {"currentTime":1.429986}
+[2024-11-24T00:23:55.437Z] Event: Time updated | Details: {"currentTime":1.698833}
+[2024-11-24T00:23:55.707Z] Event: Time updated | Details: {"currentTime":1.975772}
+[2024-11-24T00:23:55.967Z] Event: Time updated | Details: {"currentTime":2.231254}
+[2024-11-24T00:23:56.237Z] Event: Time updated | Details: {"currentTime":2.500083}
+[2024-11-24T00:23:56.500Z] Event: Time updated | Details: {"currentTime":2.769705}
+[2024-11-24T00:23:56.767Z] Event: Time updated | Details: {"currentTime":3.032411}
+[2024-11-24T00:23:57.025Z] Event: Time updated | Details: {"currentTime":3.297831}
+[2024-11-24T00:23:57.292Z] Event: Time updated | Details: {"currentTime":3.562857}
+[2024-11-24T00:23:57.564Z] Event: Time updated | Details: {"currentTime":3.830469}
+[2024-11-24T00:23:57.822Z] Event: Time updated | Details: {"currentTime":4.084269}
+[2024-11-24T00:23:58.100Z] Event: Time updated | Details: {"currentTime":4.372332}
+[2024-11-24T00:23:58.357Z] Event: Time updated | Details: {"currentTime":4.624179}
+[2024-11-24T00:23:58.626Z] Event: Time updated | Details: {"currentTime":4.889475}
+[2024-11-24T00:23:58.886Z] Event: Time updated | Details: {"currentTime":5.156498}
+[2024-11-24T00:23:59.152Z] Event: Time updated | Details: {"currentTime":5.419904}
+[2024-11-24T00:23:59.427Z] Event: Time updated | Details: {"currentTime":5.690906}
+[2024-11-24T00:23:59.687Z] Event: Time updated | Details: {"currentTime":5.957996}
+[2024-11-24T00:23:59.948Z] Event: Time updated | Details: {"currentTime":6.218283}
+[2024-11-24T00:24:00.217Z] Event: Time updated | Details: {"currentTime":6.481714}
+[2024-11-24T00:24:00.479Z] Event: Time updated | Details: {"currentTime":6.751147}
+[2024-11-24T00:24:00.572Z] Event: Media playback paused 
+[2024-11-24T00:24:00.573Z] Event: Time updated | Details: {"currentTime":6.836344}
+[2024-11-24T00:25:49.259Z] Event: loadVideoButton clicked 
+[2024-11-24T00:25:52.936Z] Event: File loaded successfully | Details: {"fileName":"VID_20240610_211733_085.mp4"}
+[2024-11-24T00:25:52.937Z] Event: Time updated | Details: {"currentTime":0}
+[2024-11-24T00:25:54.043Z] Event: Media playback started 
+[2024-11-24T00:25:54.306Z] Event: Time updated | Details: {"currentTime":0.20475}
+[2024-11-24T00:25:54.572Z] Event: Time updated | Details: {"currentTime":0.477933}
+[2024-11-24T00:25:54.842Z] Event: Time updated | Details: {"currentTime":0.746585}
+[2024-11-24T00:25:55.106Z] Event: Time updated | Details: {"currentTime":1.005809}
+[2024-11-24T00:25:55.377Z] Event: Time updated | Details: {"currentTime":1.275323}
+[2024-11-24T00:25:55.635Z] Event: Time updated | Details: {"currentTime":1.540437}
+[2024-11-24T00:25:55.905Z] Event: Time updated | Details: {"currentTime":1.806068}
+[2024-11-24T00:25:56.035Z] Event: Seek bar adjusted | Details: {"newTime":348.95791671}
+[2024-11-24T00:25:56.059Z] Event: Time updated | Details: {"currentTime":348.957916}
+[2024-11-24T00:25:56.322Z] Event: Time updated | Details: {"currentTime":349.158508}
+[2024-11-24T00:25:56.562Z] Event: Seek bar adjusted | Details: {"newTime":1207.93125015}
+[2024-11-24T00:25:56.601Z] Event: Time updated | Details: {"currentTime":1207.93125}
+[2024-11-24T00:25:56.853Z] Event: Time updated | Details: {"currentTime":1208.131373}
+[2024-11-24T00:25:57.119Z] Event: Time updated | Details: {"currentTime":1208.39579}
+[2024-11-24T00:25:57.393Z] Event: Time updated | Details: {"currentTime":1208.665235}
+[2024-11-24T00:25:57.530Z] Event: Media seeked | Details: {"newTime":1213.802286}
+[2024-11-24T00:25:57.555Z] Event: Time updated | Details: {"currentTime":1213.802286}
+[2024-11-24T00:25:57.810Z] Event: Time updated | Details: {"currentTime":1213.999659}
+[2024-11-24T00:25:58.072Z] Event: Time updated | Details: {"currentTime":1214.256785}
+[2024-11-24T00:25:58.338Z] Event: Time updated | Details: {"currentTime":1214.521899}
+[2024-11-24T00:25:58.613Z] Event: Time updated | Details: {"currentTime":1214.792191}
+[2024-11-24T00:25:58.730Z] Event: Media seeked | Details: {"newTime":1209.916722}
+[2024-11-24T00:25:58.763Z] Event: Time updated | Details: {"currentTime":1209.916722}
+[2024-11-24T00:25:59.030Z] Event: Time updated | Details: {"currentTime":1210.125274}
+[2024-11-24T00:25:59.202Z] Event: Media seeked | Details: {"newTime":1205.303508}
+[2024-11-24T00:25:59.221Z] Event: Time updated | Details: {"currentTime":1205.303508}
+[2024-11-24T00:25:59.481Z] Event: Time updated | Details: {"currentTime":1205.503621}
+[2024-11-24T00:25:59.642Z] Event: Media seeked | Details: {"newTime":1200.66669}
+[2024-11-24T00:25:59.650Z] Event: Time updated | Details: {"currentTime":1200.66669}
+[2024-11-24T00:25:59.922Z] Event: Time updated | Details: {"currentTime":1200.890908}
+[2024-11-24T00:26:00.010Z] Event: Media seeked | Details: {"newTime":1195.979947}
+[2024-11-24T00:26:00.063Z] Event: Time updated | Details: {"currentTime":1195.979947}
+[2024-11-24T00:26:00.322Z] Event: Time updated | Details: {"currentTime":1196.18027}
+[2024-11-24T00:26:00.588Z] Event: Time updated | Details: {"currentTime":1196.453734}
+[2024-11-24T00:26:00.856Z] Event: Time updated | Details: {"currentTime":1196.720171}
+[2024-11-24T00:26:01.026Z] Event: Media seeked | Details: {"newTime":1201.892745}
+[2024-11-24T00:26:01.068Z] Event: Time updated | Details: {"currentTime":1201.892745}
+[2024-11-24T00:26:01.234Z] Event: Media seeked | Details: {"newTime":1207.004135}
+[2024-11-24T00:26:01.241Z] Event: Time updated | Details: {"currentTime":1207.004135}
+[2024-11-24T00:26:01.466Z] Event: Media seeked | Details: {"newTime":1212.174188}
+[2024-11-24T00:26:01.505Z] Event: Time updated | Details: {"currentTime":1212.174188}
+[2024-11-24T00:26:01.666Z] Event: Media seeked | Details: {"newTime":1217.285452}
+[2024-11-24T00:26:01.672Z] Event: Time updated | Details: {"currentTime":1217.285452}
+[2024-11-24T00:26:01.874Z] Event: Media seeked | Details: {"newTime":1222.443368}
+[2024-11-24T00:26:01.893Z] Event: Time updated | Details: {"currentTime":1222.443368}
+[2024-11-24T00:26:02.082Z] Event: Media seeked | Details: {"newTime":1227.562782}
+[2024-11-24T00:26:02.096Z] Event: Time updated | Details: {"currentTime":1227.562782}
+[2024-11-24T00:26:02.323Z] Event: Media seeked | Details: {"newTime":1232.729111}
+[2024-11-24T00:26:02.359Z] Event: Time updated | Details: {"currentTime":1232.729111}
+[2024-11-24T00:26:02.530Z] Event: Media seeked | Details: {"newTime":1237.845528}
+[2024-11-24T00:26:02.538Z] Event: Time updated | Details: {"currentTime":1237.845528}
+[2024-11-24T00:26:02.746Z] Event: Media seeked | Details: {"newTime":1242.991891}
+[2024-11-24T00:26:02.776Z] Event: Time updated | Details: {"currentTime":1242.991891}
+[2024-11-24T00:26:02.946Z] Event: Media seeked | Details: {"newTime":1248.104064}
+[2024-11-24T00:26:02.953Z] Event: Time updated | Details: {"currentTime":1248.104458}
+[2024-11-24T00:26:03.218Z] Event: Time updated | Details: {"currentTime":1248.323785}
+[2024-11-24T00:26:03.482Z] Event: Time updated | Details: {"currentTime":1248.583276}
+[2024-11-24T00:26:03.745Z] Event: Time updated | Details: {"currentTime":1248.854192}
+[2024-11-24T00:26:03.970Z] Event: Media playback paused 
+[2024-11-24T00:26:03.971Z] Event: Time updated | Details: {"currentTime":1249.078966}
+[2024-11-24T00:26:04.650Z] Event: Media playback stopped 
+[2024-11-24T00:26:04.656Z] Event: Time updated | Details: {"currentTime":0}
+[2024-11-24T00:26:05.226Z] Event: loadVideoButton clicked 
+[2024-11-24T00:26:10.322Z] Event: File loaded successfully | Details: {"fileName":"Ogryzek Glory (Slowed).mp3"}
+[2024-11-24T00:26:10.324Z] Event: Time updated | Details: {"currentTime":0}
+[2024-11-24T00:26:11.506Z] Event: Media playback started 
+[2024-11-24T00:26:11.762Z] Event: Time updated | Details: {"currentTime":0.194039}
+[2024-11-24T00:26:12.026Z] Event: Time updated | Details: {"currentTime":0.465137}
+[2024-11-24T00:26:12.290Z] Event: Time updated | Details: {"currentTime":0.724464}
+[2024-11-24T00:26:12.570Z] Event: Time updated | Details: {"currentTime":1.002187}
+[2024-11-24T00:26:12.829Z] Event: Time updated | Details: {"currentTime":1.269571}
+[2024-11-24T00:26:13.089Z] Event: Time updated | Details: {"currentTime":1.52461}
+[2024-11-24T00:26:13.355Z] Event: Time updated | Details: {"currentTime":1.784942}
+[2024-11-24T00:26:13.630Z] Event: Time updated | Details: {"currentTime":2.059158}
+[2024-11-24T00:26:13.890Z] Event: Time updated | Details: {"currentTime":2.325693}
+[2024-11-24T00:26:14.159Z] Event: Time updated | Details: {"currentTime":2.590528}
+[2024-11-24T00:26:14.419Z] Event: Time updated | Details: {"currentTime":2.858}
+[2024-11-24T00:26:14.689Z] Event: Time updated | Details: {"currentTime":3.126738}
+[2024-11-24T00:26:14.949Z] Event: Time updated | Details: {"currentTime":3.382151}
+[2024-11-24T00:26:15.219Z] Event: Time updated | Details: {"currentTime":3.6593}
+[2024-11-24T00:26:15.479Z] Event: Time updated | Details: {"currentTime":3.914351}
+[2024-11-24T00:26:15.746Z] Event: Time updated | Details: {"currentTime":4.17995}
+[2024-11-24T00:26:16.010Z] Event: Time updated | Details: {"currentTime":4.439372}
+[2024-11-24T00:26:16.282Z] Event: Time updated | Details: {"currentTime":4.721729}
+[2024-11-24T00:26:16.544Z] Event: Time updated | Details: {"currentTime":4.979016}
+[2024-11-24T00:26:16.809Z] Event: Time updated | Details: {"currentTime":5.239882}
+[2024-11-24T00:26:17.079Z] Event: Time updated | Details: {"currentTime":5.516548}
+[2024-11-24T00:26:17.349Z] Event: Time updated | Details: {"currentTime":5.785441}
+[2024-11-24T00:26:17.610Z] Event: Time updated | Details: {"currentTime":6.041389}
+[2024-11-24T00:26:17.879Z] Event: Time updated | Details: {"currentTime":6.318236}
+[2024-11-24T00:26:18.139Z] Event: Time updated | Details: {"currentTime":6.573513}
+[2024-11-24T00:26:18.402Z] Event: Time updated | Details: {"currentTime":6.834816}
+[2024-11-24T00:26:18.680Z] Event: Time updated | Details: {"currentTime":7.119344}
+[2024-11-24T00:26:18.939Z] Event: Time updated | Details: {"currentTime":7.374619}
+[2024-11-24T00:26:19.209Z] Event: Time updated | Details: {"currentTime":7.642806}
+[2024-11-24T00:26:19.469Z] Event: Time updated | Details: {"currentTime":7.89814}
+[2024-11-24T00:26:19.498Z] Event: Media playback paused 
+[2024-11-24T00:26:19.499Z] Event: Time updated | Details: {"currentTime":7.930418}
+[2024-11-24T00:26:19.914Z] Event: Media playback stopped 
+[2024-11-24T00:26:19.915Z] Event: Time updated | Details: {"currentTime":0}
+[2024-11-24T00:26:20.650Z] Event: loadVideoButton clicked 
+[2024-11-24T00:26:22.899Z] Event: File loaded successfully | Details: {"fileName":"VID00007.mp4"}
+[2024-11-24T00:26:22.900Z] Event: Time updated | Details: {"currentTime":0}
+[2024-11-24T00:26:24.467Z] Event: Media playback started 
+[2024-11-24T00:26:24.730Z] Event: Time updated | Details: {"currentTime":0.224451}
+[2024-11-24T00:26:24.995Z] Event: Time updated | Details: {"currentTime":0.485267}
+[2024-11-24T00:26:25.262Z] Event: Time updated | Details: {"currentTime":0.748517}
+[2024-11-24T00:26:25.539Z] Event: Time updated | Details: {"currentTime":1.021392}
+[2024-11-24T00:26:25.754Z] Event: Seek bar adjusted | Details: {"newTime":32.410439999999994}
+[2024-11-24T00:26:25.815Z] Event: Time updated | Details: {"currentTime":32.410438}
+[2024-11-24T00:26:26.071Z] Event: Time updated | Details: {"currentTime":32.616273}
+[2024-11-24T00:26:26.298Z] Event: Seek bar adjusted | Details: {"newTime":75.62436}
+[2024-11-24T00:26:26.307Z] Event: Time updated | Details: {"currentTime":75.62436}
+[2024-11-24T00:26:26.575Z] Event: Time updated | Details: {"currentTime":75.853804}
+[2024-11-24T00:26:26.739Z] Event: Seek bar adjusted | Details: {"newTime":115.23712}
+[2024-11-24T00:26:26.998Z] Event: Time updated | Details: {"currentTime":115.23712}
+[2024-11-24T00:26:27.266Z] Event: Time updated | Details: {"currentTime":115.457053}
+[2024-11-24T00:26:27.530Z] Event: Time updated | Details: {"currentTime":115.717331}
+[2024-11-24T00:26:27.658Z] Event: Seek bar adjusted | Details: {"newTime":156.65045999999998}
+[2024-11-24T00:26:27.746Z] Event: Time updated | Details: {"currentTime":156.650459}
+[2024-11-24T00:26:28.023Z] Event: Time updated | Details: {"currentTime":156.887496}
+[2024-11-24T00:26:28.284Z] Event: Time updated | Details: {"currentTime":157.144297}
+[2024-11-24T00:26:28.544Z] Event: Time updated | Details: {"currentTime":157.399792}
+[2024-11-24T00:26:28.730Z] Event: Seek bar adjusted | Details: {"newTime":131.44234}
+[2024-11-24T00:26:28.822Z] Event: Time updated | Details: {"currentTime":131.44234}
+[2024-11-24T00:26:29.073Z] Event: Seek bar adjusted | Details: {"newTime":91.82957999999999}
+[2024-11-24T00:26:29.151Z] Event: Time updated | Details: {"currentTime":91.82958}
+[2024-11-24T00:26:29.394Z] Event: Seek bar adjusted | Details: {"newTime":27.008699999999997}
+[2024-11-24T00:26:29.411Z] Event: Seek bar adjusted | Details: {"newTime":25.20812}
+[2024-11-24T00:26:29.500Z] Event: Time updated | Details: {"currentTime":25.20812}
+[2024-11-24T00:26:29.760Z] Event: Time updated | Details: {"currentTime":25.422338}
+[2024-11-24T00:26:30.026Z] Event: Time updated | Details: {"currentTime":25.684277}
+[2024-11-24T00:26:30.293Z] Event: Time updated | Details: {"currentTime":25.947836}
+[2024-11-24T00:26:30.558Z] Event: Time updated | Details: {"currentTime":26.208117}
+[2024-11-24T00:26:30.822Z] Event: Time updated | Details: {"currentTime":26.488055}
+[2024-11-24T00:26:31.092Z] Event: Time updated | Details: {"currentTime":26.758398}
+[2024-11-24T00:26:31.357Z] Event: Time updated | Details: {"currentTime":27.019911}
+[2024-11-24T00:26:31.619Z] Event: Time updated | Details: {"currentTime":27.277293}
+[2024-11-24T00:26:31.887Z] Event: Time updated | Details: {"currentTime":27.540742}
+[2024-11-24T00:26:32.158Z] Event: Time updated | Details: {"currentTime":27.808476}
+[2024-11-24T00:26:32.421Z] Event: Time updated | Details: {"currentTime":28.087412}
+[2024-11-24T00:26:32.682Z] Event: Time updated | Details: {"currentTime":28.344619}
+[2024-11-24T00:26:32.946Z] Event: Time updated | Details: {"currentTime":28.604836}
+[2024-11-24T00:26:33.217Z] Event: Time updated | Details: {"currentTime":28.875513}
+[2024-11-24T00:26:33.488Z] Event: Time updated | Details: {"currentTime":29.142087}
+[2024-11-24T00:26:33.751Z] Event: Time updated | Details: {"currentTime":29.401602}
+[2024-11-24T00:26:34.018Z] Event: Time updated | Details: {"currentTime":29.684848}
+[2024-11-24T00:26:34.279Z] Event: Time updated | Details: {"currentTime":29.941016}
+[2024-11-24T00:26:34.546Z] Event: Time updated | Details: {"currentTime":30.204703}
+[2024-11-24T00:26:34.808Z] Event: Time updated | Details: {"currentTime":30.462193}
+[2024-11-24T00:26:35.071Z] Event: Time updated | Details: {"currentTime":30.725586}
+[2024-11-24T00:26:35.338Z] Event: Time updated | Details: {"currentTime":30.989005}
+[2024-11-24T00:26:35.613Z] Event: Time updated | Details: {"currentTime":31.279314}
+[2024-11-24T00:26:35.877Z] Event: Time updated | Details: {"currentTime":31.53906}
+[2024-11-24T00:26:36.141Z] Event: Time updated | Details: {"currentTime":31.799104}
+[2024-11-24T00:26:36.402Z] Event: Time updated | Details: {"currentTime":32.056259}
+[2024-11-24T00:26:36.670Z] Event: Time updated | Details: {"currentTime":32.324439}
+[2024-11-24T00:26:36.939Z] Event: Time updated | Details: {"currentTime":32.589507}
+[2024-11-24T00:26:37.196Z] Event: Time updated | Details: {"currentTime":32.862935}
+[2024-11-24T00:26:37.462Z] Event: Time updated | Details: {"currentTime":33.124793}
+[2024-11-24T00:26:37.730Z] Event: Time updated | Details: {"currentTime":33.388718}
+[2024-11-24T00:26:37.995Z] Event: Time updated | Details: {"currentTime":33.64906}
+[2024-11-24T00:26:38.265Z] Event: Time updated | Details: {"currentTime":33.915534}
+[2024-11-24T00:26:38.524Z] Event: Time updated | Details: {"currentTime":34.190772}
+[2024-11-24T00:26:38.791Z] Event: Time updated | Details: {"currentTime":34.457781}
+[2024-11-24T00:26:38.850Z] Event: loadVideoButton clicked 
+[2024-11-24T00:26:39.066Z] Event: Time updated | Details: {"currentTime":34.729124}
+[2024-11-24T00:26:39.327Z] Event: Time updated | Details: {"currentTime":34.985716}
+[2024-11-24T00:26:39.595Z] Event: Time updated | Details: {"currentTime":35.249748}
+[2024-11-24T00:26:39.855Z] Event: Time updated | Details: {"currentTime":35.505332}
+[2024-11-24T00:26:40.120Z] Event: Time updated | Details: {"currentTime":35.786764}
+[2024-11-24T00:26:40.386Z] Event: Time updated | Details: {"currentTime":36.052482}
+[2024-11-24T00:26:40.654Z] Event: Time updated | Details: {"currentTime":36.316879}
+[2024-11-24T00:26:40.925Z] Event: Time updated | Details: {"currentTime":36.583713}
+[2024-11-24T00:26:41.199Z] Event: Time updated | Details: {"currentTime":36.853836}
+[2024-11-24T00:26:41.467Z] Event: Time updated | Details: {"currentTime":37.11711}
+[2024-11-24T00:26:41.731Z] Event: Time updated | Details: {"currentTime":37.381297}
+[2024-11-24T00:26:42.001Z] Event: Time updated | Details: {"currentTime":37.667184}
+[2024-11-24T00:26:42.270Z] Event: Time updated | Details: {"currentTime":37.931635}
+[2024-11-24T00:26:42.529Z] Event: Time updated | Details: {"currentTime":38.187794}
+[2024-11-24T00:26:42.796Z] Event: Time updated | Details: {"currentTime":38.450363}
+[2024-11-24T00:26:43.057Z] Event: Time updated | Details: {"currentTime":38.708138}
+[2024-11-24T00:26:43.329Z] Event: Time updated | Details: {"currentTime":38.995465}
+[2024-11-24T00:26:44.603Z] Event: Time updated | Details: {"currentTime":40.269173}
+[2024-11-24T00:26:44.874Z] Event: Time updated | Details: {"currentTime":40.540766}
+[2024-11-24T00:26:45.140Z] Event: Time updated | Details: {"currentTime":40.803004}
+[2024-11-24T00:26:45.405Z] Event: Time updated | Details: {"currentTime":41.06319}
+[2024-11-24T00:26:45.530Z] Event: loadVideoButton clicked 
+[2024-11-24T00:26:45.678Z] Event: Time updated | Details: {"currentTime":41.331816}
+[2024-11-24T00:26:45.938Z] Event: Time updated | Details: {"currentTime":41.5889}
+[2024-11-24T00:26:46.199Z] Event: Time updated | Details: {"currentTime":41.865202}
+[2024-11-24T00:26:46.470Z] Event: Time updated | Details: {"currentTime":42.136648}
+[2024-11-24T00:26:46.730Z] Event: Time updated | Details: {"currentTime":42.391752}
+[2024-11-24T00:26:46.999Z] Event: Time updated | Details: {"currentTime":42.65752}
+[2024-11-24T00:26:47.265Z] Event: Time updated | Details: {"currentTime":42.920047}
+[2024-11-24T00:26:47.529Z] Event: Time updated | Details: {"currentTime":43.17928}
+[2024-11-24T00:26:47.793Z] Event: Time updated | Details: {"currentTime":43.459913}
+[2024-11-24T00:26:48.064Z] Event: Time updated | Details: {"currentTime":43.73059}
+[2024-11-24T00:26:48.332Z] Event: Time updated | Details: {"currentTime":43.990409}
+[2024-11-24T00:26:48.603Z] Event: Time updated | Details: {"currentTime":44.257317}
+[2024-11-24T00:26:48.860Z] Event: Time updated | Details: {"currentTime":44.510055}
+[2024-11-24T00:26:49.132Z] Event: Time updated | Details: {"currentTime":44.778385}
+[2024-11-24T00:26:49.399Z] Event: Time updated | Details: {"currentTime":45.060859}
+[2024-11-24T00:26:49.659Z] Event: Time updated | Details: {"currentTime":45.321091}
+[2024-11-24T00:26:49.925Z] Event: Time updated | Details: {"currentTime":45.583229}
+[2024-11-24T00:26:50.195Z] Event: Time updated | Details: {"currentTime":45.849066}
+[2024-11-24T00:26:50.453Z] Event: Time updated | Details: {"currentTime":46.102544}
+[2024-11-24T00:26:50.717Z] Event: Time updated | Details: {"currentTime":46.363471}
+[2024-11-24T00:26:50.985Z] Event: Time updated | Details: {"currentTime":46.647517}
+[2024-11-24T00:26:51.253Z] Event: Time updated | Details: {"currentTime":46.911203}
+[2024-11-24T00:26:51.518Z] Event: Time updated | Details: {"currentTime":47.175699}
+[2024-11-24T00:26:51.784Z] Event: Time updated | Details: {"currentTime":47.437958}
+[2024-11-24T00:26:52.051Z] Event: Time updated | Details: {"currentTime":47.701118}
+[2024-11-24T00:26:52.314Z] Event: Time updated | Details: {"currentTime":47.960343}
+[2024-11-24T00:26:52.590Z] Event: Time updated | Details: {"currentTime":48.25192}
+[2024-11-24T00:26:52.842Z] Event: Time updated | Details: {"currentTime":48.499978}
+[2024-11-24T00:26:53.110Z] Event: Time updated | Details: {"currentTime":48.764703}
+[2024-11-24T00:26:53.380Z] Event: Time updated | Details: {"currentTime":49.034074}
+[2024-11-24T00:26:53.645Z] Event: Time updated | Details: {"currentTime":49.294985}
+[2024-11-24T00:26:53.914Z] Event: Time updated | Details: {"currentTime":49.560244}
+[2024-11-24T00:26:54.173Z] Event: Time updated | Details: {"currentTime":49.834817}
+[2024-11-24T00:26:54.443Z] Event: Time updated | Details: {"currentTime":50.100798}
+[2024-11-24T00:26:54.714Z] Event: Time updated | Details: {"currentTime":50.372446}
+[2024-11-24T00:26:54.973Z] Event: Time updated | Details: {"currentTime":50.623374}
+[2024-11-24T00:26:55.233Z] Event: Time updated | Details: {"currentTime":50.879055}
+[2024-11-24T00:26:55.506Z] Event: Time updated | Details: {"currentTime":51.152179}
+[2024-11-24T00:26:55.773Z] Event: Time updated | Details: {"currentTime":51.435425}
+[2024-11-24T00:26:56.043Z] Event: Time updated | Details: {"currentTime":51.701346}
+[2024-11-24T00:26:56.298Z] Event: Time updated | Details: {"currentTime":51.952071}
+[2024-11-24T00:26:56.562Z] Event: Time updated | Details: {"currentTime":52.212181}
+[2024-11-24T00:26:56.832Z] Event: Time updated | Details: {"currentTime":52.478003}
+[2024-11-24T00:26:57.103Z] Event: Time updated | Details: {"currentTime":52.749676}
+[2024-11-24T00:26:57.363Z] Event: Time updated | Details: {"currentTime":53.025157}
+[2024-11-24T00:26:57.624Z] Event: Time updated | Details: {"currentTime":53.282352}
+[2024-11-24T00:26:57.891Z] Event: Time updated | Details: {"currentTime":53.544942}
+[2024-11-24T00:26:58.159Z] Event: Time updated | Details: {"currentTime":53.808361}
+[2024-11-24T00:26:58.423Z] Event: Time updated | Details: {"currentTime":54.06912}
+[2024-11-24T00:26:58.692Z] Event: Time updated | Details: {"currentTime":54.3547}
+[2024-11-24T00:26:58.957Z] Event: Time updated | Details: {"currentTime":54.619507}
+[2024-11-24T00:26:59.220Z] Event: Time updated | Details: {"currentTime":54.877961}
+[2024-11-24T00:26:59.488Z] Event: Time updated | Details: {"currentTime":55.142234}
+[2024-11-24T00:26:59.748Z] Event: Time updated | Details: {"currentTime":55.398249}
+[2024-11-24T00:27:00.023Z] Event: Time updated | Details: {"currentTime":55.668978}
+[2024-11-24T00:27:00.285Z] Event: Time updated | Details: {"currentTime":55.947615}
+[2024-11-24T00:27:00.554Z] Event: Time updated | Details: {"currentTime":56.216715}
+[2024-11-24T00:27:00.815Z] Event: Time updated | Details: {"currentTime":56.472833}
+[2024-11-24T00:27:01.083Z] Event: Time updated | Details: {"currentTime":56.736907}
+[2024-11-24T00:27:01.342Z] Event: Time updated | Details: {"currentTime":56.991947}
+[2024-11-24T00:27:01.610Z] Event: Time updated | Details: {"currentTime":57.25643}
+[2024-11-24T00:27:01.883Z] Event: Time updated | Details: {"currentTime":57.545271}
+[2024-11-24T00:27:02.145Z] Event: Time updated | Details: {"currentTime":57.807053}
+[2024-11-24T00:27:02.412Z] Event: Time updated | Details: {"currentTime":58.070547}
+[2024-11-24T00:27:02.680Z] Event: Time updated | Details: {"currentTime":58.333766}
+[2024-11-24T00:27:02.929Z] Event: File loaded successfully | Details: {"fileName":"s02e08_720 (5).mp4"}
+[2024-11-24T00:27:02.931Z] Event: Time updated | Details: {"currentTime":0}
+[2024-11-24T00:27:06.182Z] Event: Seek bar adjusted | Details: {"newTime":277.80608072}
+[2024-11-24T00:27:06.202Z] Event: Time updated | Details: {"currentTime":277.80608}
+[2024-11-24T00:27:07.799Z] Event: Media playback started 
+[2024-11-24T00:27:08.062Z] Event: Time updated | Details: {"currentTime":278.016061}
+[2024-11-24T00:27:08.326Z] Event: Time updated | Details: {"currentTime":278.278807}
+[2024-11-24T00:27:08.598Z] Event: Time updated | Details: {"currentTime":278.558037}
+[2024-11-24T00:27:08.830Z] Event: Seek bar adjusted | Details: {"newTime":555.61216144}
+[2024-11-24T00:27:08.846Z] Event: Time updated | Details: {"currentTime":555.612161}
+[2024-11-24T00:27:09.107Z] Event: Time updated | Details: {"currentTime":555.807358}
+[2024-11-24T00:27:09.238Z] Event: Seek bar adjusted | Details: {"newTime":1145.95008297}
+[2024-11-24T00:27:09.247Z] Event: Time updated | Details: {"currentTime":1145.950082}
+[2024-11-24T00:27:09.501Z] Event: Time updated | Details: {"currentTime":1146.147112}
+[2024-11-24T00:27:09.763Z] Event: Time updated | Details: {"currentTime":1146.405203}
+[2024-11-24T00:27:10.034Z] Event: Time updated | Details: {"currentTime":1146.674172}
+[2024-11-24T00:27:10.300Z] Event: Time updated | Details: {"currentTime":1146.936365}
+[2024-11-24T00:27:10.568Z] Event: Time updated | Details: {"currentTime":1147.213832}
+[2024-11-24T00:27:10.832Z] Event: Time updated | Details: {"currentTime":1147.473668}
+[2024-11-24T00:27:11.094Z] Event: Time updated | Details: {"currentTime":1147.731378}
+[2024-11-24T00:27:11.360Z] Event: Time updated | Details: {"currentTime":1148.004141}
+[2024-11-24T00:27:11.623Z] Event: Time updated | Details: {"currentTime":1148.262831}
+[2024-11-24T00:27:11.888Z] Event: Time updated | Details: {"currentTime":1148.526116}
+[2024-11-24T00:27:12.158Z] Event: Time updated | Details: {"currentTime":1148.802649}
+[2024-11-24T00:27:12.174Z] Event: Seek bar adjusted | Details: {"newTime":1979.3683251299997}
+[2024-11-24T00:27:12.226Z] Event: Time updated | Details: {"currentTime":1979.368325}
+[2024-11-24T00:27:12.485Z] Event: Time updated | Details: {"currentTime":1979.561427}
+[2024-11-24T00:27:12.606Z] Event: Seek bar adjusted | Details: {"newTime":2430.8032062999996}
+[2024-11-24T00:27:12.614Z] Event: Time updated | Details: {"currentTime":2430.803206}
+[2024-11-24T00:27:12.873Z] Event: Time updated | Details: {"currentTime":2431.003942}
+[2024-11-24T00:27:13.140Z] Event: Time updated | Details: {"currentTime":2431.278595}
+[2024-11-24T00:27:13.398Z] Event: Seek bar adjusted | Details: {"newTime":2847.5123273799995}
+[2024-11-24T00:27:13.407Z] Event: Time updated | Details: {"currentTime":2847.512327}
+[2024-11-24T00:27:13.670Z] Event: Time updated | Details: {"currentTime":2847.710732}
+[2024-11-24T00:27:13.939Z] Event: Time updated | Details: {"currentTime":2847.986627}
+[2024-11-24T00:27:14.207Z] Event: Time updated | Details: {"currentTime":2848.252978}
+[2024-11-24T00:27:14.473Z] Event: Time updated | Details: {"currentTime":2848.514735}
+[2024-11-24T00:27:14.736Z] Event: Time updated | Details: {"currentTime":2848.784175}
+[2024-11-24T00:27:14.999Z] Event: Time updated | Details: {"currentTime":2849.042866}
+[2024-11-24T00:27:15.270Z] Event: Time updated | Details: {"currentTime":2849.31225}
+[2024-11-24T00:27:15.535Z] Event: Time updated | Details: {"currentTime":2849.57258}
+[2024-11-24T00:27:15.795Z] Event: Time updated | Details: {"currentTime":2849.840087}
+[2024-11-24T00:27:16.063Z] Event: Time updated | Details: {"currentTime":2850.103257}
+[2024-11-24T00:27:16.339Z] Event: Time updated | Details: {"currentTime":2850.377803}
+[2024-11-24T00:27:16.596Z] Event: Time updated | Details: {"currentTime":2850.642212}
+[2024-11-24T00:27:16.858Z] Event: Time updated | Details: {"currentTime":2850.899318}
+[2024-11-24T00:27:17.131Z] Event: Time updated | Details: {"currentTime":2851.170584}
+[2024-11-24T00:27:17.393Z] Event: Time updated | Details: {"currentTime":2851.440574}
+[2024-11-24T00:27:17.657Z] Event: Time updated | Details: {"currentTime":2851.699919}
+[2024-11-24T00:27:17.870Z] Event: Seek bar adjusted | Details: {"newTime":2257.17440585}
+[2024-11-24T00:27:17.879Z] Event: Time updated | Details: {"currentTime":2257.174405}
+[2024-11-24T00:27:18.143Z] Event: Time updated | Details: {"currentTime":2257.385098}
+[2024-11-24T00:27:18.409Z] Event: Time updated | Details: {"currentTime":2257.649788}
+[2024-11-24T00:27:18.679Z] Event: Time updated | Details: {"currentTime":2257.92758}
+[2024-11-24T00:27:18.937Z] Event: Time updated | Details: {"currentTime":2258.180062}
+[2024-11-24T00:27:18.982Z] Event: Seek bar adjusted | Details: {"newTime":1736.2880045}
+[2024-11-24T00:27:18.992Z] Event: Time updated | Details: {"currentTime":1736.288004}
+[2024-11-24T00:27:19.248Z] Event: Time updated | Details: {"currentTime":1736.483761}
+[2024-11-24T00:27:19.366Z] Event: Seek bar adjusted | Details: {"newTime":1076.49856279}
+[2024-11-24T00:27:19.373Z] Event: Time updated | Details: {"currentTime":1076.498562}
+[2024-11-24T00:27:19.652Z] Event: Time updated | Details: {"currentTime":1076.721339}
+[2024-11-24T00:27:19.913Z] Event: Time updated | Details: {"currentTime":1076.978213}
+[2024-11-24T00:27:20.179Z] Event: Time updated | Details: {"currentTime":1077.250993}
+[2024-11-24T00:27:20.444Z] Event: Time updated | Details: {"currentTime":1077.511217}
+[2024-11-24T00:27:20.702Z] Event: Time updated | Details: {"currentTime":1077.777054}
+[2024-11-24T00:27:20.970Z] Event: Time updated | Details: {"currentTime":1078.04382}
+[2024-11-24T00:27:21.118Z] Event: Seek bar adjusted | Details: {"newTime":1041.7728026999998}
+[2024-11-24T00:27:21.124Z] Event: Seek bar adjusted | Details: {"newTime":1007.04704261}
+[2024-11-24T00:27:21.135Z] Event: Time updated | Details: {"currentTime":1007.047042}
+[2024-11-24T00:27:21.138Z] Event: Seek bar adjusted | Details: {"newTime":972.3212825200001}
+[2024-11-24T00:27:21.145Z] Event: Seek bar adjusted | Details: {"newTime":902.86976234}
+[2024-11-24T00:27:21.159Z] Event: Seek bar adjusted | Details: {"newTime":798.69248207}
+[2024-11-24T00:27:21.166Z] Event: Seek bar adjusted | Details: {"newTime":763.96672198}
+[2024-11-24T00:27:21.174Z] Event: Seek bar adjusted | Details: {"newTime":694.5152018}
+[2024-11-24T00:27:21.182Z] Event: Seek bar adjusted | Details: {"newTime":625.06368162}
+[2024-11-24T00:27:21.202Z] Event: Seek bar adjusted | Details: {"newTime":520.8864013499999}
+[2024-11-24T00:27:21.207Z] Event: Seek bar adjusted | Details: {"newTime":451.43488117}
+[2024-11-24T00:27:21.222Z] Event: Seek bar adjusted | Details: {"newTime":347.2576009}
+[2024-11-24T00:27:21.230Z] Event: Seek bar adjusted | Details: {"newTime":312.53184081}
+[2024-11-24T00:27:21.241Z] Event: Seek bar adjusted | Details: {"newTime":277.80608072}
+[2024-11-24T00:27:21.249Z] Event: Seek bar adjusted | Details: {"newTime":243.08032063000002}
+[2024-11-24T00:27:21.256Z] Event: Seek bar adjusted | Details: {"newTime":173.62880045}
+[2024-11-24T00:27:21.263Z] Event: Seek bar adjusted | Details: {"newTime":138.90304036}
+[2024-11-24T00:27:21.270Z] Event: Seek bar adjusted | Details: {"newTime":104.17728027}
+[2024-11-24T00:27:21.286Z] Event: Seek bar adjusted | Details: {"newTime":69.45152018}
+[2024-11-24T00:27:21.300Z] Event: Seek bar adjusted | Details: {"newTime":34.72576009}
+[2024-11-24T00:27:21.341Z] Event: Time updated | Details: {"currentTime":34.72576}
+[2024-11-24T00:27:21.598Z] Event: Time updated | Details: {"currentTime":34.931988}
+[2024-11-24T00:27:21.861Z] Event: Time updated | Details: {"currentTime":35.201511}
+[2024-11-24T00:27:22.122Z] Event: Time updated | Details: {"currentTime":35.458766}
+[2024-11-24T00:27:22.388Z] Event: Time updated | Details: {"currentTime":35.723017}
+[2024-11-24T00:27:22.654Z] Event: Time updated | Details: {"currentTime":35.996042}
+[2024-11-24T00:27:22.925Z] Event: Time updated | Details: {"currentTime":36.265201}
+[2024-11-24T00:27:23.192Z] Event: Time updated | Details: {"currentTime":36.52784}
+[2024-11-24T00:27:23.464Z] Event: Time updated | Details: {"currentTime":36.798736}
+[2024-11-24T00:27:23.732Z] Event: Time updated | Details: {"currentTime":37.073519}
+[2024-11-24T00:27:23.991Z] Event: Time updated | Details: {"currentTime":37.327983}
+[2024-11-24T00:27:24.249Z] Event: Time updated | Details: {"currentTime":37.58153}
+[2024-11-24T00:27:24.515Z] Event: Time updated | Details: {"currentTime":37.854804}
+[2024-11-24T00:27:24.783Z] Event: Time updated | Details: {"currentTime":38.117881}
+[2024-11-24T00:27:25.045Z] Event: Time updated | Details: {"currentTime":38.379167}
+[2024-11-24T00:27:25.310Z] Event: Time updated | Details: {"currentTime":38.65093}
+[2024-11-24T00:27:25.589Z] Event: Time updated | Details: {"currentTime":38.928314}
+[2024-11-24T00:27:25.853Z] Event: Time updated | Details: {"currentTime":39.187678}
+[2024-11-24T00:27:26.110Z] Event: Time updated | Details: {"currentTime":39.452177}
+[2024-11-24T00:27:26.373Z] Event: Time updated | Details: {"currentTime":39.709897}
+[2024-11-24T00:27:26.648Z] Event: Time updated | Details: {"currentTime":39.983676}
+[2024-11-24T00:27:26.913Z] Event: Time updated | Details: {"currentTime":40.244342}
+[2024-11-24T00:27:27.182Z] Event: Time updated | Details: {"currentTime":40.520292}
+[2024-11-24T00:27:27.440Z] Event: Time updated | Details: {"currentTime":40.774169}
+[2024-11-24T00:27:27.701Z] Event: Time updated | Details: {"currentTime":41.04156}
+[2024-11-24T00:27:27.973Z] Event: Time updated | Details: {"currentTime":41.312294}
+[2024-11-24T00:27:28.070Z] Event: Seek bar adjusted | Details: {"newTime":173.62880045}
+[2024-11-24T00:27:28.081Z] Event: Time updated | Details: {"currentTime":173.6288}
+[2024-11-24T00:27:28.342Z] Event: Time updated | Details: {"currentTime":173.838708}
+[2024-11-24T00:27:28.430Z] Event: Seek bar adjusted | Details: {"newTime":451.43488117}
+[2024-11-24T00:27:28.454Z] Event: Time updated | Details: {"currentTime":451.434881}
+[2024-11-24T00:27:28.717Z] Event: Time updated | Details: {"currentTime":451.640186}
+[2024-11-24T00:27:28.758Z] Event: Seek bar adjusted | Details: {"newTime":1041.7728026999998}
+[2024-11-24T00:27:28.765Z] Event: Time updated | Details: {"currentTime":1041.772802}
+[2024-11-24T00:27:29.029Z] Event: Time updated | Details: {"currentTime":1041.969988}
+[2024-11-24T00:27:29.094Z] Event: Seek bar adjusted | Details: {"newTime":1354.30464351}
+[2024-11-24T00:27:29.103Z] Event: Time updated | Details: {"currentTime":1354.304643}
+[2024-11-24T00:27:29.363Z] Event: Time updated | Details: {"currentTime":1354.515458}
+[2024-11-24T00:27:29.398Z] Event: Seek bar adjusted | Details: {"newTime":1805.73952468}
+[2024-11-24T00:27:29.447Z] Event: Time updated | Details: {"currentTime":1805.739524}
+[2024-11-24T00:27:29.662Z] Event: Seek bar adjusted | Details: {"newTime":2361.35168612}
+[2024-11-24T00:27:29.673Z] Event: Time updated | Details: {"currentTime":2361.351686}
+[2024-11-24T00:27:29.942Z] Event: Time updated | Details: {"currentTime":2361.561719}
+[2024-11-24T00:27:30.203Z] Event: Time updated | Details: {"currentTime":2361.829572}
+[2024-11-24T00:27:30.470Z] Event: Time updated | Details: {"currentTime":2362.095929}
+[2024-11-24T00:27:30.630Z] Event: Seek bar adjusted | Details: {"newTime":3125.3184081}
+[2024-11-24T00:27:30.656Z] Event: Time updated | Details: {"currentTime":3125.318408}
+[2024-11-24T00:27:30.923Z] Event: Time updated | Details: {"currentTime":3125.529334}
+[2024-11-24T00:27:31.078Z] Event: Seek bar adjusted | Details: {"newTime":2569.70624666}
+[2024-11-24T00:27:31.085Z] Event: Time updated | Details: {"currentTime":2569.706246}
+[2024-11-24T00:27:31.342Z] Event: Time updated | Details: {"currentTime":2569.90537}
+[2024-11-24T00:27:31.367Z] Event: Seek bar adjusted | Details: {"newTime":2048.81984531}
+[2024-11-24T00:27:31.375Z] Event: Time updated | Details: {"currentTime":2048.819845}
+[2024-11-24T00:27:31.407Z] Event: Seek bar adjusted | Details: {"newTime":2014.09408522}
+[2024-11-24T00:27:31.430Z] Event: Seek bar adjusted | Details: {"newTime":1979.3683251299997}
+[2024-11-24T00:27:31.478Z] Event: Seek bar adjusted | Details: {"newTime":1944.6425650400001}
+[2024-11-24T00:27:31.505Z] Event: Seek bar adjusted | Details: {"newTime":1875.1910448600001}
+[2024-11-24T00:27:31.513Z] Event: Seek bar adjusted | Details: {"newTime":1840.46528477}
+[2024-11-24T00:27:31.520Z] Event: Seek bar adjusted | Details: {"newTime":1805.73952468}
+[2024-11-24T00:27:31.526Z] Event: Seek bar adjusted | Details: {"newTime":1771.01376459}
+[2024-11-24T00:27:31.541Z] Event: Seek bar adjusted | Details: {"newTime":1736.2880045}
+[2024-11-24T00:27:31.547Z] Event: Seek bar adjusted | Details: {"newTime":1701.56224441}
+[2024-11-24T00:27:31.554Z] Event: Seek bar adjusted | Details: {"newTime":1666.83648432}
+[2024-11-24T00:27:31.560Z] Event: Time updated | Details: {"currentTime":1666.836484}
+[2024-11-24T00:27:31.562Z] Event: Seek bar adjusted | Details: {"newTime":1632.11072423}
+[2024-11-24T00:27:31.579Z] Event: Seek bar adjusted | Details: {"newTime":1562.65920405}
+[2024-11-24T00:27:31.582Z] Event: Seek bar adjusted | Details: {"newTime":1527.93344396}
+[2024-11-24T00:27:31.589Z] Event: Seek bar adjusted | Details: {"newTime":1493.20768387}
+[2024-11-24T00:27:31.611Z] Event: Seek bar adjusted | Details: {"newTime":1458.48192378}
+[2024-11-24T00:27:31.617Z] Event: Seek bar adjusted | Details: {"newTime":1423.7561636899998}
+[2024-11-24T00:27:31.626Z] Event: Seek bar adjusted | Details: {"newTime":1389.0304036}
+[2024-11-24T00:27:31.638Z] Event: Seek bar adjusted | Details: {"newTime":1354.30464351}
+[2024-11-24T00:27:31.645Z] Event: Seek bar adjusted | Details: {"newTime":1319.57888342}
+[2024-11-24T00:27:31.664Z] Event: Seek bar adjusted | Details: {"newTime":1284.85312333}
+[2024-11-24T00:27:31.669Z] Event: Seek bar adjusted | Details: {"newTime":1250.12736324}
+[2024-11-24T00:27:31.678Z] Event: Seek bar adjusted | Details: {"newTime":1215.4016031499998}
+[2024-11-24T00:27:31.689Z] Event: Time updated | Details: {"currentTime":1215.401603}
+[2024-11-24T00:27:31.694Z] Event: Seek bar adjusted | Details: {"newTime":1180.67584306}
+[2024-11-24T00:27:31.711Z] Event: Seek bar adjusted | Details: {"newTime":1111.22432288}
+[2024-11-24T00:27:31.718Z] Event: Seek bar adjusted | Details: {"newTime":1076.49856279}
+[2024-11-24T00:27:31.726Z] Event: Seek bar adjusted | Details: {"newTime":1041.7728026999998}
+[2024-11-24T00:27:31.736Z] Event: Seek bar adjusted | Details: {"newTime":1007.04704261}
+[2024-11-24T00:27:31.742Z] Event: Seek bar adjusted | Details: {"newTime":972.3212825200001}
+[2024-11-24T00:27:31.750Z] Event: Seek bar adjusted | Details: {"newTime":937.5955224300001}
+[2024-11-24T00:27:31.757Z] Event: Seek bar adjusted | Details: {"newTime":902.86976234}
+[2024-11-24T00:27:31.768Z] Event: Seek bar adjusted | Details: {"newTime":833.41824216}
+[2024-11-24T00:27:31.773Z] Event: Seek bar adjusted | Details: {"newTime":798.69248207}
+[2024-11-24T00:27:31.781Z] Event: Seek bar adjusted | Details: {"newTime":763.96672198}
+[2024-11-24T00:27:31.790Z] Event: Seek bar adjusted | Details: {"newTime":729.24096189}
+[2024-11-24T00:27:31.797Z] Event: Seek bar adjusted | Details: {"newTime":659.78944171}
+[2024-11-24T00:27:31.808Z] Event: Seek bar adjusted | Details: {"newTime":625.06368162}
+[2024-11-24T00:27:31.814Z] Event: Seek bar adjusted | Details: {"newTime":590.33792153}
+[2024-11-24T00:27:31.821Z] Event: Seek bar adjusted | Details: {"newTime":520.8864013499999}
+[2024-11-24T00:27:31.832Z] Event: Seek bar adjusted | Details: {"newTime":486.16064126000003}
+[2024-11-24T00:27:31.839Z] Event: Time updated | Details: {"currentTime":486.160641}
+[2024-11-24T00:27:31.839Z] Event: Seek bar adjusted | Details: {"newTime":451.43488117}
+[2024-11-24T00:27:31.846Z] Event: Seek bar adjusted | Details: {"newTime":416.70912108}
+[2024-11-24T00:27:31.865Z] Event: Seek bar adjusted | Details: {"newTime":312.53184081}
+[2024-11-24T00:27:31.870Z] Event: Seek bar adjusted | Details: {"newTime":277.80608072}
+[2024-11-24T00:27:31.878Z] Event: Seek bar adjusted | Details: {"newTime":243.08032063000002}
+[2024-11-24T00:27:31.886Z] Event: Seek bar adjusted | Details: {"newTime":208.35456054}
+[2024-11-24T00:27:31.894Z] Event: Seek bar adjusted | Details: {"newTime":173.62880045}
+[2024-11-24T00:27:31.901Z] Event: Seek bar adjusted | Details: {"newTime":138.90304036}
+[2024-11-24T00:27:31.915Z] Event: Seek bar adjusted | Details: {"newTime":104.17728027}
+[2024-11-24T00:27:31.929Z] Event: Seek bar adjusted | Details: {"newTime":69.45152018}
+[2024-11-24T00:27:31.955Z] Event: Seek bar adjusted | Details: {"newTime":34.72576009}
+[2024-11-24T00:27:31.965Z] Event: Seek bar adjusted | Details: {"newTime":0}
+[2024-11-24T00:27:31.994Z] Event: Time updated | Details: {"currentTime":0}
+[2024-11-24T00:27:32.247Z] Event: Time updated | Details: {"currentTime":0.195587}
+[2024-11-24T00:27:32.517Z] Event: Time updated | Details: {"currentTime":0.472125}
+[2024-11-24T00:27:32.781Z] Event: Time updated | Details: {"currentTime":0.731578}
+[2024-11-24T00:27:32.782Z] Event: Seek bar adjusted | Details: {"newTime":902.86976234}
+[2024-11-24T00:27:32.790Z] Event: Time updated | Details: {"currentTime":902.869762}
+[2024-11-24T00:27:32.862Z] Event: Seek bar adjusted | Details: {"newTime":937.5955224300001}
+[2024-11-24T00:27:32.878Z] Event: Seek bar adjusted | Details: {"newTime":972.3212825200001}
+[2024-11-24T00:27:32.885Z] Event: Seek bar adjusted | Details: {"newTime":1007.04704261}
+[2024-11-24T00:27:32.908Z] Event: Seek bar adjusted | Details: {"newTime":1041.7728026999998}
+[2024-11-24T00:27:32.915Z] Event: Seek bar adjusted | Details: {"newTime":1111.22432288}
+[2024-11-24T00:27:32.922Z] Event: Seek bar adjusted | Details: {"newTime":1180.67584306}
+[2024-11-24T00:27:32.932Z] Event: Seek bar adjusted | Details: {"newTime":1250.12736324}
+[2024-11-24T00:27:32.936Z] Event: Seek bar adjusted | Details: {"newTime":1284.85312333}
+[2024-11-24T00:27:32.943Z] Event: Seek bar adjusted | Details: {"newTime":1354.30464351}
+[2024-11-24T00:27:32.963Z] Event: Seek bar adjusted | Details: {"newTime":1458.48192378}
+[2024-11-24T00:27:32.966Z] Event: Seek bar adjusted | Details: {"newTime":1527.93344396}
+[2024-11-24T00:27:32.978Z] Event: Seek bar adjusted | Details: {"newTime":1562.65920405}
+[2024-11-24T00:27:32.985Z] Event: Seek bar adjusted | Details: {"newTime":1632.11072423}
+[2024-11-24T00:27:32.991Z] Event: Time updated | Details: {"currentTime":1632.110724}
+[2024-11-24T00:27:32.992Z] Event: Seek bar adjusted | Details: {"newTime":1666.83648432}
+[2024-11-24T00:27:32.999Z] Event: Seek bar adjusted | Details: {"newTime":1736.2880045}
+[2024-11-24T00:27:33.017Z] Event: Seek bar adjusted | Details: {"newTime":1840.46528477}
+[2024-11-24T00:27:33.022Z] Event: Seek bar adjusted | Details: {"newTime":1875.1910448600001}
+[2024-11-24T00:27:33.030Z] Event: Seek bar adjusted | Details: {"newTime":1944.6425650400001}
+[2024-11-24T00:27:33.040Z] Event: Seek bar adjusted | Details: {"newTime":2014.09408522}
+[2024-11-24T00:27:33.047Z] Event: Seek bar adjusted | Details: {"newTime":2048.81984531}
+[2024-11-24T00:27:33.054Z] Event: Seek bar adjusted | Details: {"newTime":2118.27136549}
+[2024-11-24T00:27:33.068Z] Event: Seek bar adjusted | Details: {"newTime":2152.99712558}
+[2024-11-24T00:27:33.075Z] Event: Time updated | Details: {"currentTime":2152.997125}
+[2024-11-24T00:27:33.076Z] Event: Seek bar adjusted | Details: {"newTime":2222.44864576}
+[2024-11-24T00:27:33.082Z] Event: Seek bar adjusted | Details: {"newTime":2257.17440585}
+[2024-11-24T00:27:33.096Z] Event: Seek bar adjusted | Details: {"newTime":2326.62592603}
+[2024-11-24T00:27:33.103Z] Event: Seek bar adjusted | Details: {"newTime":2361.35168612}
+[2024-11-24T00:27:33.110Z] Event: Seek bar adjusted | Details: {"newTime":2396.07744621}
+[2024-11-24T00:27:33.117Z] Event: Seek bar adjusted | Details: {"newTime":2430.8032062999996}
+[2024-11-24T00:27:33.141Z] Event: Seek bar adjusted | Details: {"newTime":2500.25472648}
+[2024-11-24T00:27:33.145Z] Event: Seek bar adjusted | Details: {"newTime":2534.98048657}
+[2024-11-24T00:27:33.152Z] Event: Seek bar adjusted | Details: {"newTime":2569.70624666}
+[2024-11-24T00:27:33.153Z] Event: Time updated | Details: {"currentTime":2569.706246}
+[2024-11-24T00:27:33.173Z] Event: Seek bar adjusted | Details: {"newTime":2604.43200675}
+[2024-11-24T00:27:33.179Z] Event: Seek bar adjusted | Details: {"newTime":2639.15776684}
+[2024-11-24T00:27:33.190Z] Event: Seek bar adjusted | Details: {"newTime":2708.60928702}
+[2024-11-24T00:27:33.235Z] Event: Time updated | Details: {"currentTime":2708.609287}
+[2024-11-24T00:27:33.502Z] Event: Time updated | Details: {"currentTime":2708.819474}
+[2024-11-24T00:27:33.654Z] Event: Seek bar adjusted | Details: {"newTime":3194.76992828}
+[2024-11-24T00:27:33.679Z] Event: Time updated | Details: {"currentTime":3194.769928}
+[2024-11-24T00:27:33.923Z] Event: Seek bar adjusted | Details: {"newTime":3229.49568837}
+[2024-11-24T00:27:33.932Z] Event: Time updated | Details: {"currentTime":3229.495688}
+[2024-11-24T00:27:34.034Z] Event: Seek bar adjusted | Details: {"newTime":3264.22144846}
+[2024-11-24T00:27:34.054Z] Event: Time updated | Details: {"currentTime":3264.221448}
+[2024-11-24T00:27:34.166Z] Event: Seek bar adjusted | Details: {"newTime":3298.9472085499997}
+[2024-11-24T00:27:34.218Z] Event: Time updated | Details: {"currentTime":3298.947208}
+[2024-11-24T00:27:34.492Z] Event: Time updated | Details: {"currentTime":3299.170114}
+[2024-11-24T00:27:34.750Z] Event: Time updated | Details: {"currentTime":3299.423844}
+[2024-11-24T00:27:35.015Z] Event: Time updated | Details: {"currentTime":3299.696251}
+[2024-11-24T00:27:35.280Z] Event: Time updated | Details: {"currentTime":3299.956552}
+[2024-11-24T00:27:35.471Z] Event: Time updated | Details: {"currentTime":3300.143702}
+[2024-11-24T00:27:35.470Z] Event: Media playback paused 
